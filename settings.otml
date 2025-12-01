@@ -54,7 +54,6 @@ smartSpellTurn: true
 turnSpellMode: 1
 ignoreSummons: true
 controllerSensitivity: 50
-hotkeyCombo: first
 disableInsider: false
 showPhoneStatus: false
 firstUpdate: false
@@ -68,16 +67,6 @@ game_chat:
 IgnorePlayers:
 OnlyVipListPlayers: false
 IgnoreChannelsPreview:
-windowedResolution:
-  height: 1080
-  width: 1920
-lastChatConfig:
-  size:
-    height: 260
-    width: 588
-bossLifeBarPos:
-  x: 0
-  y: 0
 musicVolume: 5
 masterVolume: 50
 log-errors:
@@ -171,9 +160,6 @@ auto_cast: false
 equipment_tutorial: true
 dungeon_last_mission:
   mode: event
-translation-options:
-  allowErrorWindowUndock: false
-  maxFindLines: 1000
 minimapZoom: 2
 lastChannelsOpen:
   Yzzil:
@@ -184,275 +170,400 @@ viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
     order: 1
     name: Geral
     id: default
+windowedResolution:
+  width: 1920
+  height: 1080
+hotkeys:
+  -
+    action: friends
+    index: 1
+    combo: /
+  -
+    action: mail
+    index: 1
+  -
+    action: feats
+    index: 1
+  -
+    action: stop
+    index: 2
+  -
+    action: report
+    index: 1
+  -
+    action: logout
+    index: 1
+  -
+    action: spell06
+    index: 1
+    combo: Space
+  -
+    action: spell07
+    index: 1
+    combo: Q
+  -
+    action: spell08
+    index: 1
+    combo: R
+  -
+    action: spell09
+    index: 1
+    combo: F
+  -
+    action: spell10
+    index: 1
+    combo: MouseX1
+  -
+    action: item01
+    index: 2
+    combo: NumpadDivide
+  -
+    action: item02
+    index: 2
+    combo: NumpadMultiply
+  -
+    action: emote
+    index: 2
+    combo: NumpadMinus
+  -
+    action: walknorth
+    index: 1
+    combo: Numpad8
+  -
+    action: walkeast
+    index: 1
+    combo: Numpad6
+  -
+    action: walksouth
+    index: 1
+    combo: Numpad2
+  -
+    action: walkwest
+    index: 1
+    combo: Numpad4
+  -
+    action: togglecontwalk
+    index: 1
+  -
+    action: emote
+    index: 1
+    combo:
+  -
+    action: switchcharacter1
+    index: 1
+    combo: '
+  -
+    action: turnnorth
+    index: 1
+    combo: Up
+  -
+    action: turneast
+    index: 1
+    combo: Right
+  -
+    action: turnsouth
+    index: 1
+    combo: Down
+  -
+    action: turnwest
+    index: 1
+    combo: Left
+  -
+    action: stop
+    index: 3
+  -
+    action: pingmap
+    index: 3
+  -
+    action: emote
+    index: 3
+  -
+    action: switchcharacter1
+    index: 3
+    combo: ButtonDPadDown
+useitems:
+  useItem1: 23400
+  useItem2: 0
+hotkeyCombo: third
+translation-options:
+  maxFindLines: 1000
+  allowErrorWindowUndock: false
+lastChatConfig:
+  size:
+    width: 588
+    height: 260
 MDIWindows:
-  container0:
-    isMinimized: false
-    position:
-      x: 1714
-      y: 379
-    isClosed: true
-    mdiDockIndex: 4
-    size:
-      height: 253
-      width: 190
-    isLocked: false
-    parentId: gameRightPanel
   joinWindow:
+    size:
+      width: 189
+      height: 300
+    parentId: gameRightPanel
+    isLocked: false
     isMinimized: false
     position:
-      x: 0
       y: 0
+      x: 0
     mdiDockIndex: 2
     isClosed: true
-    size:
-      height: 300
-      width: 189
-    isLocked: false
-    parentId: gameRightPanel
   vipWindow:
-    isMinimized: false
     position:
-      x: 1714
-      y: 204
-    isClosed: true
-    mdiDockIndex: 1
-    size:
-      height: 174
-      width: 190
-    isLocked: false
+      y: 0
+      x: 0
     parentId: gameRightPanel
+    mdiDockIndex: 1
+    isMinimized: false
+    size:
+      width: 190
+      height: 174
+    isLocked: false
+    isClosed: true
+  container0:
+    position:
+      y: 204
+      x: 1714
+    parentId: gameRightPanel
+    mdiDockIndex: 4
+    isMinimized: false
+    size:
+      width: 190
+      height: 253
+    isLocked: false
+    isClosed: false
+bossLifeBarPos:
+  y: 0
+  x: 0
 window:
+  borderless: false
   maximized: true
   position:
-    x: 277
     y: 156
+    x: 277
   size:
-    height: 1080
     width: 1920
-  borderless: false
+    height: 1080
   fullscreen: false
 sgpproxies:
-  SnhLBm5lV35eRHZx
-    dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 236
-    privPing: 3
-    lastPubPingAtMs: 1764607423140
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1764607259864
-    failedLastConnectPing: false
-    ports:
-      - 7001
-      - 7002
-      - 7003
-      - 7000
-  QnpSGW1lV3tETmt1Yg==
-    dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 13
-    privPing: 0
-    lastPubPingAtMs: 1764607422909
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1764607275798
-    failedLastConnectPing: false
-    ports:
-      - 7000
-      - 7002
-      - 7003
-      - 7001
-  QnVQGWphQGRBQXxtZQY=
-    dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 131
-    privPing: 113
-    lastPubPingAtMs: 1764607275668
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7002
-      - 7003
-      - 7001
-      - 7000
-  SnhLBm5lV35eR3Bx
-    dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 239
-    privPing: 3
-    lastPubPingAtMs: 1764607275776
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7003
-      - 7002
-      - 7001
-      - 7000
-  QnVQGWphQGRBQXxtZQI=
-    dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 127
-    privPing: 113
-    lastPubPingAtMs: 1764607275664
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7003
-      - 7001
-      - 7002
-      - 7000
-  R3tLBm9/SHpDWHd2
-    dataCenter: GyIWQzM0AGceGg==
-    pubPing: 213
-    privPing: 187
-    lastPubPingAtMs: 1764607275750
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7003
-      - 7002
-      - 7000
-      - 7001
-  QnpSGW1lV3tEQmtyYgY=
-    dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 18
-    privPing: 0
-    lastPubPingAtMs: 1764607275554
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7000
-      - 7002
-      - 7003
-      - 7001
-  QnlSGWliTGRBWHR2ZQ==
-    dataCenter: HDsNGi44Fw==
-    pubPing: 161
-    privPing: 121
-    lastPubPingAtMs: 1764607275688
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7001
-      - 7003
-      - 7002
-      - 7000
-  QnpSGW1lV3tEQWt1YA==
-    dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 24
-    privPing: 3
-    lastPubPingAtMs: 1764607275561
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7003
-      - 7000
-      - 7002
-      - 7001
-  RXpLBWliV3tCRmtyYQk=
-    dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 138
-    privPing: 113
-    lastPubPingAtMs: 1764607275675
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7001
-      - 7002
-      - 7003
-      - 7000
-  QnlRGWpgTmRBRmtyZQU=
-    dataCenter: HDsNGjo5Cg==
-    pubPing: 185
-    privPing: 130
-    lastPubPingAtMs: 1764607275722
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7003
-      - 7002
-      - 7001
-      - 7000
-  QnpWGWphQWRJTmtyYQ==
-    dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 169
-    privPing: 113
-    lastPubPingAtMs: 1764607275706
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7001
-      - 7002
-      - 7003
-      - 7000
-  R3hLD2p/S35FWHR0Zw==
-    dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 268
-    privPing: 3
-    lastPubPingAtMs: 1764607275787
-    lastSeenAt: 1764607259
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7000
-      - 7003
-      - 7002
-      - 7001
   QnpWGWpiTWRCQGtyZgQ=
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 186
+    pubPing: 194
     privPing: 133
-    lastPubPingAtMs: 1764607275731
-    lastSeenAt: 1764607259
+    lastPubPingAtMs: 1764608027938
+    lastSeenAt: 1764607548
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
     lastUsedAtMs: 1764607259120
     failedLastConnectPing: false
     ports:
+      - 7000
+      - 7001
+      - 7003
+      - 7002
+  SnhLBm5lV35eRHZx
+    dataCenter: ByUAXzciDSMeEWgwMl8=
+    pubPing: 244
+    privPing: 4
+    lastPubPingAtMs: 1764607903790
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1764607259864
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7003
+      - 7002
+      - 7001
+  QnpSGW1lV3tETmt1Yg==
+    dataCenter: HywRXiwkHS9dBSQs
+    pubPing: 17
+    privPing: 1
+    lastPubPingAtMs: 1764607903164
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1764607275798
+    failedLastConnectPing: false
+    ports:
+      - 7001
+      - 7003
+      - 7002
+      - 7000
+  QnVQGWphQGRBQXxtZQY=
+    dataCenter: HywRXiwkHS9dGDwg
+    pubPing: 128
+    privPing: 113
+    lastPubPingAtMs: 1764608027875
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7001
+      - 7003
+      - 7002
+  QnpSGW1lV3tEQmtyYgY=
+    dataCenter: HywRXiwkHS9dBSQs
+    pubPing: 13
+    privPing: 0
+    lastPubPingAtMs: 1764608115249
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1764607547355
+    failedLastConnectPing: false
+    ports:
+      - 7001
+      - 7003
+      - 7002
+      - 7000
+  QnlSGWliTGRBWHR2ZQ==
+    dataCenter: HDsNGi44Fw==
+    pubPing: 167
+    privPing: 123
+    lastPubPingAtMs: 1764608027916
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7000
       - 7002
       - 7003
       - 7001
+  SnhLBm5lV35eR3Bx
+    dataCenter: ByUAXzciDSMeEWgwMl8=
+    pubPing: 232
+    privPing: 3
+    lastPubPingAtMs: 1764608115095
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1764607547355
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7001
+      - 7002
+      - 7003
+  QnVQGWphQGRBQXxtZQI=
+    dataCenter: HywRXiwkHS9dGDwg
+    pubPing: 137
+    privPing: 113
+    lastPubPingAtMs: 1764608027880
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7002
+      - 7001
+      - 7003
+  R3tLBm9/SHpDWHd2
+    dataCenter: GyIWQzM0AGceGg==
+    pubPing: 212
+    privPing: 187
+    lastPubPingAtMs: 1764608028354
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7001
+      - 7000
+      - 7002
+      - 7003
+  RXpLBWliV3tCRmtyYQk=
+    dataCenter: HywRXiwkHS9dGDwg
+    pubPing: 131
+    privPing: 113
+    lastPubPingAtMs: 1764608027876
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7003
+      - 7002
+      - 7001
+  QnpSGW1lV3tEQWt1YA==
+    dataCenter: HywRXiwkHS9dBSQs
+    pubPing: 21
+    privPing: 3
+    lastPubPingAtMs: 1764608027766
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7001
+      - 7002
+      - 7000
+      - 7003
+  QnlRGWpgTmRBRmtyZQU=
+    dataCenter: HDsNGjo5Cg==
+    pubPing: 184
+    privPing: 127
+    lastPubPingAtMs: 1764608027937
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7001
+      - 7002
+      - 7003
+  QnpWGWphQWRJTmtyYQ==
+    dataCenter: HCMARyo+DyMUEzduPUla
+    pubPing: 177
+    privPing: 113
+    lastPubPingAtMs: 1764608027932
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7003
+      - 7002
+      - 7001
+  R3hLD2p/S35FWHR0Zw==
+    dataCenter: ByUAXzciDSMeEWgwMl8=
+    pubPing: 245
+    privPing: 3
+    lastPubPingAtMs: 1764608028392
+    lastSeenAt: 1764607548
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 0
+    failedLastConnectPing: false
+    ports:
+      - 7001
+      - 7002
+      - 7003
       - 7000
