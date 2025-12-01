@@ -1,0 +1,112 @@
+hotkeys:
+  -
+    combo: Space
+    action: spell06
+    index: 1
+  -
+    combo:
+    action: stop
+    index: 2
+  -
+    combo: Q
+    action: spell07
+    index: 1
+  -
+    combo:
+    action: feats
+    index: 1
+  -
+    combo: R
+    action: spell08
+    index: 1
+  -
+    combo: F
+    action: spell09
+    index: 1
+  -
+    combo: MouseX1
+    action: spell10
+    index: 1
+  -
+    action: helpchannel
+    index: 1
+  -
+    action: openchannel
+    index: 1
+  -
+    action: logout
+    index: 1
+  -
+    combo: /
+    action: friends
+    index: 1
+  -
+    action: mail
+    index: 1
+  -
+    combo: Numpad8
+    action: walknorth
+    index: 1
+  -
+    combo: Numpad6
+    action: walkeast
+    index: 1
+  -
+    combo: Numpad2
+    action: walksouth
+    index: 1
+  -
+    combo: Numpad4
+    action: walkwest
+    index: 1
+  -
+    action: togglecontwalk
+    index: 1
+  -
+    combo: Ctrl+Numpad8
+    action: turnnorth
+    index: 1
+  -
+    combo: Ctrl+Numpad6
+    action: turneast
+    index: 1
+  -
+    combo: Ctrl+Numpad2
+    action: turnsouth
+    index: 1
+  -
+    combo: Ctrl+Numpad4
+    action: turnwest
+    index: 1
+  -
+    combo: Up
+    action: turnnorth
+    index: 3
+  -
+    combo: Right
+    action: turneast
+    index: 3
+  -
+    combo: Down
+    action: turnsouth
+    index: 3
+  -
+    combo: Left
+    action: turnwest
+    index: 3
+  -
+    combo: '
+    action: switchcharacter1
+    index: 1
+  -
+    combo: NumpadDivide
+    action: item01
+    index: 1
+  -
+    combo: NumpadMultiply
+    action: item02
+    index: 1
+  -
+    combo: NumpadMinus
+    action: emote
+    index: 1

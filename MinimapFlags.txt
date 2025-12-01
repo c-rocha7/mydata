@@ -1,0 +1,8544 @@
+MinimapFlags:
+  event_fistoflove_easy:
+    -
+      description: BOMBA NAO PEGA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1032
+        z: 7
+        x: 999
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1026
+        z: 7
+        x: 1016
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1029
+        z: 7
+        x: 1007
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1029
+        z: 7
+        x: 1026
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1022
+        z: 7
+        x: 1024
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1022
+        z: 7
+        x: 1008
+  little_garden:
+    -
+      description: ESCONDERIJO MR.5
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1208
+        z: 6
+        x: 1027
+    -
+      description: SPOT PTERO
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1082
+        z: 6
+        x: 1185
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1292
+        z: 6
+        x: 1190
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1303
+        z: 6
+        x: 1153
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1297
+        z: 6
+        x: 1169
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1289
+        z: 6
+        x: 1151
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1272
+        z: 6
+        x: 1164
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1276
+        z: 6
+        x: 1177
+    -
+      description: ERVA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1272
+        z: 6
+        x: 1190
+    -
+      description: xixi REX
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1223
+        z: 6
+        x: 1022
+    -
+      description: xixi REX
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1232
+        z: 6
+        x: 1043
+    -
+      description: xixi REX
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1238
+        z: 6
+        x: 1010
+    -
+      description: xixi REX
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1268
+        z: 6
+        x: 1022
+    -
+      description: SPOT T-REX
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1186
+        z: 6
+        x: 1016
+    -
+      description: SPOT DE TRICERATOPS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1211
+        z: 6
+        x: 1276
+    -
+      description: 3 BURACO QUEST MARIANE
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1155
+        z: 6
+        x: 1253
+    -
+      description: 2 BURACO QUEST MARIANE
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1084
+        z: 6
+        x: 1057
+    -
+      description: 1 BURACO QUEST MARIANE
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1062
+        z: 6
+        x: 1161
+    -
+      description: ENVENENAR CARNES
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1253
+        z: 6
+        x: 1211
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1287
+        z: 6
+        x: 1266
+    -
+      description: REPTORS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1296
+        z: 6
+        x: 1025
+    -
+      description: BAU STAMINA GL
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1283
+        z: 6
+        x: 1155
+    -
+      description: T-REX
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1153
+        z: 6
+        x: 1095
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1056
+        z: 6
+        x: 1136
+    -
+      description: VER GIGANTES ACHIVIMENT
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1208
+        z: 6
+        x: 1153
+    -
+      description: BOIA DE PESCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 996
+        z: 6
+        x: 1266
+    -
+      description: BOIA DE PESCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 983
+        z: 6
+        x: 1199
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1155
+        z: 6
+        x: 1008
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1075
+        z: 5
+        x: 1092
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1061
+        z: 5
+        x: 1070
+    -
+      description: BURACO TESOURO QUEST
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1235
+        z: 6
+        x: 1297
+    -
+      description: OVOS DE RAPTOR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1236
+        z: 6
+        x: 1160
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1236
+        z: 7
+        x: 1299
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1236
+        z: 7
+        x: 1300
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1236
+        z: 7
+        x: 1298
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1237
+        z: 7
+        x: 1300
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1238
+        z: 7
+        x: 1300
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1238
+        z: 7
+        x: 1299
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1239
+        z: 7
+        x: 1299
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1240
+        z: 7
+        x: 1299
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1240
+        z: 7
+        x: 1298
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1240
+        z: 7
+        x: 1297
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1241
+        z: 7
+        x: 1297
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1242
+        z: 7
+        x: 1297
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1242
+        z: 7
+        x: 1296
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1242
+        z: 7
+        x: 1295
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1241
+        z: 7
+        x: 1295
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1241
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1240
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1239
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1238
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1238
+        z: 7
+        x: 1293
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1237
+        z: 7
+        x: 1293
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1236
+        z: 7
+        x: 1293
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1236
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1236
+        z: 7
+        x: 1295
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1236
+        z: 7
+        x: 1296
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1235
+        z: 7
+        x: 1296
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1234
+        z: 7
+        x: 1296
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1234
+        z: 7
+        x: 1295
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1234
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1233
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1232
+        z: 7
+        x: 1294
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1232
+        z: 7
+        x: 1295
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1232
+        z: 7
+        x: 1296
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1232
+        z: 7
+        x: 1297
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1231
+        z: 7
+        x: 1298
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1232
+        z: 7
+        x: 1298
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1231
+        z: 7
+        x: 1299
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1231
+        z: 7
+        x: 1300
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1232
+        z: 7
+        x: 1300
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1233
+        z: 7
+        x: 1300
+    -
+      description: SPOT REX
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1093
+        z: 6
+        x: 1021
+    -
+      description: SPOT TRICERATOPS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1072
+        z: 6
+        x: 1242
+    -
+      description: SPOT PTERO
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1039
+        z: 6
+        x: 1217
+    -
+      description: SPOT RAPTOR
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1161
+        z: 6
+        x: 1154
+    -
+      description: SPOT RAPTOR
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1270
+        z: 6
+        x: 1159
+    -
+      description: |-
+        madeira 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1060
+        z: 6
+        x: 1265
+    -
+      description: |-
+        madeira 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1044
+        z: 6
+        x: 1258
+    -
+      description: |-
+        madeira 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1076
+        z: 6
+        x: 1280
+    -
+      description: |-
+        madeira 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1086
+        z: 6
+        x: 1281
+    -
+      description: madeira + caixa
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1099
+        z: 6
+        x: 1295
+  east_blue:
+    -
+      description: KEY + CHIP ESTRANHO
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 911
+        z: 7
+        x: 1596
+    -
+      description: CARREGAMENTO PERDIDO
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 880
+        z: 7
+        x: 1618
+    -
+      description: TESOURO RECKHAM
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 7
+        x: 1558
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1716
+        z: 7
+        x: 148
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1522
+        z: 7
+        x: 459
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1453
+        z: 7
+        x: 148
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1266
+        z: 7
+        x: 232
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1100
+        z: 7
+        x: 675
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1225
+        z: 7
+        x: 994
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1231
+        z: 7
+        x: 1189
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1064
+        z: 7
+        x: 1145
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1107
+        z: 7
+        x: 1288
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 966
+        z: 7
+        x: 1366
+    -
+      description: Mohmoo
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1206
+        z: 7
+        x: 436
+    -
+      description: Marine Lab SM
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1490
+        z: 7
+        x: 140
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 865
+        z: 7
+        x: 1580
+  jaya:
+    -
+      description: bellamy BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1050
+        z: 5
+        x: 1013
+    -
+      description: bellamy BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1078
+        z: 4
+        x: 1046
+    -
+      description: bellamy BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1054
+        z: 4
+        x: 1043
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1104
+        z: 4
+        x: 1040
+    -
+      description: SPOT PIRATAS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1109
+        z: 5
+        x: 1015
+    -
+      description: pegar tortas
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1094
+        z: 5
+        x: 962
+    -
+      description: |-
+        coletar cerejas 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1138
+        z: 5
+        x: 1016
+    -
+      description: INVESTIGAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1080
+        z: 5
+        x: 941
+    -
+      description: SPOT PIRATAS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1068
+        z: 4
+        x: 1053
+    -
+      description: chave para entrar
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1078
+        z: 5
+        x: 996
+    -
+      description: barril de licor
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1049
+        z: 4
+        x: 1080
+    -
+      description: BAU STAMINA GL
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1139
+        z: 5
+        x: 1007
+  whiskey_peak:
+    -
+      description: mr.5 BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 981
+        z: 5
+        x: 963
+    -
+      description: mr.5 BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 929
+        z: 5
+        x: 984
+    -
+      description: mr.5 BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 935
+        z: 5
+        x: 947
+    -
+      description: carue
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 857
+        z: 5
+        x: 1198
+    -
+      description: SPOT FIXO MISSMONDAY
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 885
+        z: 5
+        x: 1196
+    -
+      description: NPC ÁLCOOL/ÓLEO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 986
+        z: 5
+        x: 1075
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 850
+        z: 5
+        x: 972
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 867
+        z: 5
+        x: 977
+    -
+      description: MARIDO BÊBADO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 986
+        z: 6
+        x: 1093
+    -
+      description: LADRÃO DE CARTAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 903
+        z: 4
+        x: 1169
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 909
+        z: 4
+        x: 1165
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 915
+        z: 3
+        x: 1147
+    -
+      description: COMIDA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 894
+        z: 5
+        x: 1113
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 888
+        z: 4
+        x: 1155
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 948
+        z: 5
+        x: 1163
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 954
+        z: 5
+        x: 1150
+    -
+      description: FOGOS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1019
+        z: 5
+        x: 1096
+    -
+      description: FOGOS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1004
+        z: 5
+        x: 1076
+    -
+      description: FOGOS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1019
+        z: 5
+        x: 1079
+    -
+      description: FOGOS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1019
+        z: 5
+        x: 1111
+    -
+      description: FOGOS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1007
+        z: 5
+        x: 1116
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 980
+        z: 5
+        x: 1110
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 974
+        z: 4
+        x: 1077
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 971
+        z: 5
+        x: 1115
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 950
+        z: 5
+        x: 1131
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 917
+        z: 5
+        x: 1136
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 931
+        z: 5
+        x: 1147
+    -
+      description: CARTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 933
+        z: 5
+        x: 1158
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 883
+        z: 6
+        x: 991
+    -
+      description: QUEBRAR PAREDE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 976
+        z: 5
+        x: 1015
+    -
+      description: ATIRADOR CANHÃO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 946
+        z: 4
+        x: 1155
+    -
+      description: |-
+        GORDÃO 
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 885
+        z: 4
+        x: 1153
+    -
+      description: SM MINOTAURO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 841
+        z: 5
+        x: 976
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 940
+        z: 3
+        x: 967
+    -
+      description: BAU STAMINA GL
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 945
+        z: 3
+        x: 957
+    -
+      description: SM DE STEALTH
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 883
+        z: 5
+        x: 1177
+  mission_smoker_hard:
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1068
+        z: 4
+        x: 1166
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1095
+        z: 4
+        x: 1166
+  gunkan_island_2:
+    -
+      description: ERIC BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1094
+        z: 5
+        x: 1075
+    -
+      description: ERIC BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1085
+        z: 5
+        x: 1054
+    -
+      description: Receita
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 994
+        z: 3
+        x: 920
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1019
+        z: 5
+        x: 1136
+    -
+      description: DRAGÃOZINHO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1032
+        z: 4
+        x: 1114
+    -
+      description: DRAGÃOZINHO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1096
+        z: 5
+        x: 1073
+    -
+      description: DRAGÃOZINHO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 1091
+    -
+      description: DRAGÃOZINHO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1031
+        z: 4
+        x: 1026
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1082
+        z: 5
+        x: 1037
+    -
+      description: DRAGÃOZINHO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1076
+        z: 5
+        x: 991
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1023
+        z: 3
+        x: 1085
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1001
+        z: 3
+        x: 1095
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1008
+        z: 3
+        x: 1122
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1013
+        z: 3
+        x: 1145
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 981
+        z: 3
+        x: 932
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 969
+        z: 2
+        x: 960
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 982
+        z: 2
+        x: 1041
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 993
+        z: 2
+        x: 1031
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1004
+        z: 3
+        x: 926
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 998
+        z: 3
+        x: 969
+  lost_island:
+    -
+      description: SANTUARIO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 942
+        z: 3
+        x: 958
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 960
+        z: 5
+        x: 953
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1023
+        z: 5
+        x: 961
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 994
+        z: 4
+        x: 963
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 992
+        z: 5
+        x: 988
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1005
+        z: 5
+        x: 986
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1006
+        z: 4
+        x: 993
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1014
+        z: 4
+        x: 1012
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 983
+        z: 4
+        x: 1011
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 988
+        z: 3
+        x: 1023
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 958
+        z: 2
+        x: 1036
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 937
+        z: 3
+        x: 1025
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 944
+        z: 3
+        x: 1000
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 961
+        z: 3
+        x: 999
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 974
+        z: 2
+        x: 985
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 978
+        z: 3
+        x: 977
+    -
+      description: ESCRITURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 967
+        z: 2
+        x: 1014
+    -
+      description: FAZER PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 973
+        z: 2
+        x: 1006
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 972
+        z: 2
+        x: 1002
+  quest_nihon_class:
+    -
+      description: RICK
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1061
+        z: 5
+        x: 1043
+    -
+      description: MADEIRA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1022
+        z: 5
+        x: 1010
+    -
+      description: KOSUO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1050
+        z: 5
+        x: 1004
+    -
+      description: menma
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1022
+        z: 5
+        x: 1033
+    -
+      description: yozu
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1042
+        z: 5
+        x: 1026
+    -
+      description: MADEIRA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1065
+        z: 5
+        x: 1024
+    -
+      description: MISAKA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1033
+        z: 5
+        x: 1041
+  jaya_2:
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1035
+        z: 5
+        x: 1048
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1082
+        z: 5
+        x: 1132
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1079
+        z: 5
+        x: 1046
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1069
+        z: 6
+        x: 1045
+    -
+      description: SPOT BIRD
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1184
+        z: 5
+        x: 1094
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1189
+        z: 5
+        x: 1126
+    -
+      description: SPOT BIRD
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1138
+        z: 4
+        x: 1094
+    -
+      description: SPOT SPIDER
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1059
+        z: 5
+        x: 1089
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1021
+        z: 4
+        x: 1082
+    -
+      description: SPOT GIANT SPIDER
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1065
+        z: 6
+        x: 1076
+    -
+      description: galho
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 981
+        z: 5
+        x: 1097
+    -
+      description: SPOT SPIDER/MANTIS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1053
+        z: 4
+        x: 1088
+    -
+      description: galho
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 993
+        z: 5
+        x: 1086
+    -
+      description: galho
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 985
+        z: 5
+        x: 1075
+    -
+      description: galho
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 976
+        z: 5
+        x: 1071
+    -
+      description: galho
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1004
+        z: 5
+        x: 1070
+    -
+      description: item do cricket
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 994
+        z: 5
+        x: 1064
+  gunkan_island:
+    -
+      description: BAÚ
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1001
+        z: 3
+        x: 1095
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 982
+        z: 2
+        x: 1041
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 968
+        z: 2
+        x: 961
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 992
+        z: 2
+        x: 1031
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1008
+        z: 3
+        x: 1122
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1001
+        z: 3
+        x: 1093
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1023
+        z: 3
+        x: 1085
+    -
+      description: RECEITA ENTERRADA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 994
+        z: 3
+        x: 921
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 975
+        z: 2
+        x: 953
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 981
+        z: 3
+        x: 931
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1004
+        z: 3
+        x: 926
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 998
+        z: 3
+        x: 969
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1013
+        z: 3
+        x: 1144
+  conomi_island:
+    -
+      description: Carrinho com pedra
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1075
+        z: 5
+        x: 1023
+    -
+      description: Carrinho com pedra
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1109
+        z: 5
+        x: 1057
+    -
+      description: Corda
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1082
+        z: 6
+        x: 1156
+    -
+      description: 1 pot xp médio
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1104
+        z: 6
+        x: 1166
+    -
+      description: Buraco
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1082
+        z: 5
+        x: 1156
+    -
+      description: 3 pot xp médio
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1041
+        z: 7
+        x: 1091
+    -
+      description: Corda
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1088
+        z: 7
+        x: 1043
+    -
+      description: 1 pot xp médio
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1043
+        z: 6
+        x: 1065
+    -
+      description: Buraco
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1088
+        z: 6
+        x: 1043
+    -
+      description: Carro com pedras
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1078
+        z: 6
+        x: 1072
+    -
+      description: Corda
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1053
+        z: 6
+        x: 1089
+    -
+      description: Buraco
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1053
+        z: 5
+        x: 1089
+    -
+      description: Carro com pedras
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1039
+        z: 5
+        x: 1090
+    -
+      description: Carro com pedras
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 1052
+    -
+      description: Carro com pedras
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1078
+        z: 5
+        x: 1080
+    -
+      description: SPOT BABY MOLE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1084
+        z: 5
+        x: 1055
+    -
+      description: SPOT BABY MOLE + MOLE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1081
+        z: 6
+        x: 1085
+    -
+      description: SPOT MOLE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1071
+        z: 7
+        x: 1062
+  invasion_rainbase_scorpion:
+    -
+      description: VIDA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1116
+        z: 5
+        x: 1169
+    -
+      description: VIDA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1096
+        z: 5
+        x: 1171
+  invasion_katorea_worms:
+    -
+      description: BURACO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1078
+        z: 5
+        x: 1087
+    -
+      description: BURACO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1091
+        z: 5
+        x: 1097
+    -
+      description: BURACO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1081
+        z: 5
+        x: 1053
+    -
+      description: BURACO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1074
+        z: 5
+        x: 1066
+    -
+      description: VIDA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1078
+        z: 5
+        x: 1058
+  marine_base:
+    -
+      description: denden strawberry
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1016
+        z: 3
+        x: 1015
+    -
+      description: |-
+        INVESTIGAR 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1043
+        z: 5
+        x: 1007
+    -
+      description: INVESTIGAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1033
+        z: 5
+        x: 1009
+    -
+      description: BISCOITO DO GARP
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1022
+        z: 5
+        x: 1095
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 921
+        z: 4
+        x: 1152
+    -
+      description: 3
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 933
+        z: 2
+        x: 1142
+    -
+      description: 4
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 933
+        z: 2
+        x: 1146
+    -
+      description: 2
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 929
+        z: 2
+        x: 1146
+    -
+      description: 1
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 929
+        z: 2
+        x: 1142
+    -
+      description: ENTREGAR O RETRATO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 929
+        z: 4
+        x: 1139
+    -
+      description: RETRATO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 925
+        z: 3
+        x: 1147
+    -
+      description: LOCKPICK DA MARINHA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 920
+        z: 4
+        x: 1143
+    -
+      description: DIÁRIO DO RECRUTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 924
+        z: 3
+        x: 1139
+    -
+      description: USAR CHAVE AZUL
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 931
+        z: 3
+        x: 1155
+    -
+      description: INTERAGIR PARA A PORTA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 937
+        z: 3
+        x: 1143
+    -
+      description: CHAVE AZUL
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 937
+        z: 3
+        x: 1140
+    -
+      description: INVESTIGAR 1
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 931
+        z: 4
+        x: 1152
+    -
+      description: INVESTIGAR 3 (clicar 2x)
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 926
+        z: 4
+        x: 1157
+    -
+      description: INVESTIGAR 2
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 926
+        z: 4
+        x: 1156
+    -
+      description: INVESTIGAR 1
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 926
+        z: 4
+        x: 1151
+    -
+      description: PORTO
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1001
+        z: 5
+        x: 1144
+    -
+      description: ESTANTES PARA LIMPAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1000
+        z: 1
+        x: 997
+    -
+      description: ESTANTES PARA LIMPAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 999
+        z: 1
+        x: 1013
+    -
+      description: ESTANTES PARA LIMPAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 999
+        z: 2
+        x: 1008
+    -
+      description: ESTANTES PARA LIMPAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 993
+        z: 2
+        x: 990
+    -
+      description: ESTANTES PARA LIMPAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 992
+        z: 3
+        x: 989
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 4
+        x: 977
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 977
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 4
+        x: 1004
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 4
+        x: 1000
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 1004
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 4
+        x: 1027
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 1027
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 1023
+    -
+      description: CHAVE HELMEPPO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1004
+        z: 2
+        x: 998
+    -
+      description: COPIADORA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 967
+        z: 4
+        x: 1023
+    -
+      description: CRAFTER ARMA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 984
+        z: 5
+        x: 1022
+    -
+      description: CREDENCIAL
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 963
+        z: 5
+        x: 1068
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 963
+        z: 5
+        x: 1079
+    -
+      description: |-
+        BAU 
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 993
+        z: 1
+        x: 995
+    -
+      description: BIG BOSS MARINHA PERIGO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 993
+        z: 1
+        x: 992
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1034
+        z: 5
+        x: 1124
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1031
+        z: 5
+        x: 1124
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1034
+        z: 4
+        x: 1123
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1013
+        z: 5
+        x: 1124
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1010
+        z: 5
+        x: 1124
+    -
+      description: CANHÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1010
+        z: 4
+        x: 1124
+    -
+      description: SUPRIMENTO DE COMIDA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1068
+        z: 5
+        x: 1015
+    -
+      description: SUPRIMENTO DE COMIDA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1021
+        z: 5
+        x: 1144
+    -
+      description: INVESTIGAR DEPOIS DO NPC
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 994
+        z: 5
+        x: 1037
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1031
+        z: 3
+        x: 1011
+  invasion_katorea_sandsailors:
+    -
+      description: VIDA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1086
+        z: 5
+        x: 1050
+    -
+      description: VIDA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1057
+        z: 5
+        x: 1064
+  sabaody_archipelago:
+    -
+      category: player_flags
+      description: BAU
+      style: MinimapFlagChest
+      position:
+        z: 5
+        y: 983
+        x: 1022
+    -
+      category: player_flags
+      description: USAR KEY DROPADA MARINE COMMANDER
+      style: MinimapFlagLoot
+      position:
+        z: 5
+        y: 1132
+        x: 914
+    -
+      category: player_flags
+      description: SELA
+      style: MinimapFlagLoot
+      position:
+        z: 5
+        y: 1131
+        x: 918
+    -
+      category: player_flags
+      description: BAU
+      style: MinimapFlagChest
+      position:
+        y: 1139
+        z: 5
+        x: 1191
+    -
+      category: player_flags
+      description: Marine Lieutenant Hunt
+      style: MinimapFlagSquid
+      position:
+        y: 1177
+        z: 5
+        x: 1148
+    -
+      category: player_flags
+      description: Marine Lieutenant Hunt
+      style: MinimapFlagSquid
+      position:
+        y: 1136
+        z: 5
+        x: 1081
+    -
+      category: player_flags
+      description: Farm de Pinha Aquatica diária
+      style: MinimapFlagLoot
+      position:
+        y: 992
+        z: 5
+        x: 1076
+    -
+      category: player_flags
+      description: Liberar hunt de pinha aquatica
+      style: MinimapFlagLoot
+      position:
+        y: 1024
+        z: 5
+        x: 1130
+    -
+      category: player_flags
+      description: BAU
+      style: MinimapFlagChest
+      position:
+        y: 920
+        z: 5
+        x: 871
+    -
+      category: player_flags
+      description: NPC DA RAÇÃO
+      style: MinimapFlagLoot
+      position:
+        y: 1038
+        z: 5
+        x: 1128
+    -
+      category: player_flags
+      description: BAU
+      style: MinimapFlagChest
+      position:
+        y: 1074
+        z: 5
+        x: 995
+    -
+      category: player_flags
+      description: Pirate Hunt
+      style: MinimapFlagSkull
+      position:
+        y: 1034
+        z: 5
+        x: 964
+    -
+      category: player_flags
+      description: Pirate hunt
+      style: MinimapFlagSkull
+      position:
+        y: 1084
+        z: 5
+        x: 1077
+    -
+      category: player_flags
+      description: Pirata Hunt
+      style: MinimapFlagSkull
+      position:
+        y: 1045
+        z: 5
+        x: 1080
+    -
+      category: player_flags
+      description: PERGAMINHO FERREIRA
+      style: MinimapFlagLoot
+      position:
+        y: 900
+        z: 5
+        x: 1011
+    -
+      category: player_flags
+      description: Elite Bounty Hunter
+      style: MinimapFlagWarning
+      position:
+        y: 900
+        z: 5
+        x: 898
+    -
+      category: player_flags
+      description: Elite Bounty Hunter
+      style: MinimapFlagWarning
+      position:
+        y: 888
+        z: 5
+        x: 963
+    -
+      category: player_flags
+      description: Elite Bounty Hunter
+      style: MinimapFlagWarning
+      position:
+        y: 945
+        z: 5
+        x: 958
+    -
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 939
+        z: 5
+        x: 1091
+    -
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 939
+        z: 5
+        x: 1019
+    -
+      category: player_flags
+      description: Bounty Hunter hunt
+      style: MinimapFlagLever
+      position:
+        y: 936
+        z: 5
+        x: 1091
+    -
+      category: player_flags
+      description: Bounty Hunter hunt
+      style: MinimapFlagLever
+      position:
+        y: 936
+        z: 5
+        x: 1019
+    -
+      category: player_flags
+      description: Devedor escondido
+      style: MinimapFlagLoot
+      position:
+        y: 979
+        z: 5
+        x: 1032
+    -
+      category: player_flags
+      description: Pirate Hunt
+      style: MinimapFlagLever
+      position:
+        y: 998
+        z: 5
+        x: 1026
+    -
+      category: player_flags
+      description: DESCER PARA LAWLESS
+      style: MinimapFlagLoot
+      position:
+        y: 938
+        z: 5
+        x: 979
+    -
+      category: player_flags
+      description: BAU
+      style: MinimapFlagChest
+      position:
+        y: 961
+        z: 5
+        x: 1078
+    -
+      category: player_flags
+      description: BAU
+      style: MinimapFlagChest
+      position:
+        y: 1048
+        z: 5
+        x: 773
+    -
+      category: player_flags
+      description: Marine Lieutenant Hunt
+      style: MinimapFlagSquid
+      position:
+        y: 1102
+        z: 5
+        x: 1145
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1174
+        z: 5
+        x: 1046
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1182
+        z: 5
+        x: 981
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1152
+        z: 5
+        x: 919
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1162
+        z: 5
+        x: 944
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1132
+        z: 5
+        x: 1010
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1079
+        z: 5
+        x: 1016
+    -
+      category: player_flags
+      description: Marine Commander
+      style: MinimapFlagWarning
+      position:
+        y: 1098
+        z: 5
+        x: 966
+    -
+      category: player_flags
+      description: Pirate Captain
+      style: MinimapFlagWarning
+      position:
+        y: 1105
+        z: 5
+        x: 912
+    -
+      category: player_flags
+      description: Pirate Captain
+      style: MinimapFlagWarning
+      position:
+        y: 1090
+        z: 5
+        x: 863
+    -
+      category: player_flags
+      description: Pirate Captain
+      style: MinimapFlagWarning
+      position:
+        y: 1079
+        z: 5
+        x: 798
+    -
+      category: player_flags
+      description: Pirate Captain
+      style: MinimapFlagWarning
+      position:
+        y: 1110
+        z: 5
+        x: 823
+    -
+      category: player_flags
+      description: Pirate Captain
+      style: MinimapFlagWarning
+      position:
+        y: 1031
+        z: 5
+        x: 868
+    -
+      category: player_flags
+      description: Pirate Captain
+      style: MinimapFlagWarning
+      position:
+        y: 1047
+        z: 5
+        x: 887
+  quest_twin_baroqueShip:
+    -
+      description: CARGA NONORIO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1027
+        z: 7
+        x: 1036
+  spider_island:
+    -
+      description: Camera quebrada
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 955
+        z: 5
+        x: 1097
+    -
+      description: spot spider
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1001
+        z: 7
+        x: 1059
+    -
+      description: spot spider
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 985
+        z: 6
+        x: 1083
+    -
+      description: MAPA DOUTOR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1039
+        z: 5
+        x: 1095
+    -
+      description: 2 Pot Medium + Bracelete + Bolsa de Moeda
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1035
+        z: 5
+        x: 1038
+    -
+      description: 2 Pot Medium + Band Aind Pequeno
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 931
+        z: 5
+        x: 1068
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 958
+        z: 5
+        x: 1086
+    -
+      description: Spider
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1033
+        z: 4
+        x: 1046
+    -
+      description: Spider
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 994
+        z: 4
+        x: 1066
+    -
+      description: Talisma LvL 60
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 983
+        z: 7
+        x: 1080
+    -
+      description: GIANT SPIDER!!!!
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 978
+        z: 7
+        x: 1079
+    -
+      description: OVO QUESTLINE MENINA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1003
+        z: 5
+        x: 1023
+    -
+      description: GRAVETO QUESTLINE MENINA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 955
+        z: 5
+        x: 1056
+  kuraigana_island:
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 893
+        z: 5
+        x: 1286
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 832
+        z: 4
+        x: 1401
+    -
+      description: BOSS HUNT
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 834
+        z: 4
+        x: 1394
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 931
+        z: 5
+        x: 1508
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1017
+        z: 5
+        x: 1489
+    -
+      description: Humandrill Warrior HUNT
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 938
+        z: 4
+        x: 1476
+    -
+      description: Humandrill Warrior
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 928
+        z: 4
+        x: 1482
+    -
+      description: Humandrill Warrior hunt
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 966
+        z: 4
+        x: 1406
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 878
+        z: 4
+        x: 1308
+    -
+      description: BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 822
+        z: 5
+        x: 1463
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 797
+        z: 5
+        x: 1453
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 802
+        z: 5
+        x: 1463
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 805
+        z: 5
+        x: 1469
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 809
+        z: 5
+        x: 1477
+    -
+      description: BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 834
+        z: 5
+        x: 1492
+    -
+      description: Humandrill normais
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1041
+        z: 5
+        x: 1411
+    -
+      description: Humandrill normais
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1009
+        z: 4
+        x: 1361
+    -
+      description: Humandrill ZORO
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 944
+        z: 5
+        x: 1357
+    -
+      description: Humandrill Warrior
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 959
+        z: 5
+        x: 1519
+    -
+      description: Humandrill Warrior
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 965
+        z: 5
+        x: 1520
+  war_whisky:
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1076
+        z: 5
+        x: 1044
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1061
+        z: 5
+        x: 1030
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1072
+        z: 5
+        x: 1014
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1077
+        z: 4
+        x: 1044
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1062
+        z: 4
+        x: 1031
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1073
+        z: 4
+        x: 1015
+  loguetown:
+    -
+      description: KING SLIME
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1020
+        z: 5
+        x: 1107
+    -
+      description: PROBLEMA ESGOTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1137
+        z: 5
+        x: 1286
+    -
+      description: PROBLEMA ESGOTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1104
+        z: 5
+        x: 1000
+    -
+      description: PROBLEMA ESGOTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1050
+        z: 5
+        x: 1125
+    -
+      description: PROBLEMA ESGOTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1113
+        z: 5
+        x: 1168
+    -
+      description: PROBLEMA ESGOTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1135
+        z: 5
+        x: 1123
+    -
+      description: CAIXA PARA PASSAGEM
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1062
+        z: 4
+        x: 1195
+    -
+      description: LURA ATÉ AQUI
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1142
+        z: 4
+        x: 1036
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1049
+        z: 6
+        x: 1243
+    -
+      description: Minerio
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1120
+        z: 3
+        x: 1062
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1063
+        z: 6
+        x: 1244
+    -
+      description: 2 Pot. Medium + 2 Bracelete + 01 Bolsa de Moedas
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1045
+        z: 6
+        x: 1243
+    -
+      description: UP 58+ W/HEAL
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1125
+        z: 5
+        x: 1268
+    -
+      description: UP 65-70 PT C/3
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1052
+        z: 5
+        x: 1166
+    -
+      description: Tower Marine
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1125
+        z: 4
+        x: 1085
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1061
+        z: 6
+        x: 1063
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1079
+        z: 5
+        x: 1085
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1116
+        z: 3
+        x: 1066
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1125
+        z: 3
+        x: 1070
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1119
+        z: 4
+        x: 1226
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1131
+        z: 5
+        x: 1201
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1121
+        z: 5
+        x: 1289
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1114
+        z: 5
+        x: 1210
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1142
+        z: 5
+        x: 1273
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1101
+        z: 5
+        x: 1181
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1082
+        z: 5
+        x: 1136
+    -
+      description: Piratas
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1026
+        z: 5
+        x: 1204
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1054
+        z: 5
+        x: 1239
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1076
+        z: 5
+        x: 1186
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1103
+        z: 5
+        x: 1270
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1087
+        z: 5
+        x: 1302
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1098
+        z: 5
+        x: 1114
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1126
+        z: 5
+        x: 1098
+    -
+      description: 2 Pot. Medium+8 Bracelete de ouro
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1065
+        z: 5
+        x: 1062
+    -
+      description: 2 Pot Stamina
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1050
+        z: 2
+        x: 1071
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1063
+        z: 6
+        x: 1062
+    -
+      description: Tower Marine
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1049
+        z: 2
+        x: 1070
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1014
+        z: 5
+        x: 1167
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1082
+        z: 5
+        x: 1089
+    -
+      description: Tower Marine
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1033
+        z: 2
+        x: 1034
+    -
+      description: Boss Alvida/Buggy
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1052
+        z: 5
+        x: 1241
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1079
+        z: 5
+        x: 1066
+    -
+      description: COZINHA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1135
+        z: 4
+        x: 1127
+    -
+      description: BIBLIOTECA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1044
+        z: 4
+        x: 1143
+    -
+      description: BILY MCSHOTY
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1044
+        z: 4
+        x: 1215
+    -
+      description: PASSAGEM HUNT MARINHEIROS
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1064
+        z: 4
+        x: 1139
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1073
+        z: 2
+        x: 1071
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1052
+        z: 2
+        x: 1047
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1039
+        z: 2
+        x: 1064
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1028
+        z: 2
+        x: 1047
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1032
+        z: 2
+        x: 1027
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1043
+        z: 2
+        x: 1012
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1028
+        z: 2
+        x: 996
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1061
+        z: 2
+        x: 996
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1081
+        z: 2
+        x: 991
+    -
+      description: CARTAZ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1062
+        z: 2
+        x: 1029
+    -
+      description: TESOURO MYSTERIOS MAN
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1032
+        z: 2
+        x: 1091
+    -
+      description: SPOT MARINES
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1125
+        z: 4
+        x: 1045
+    -
+      description: SPOT PIRATAS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1065
+        z: 4
+        x: 1222
+  amazon_lily:
+    -
+      description: POSSIVEL BOSS IRMÃ HANCOCK
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1174
+        z: 4
+        x: 1150
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 966
+        z: 5
+        x: 1202
+    -
+      description: KING COBRA HUNT
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1021
+        z: 5
+        x: 1230
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 997
+        z: 5
+        x: 981
+    -
+      description: BLACK PANTHER HUNT
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1195
+        z: 5
+        x: 1255
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1079
+        z: 5
+        x: 1166
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1172
+        z: 4
+        x: 1176
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1263
+        z: 5
+        x: 1134
+    -
+      description: Javali hunt
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1004
+        z: 5
+        x: 1028
+    -
+      description: JAVALI HUNT
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 970
+        z: 4
+        x: 1057
+    -
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1016
+        z: 5
+        x: 966
+    -
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1032
+        z: 4
+        x: 983
+    -
+      description: KUJA COMMANDER
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1170
+        z: 5
+        x: 1031
+    -
+      description: KUJA HUNT
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1109
+        z: 5
+        x: 1069
+    -
+      description: KUJA COMMANDER BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1185
+        z: 4
+        x: 1123
+    -
+      description: |-
+        KUJA COMMANDER 
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1164
+        z: 4
+        x: 1193
+  raid_skypiea:
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1259
+        z: 6
+        x: 1275
+    -
+      description: QUEBRAR PAREDE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1246
+        z: 6
+        x: 1358
+    -
+      description: KAMIKIRI BOSS
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1300
+        z: 6
+        x: 1388
+    -
+      description: KAMIKIRI PONTE
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1298
+        z: 5
+        x: 1406
+    -
+      description: PONTE PARA O BRAUM
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1329
+        z: 6
+        x: 1286
+  arlong_park:
+    -
+      description: SPOT BABY OCTOPUS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1033
+        z: 9
+        x: 954
+    -
+      description: SPOT BABY OCTOPUS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 980
+        z: 8
+        x: 1119
+    -
+      description: SPOT FISHMAN
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1077
+        z: 8
+        x: 1028
+    -
+      description: SPOT FISHMAN
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1027
+        z: 8
+        x: 979
+    -
+      description: SPOT FISHMAN
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1077
+        z: 5
+        x: 930
+    -
+      description: SPOT FISHMAN
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1010
+        z: 5
+        x: 933
+    -
+      description: SPOT FISHMAN
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 988
+        z: 5
+        x: 1024
+    -
+      description: SPOT FISHMAN
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1044
+        z: 5
+        x: 999
+    -
+      description: SPOT PANTERA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 944
+        z: 5
+        x: 1064
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1064
+        z: 5
+        x: 1260
+    -
+      description: SPOT ALLIGATOR
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 991
+        z: 5
+        x: 1104
+    -
+      description: SPOT ALLIGATOR
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1062
+        z: 5
+        x: 1167
+    -
+      description: SPOT ALLIGATOR
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 997
+        z: 5
+        x: 1203
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 998
+        z: 5
+        x: 1309
+    -
+      description: SPOT PANTERA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 805
+        z: 5
+        x: 1188
+    -
+      description: SPOT PANTERA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 900
+        z: 5
+        x: 1206
+    -
+      description: PEÇAS ARMAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 927
+        z: 5
+        x: 1311
+    -
+      description: PEÇAS ARMAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 993
+        z: 5
+        x: 1267
+    -
+      description: 1 pot xp medium+ 2 pot pequeno
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1058
+        z: 9
+        x: 1009
+    -
+      description: 1 Pot. Medium + 2 Pot. Pequeno + 2 Bandagem
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 971
+        z: 5
+        x: 902
+    -
+      description: 1 Pot. Medium +  2 Pot. Pequeno + Bolsa de Moeda
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1089
+        z: 5
+        x: 924
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 925
+        z: 3
+        x: 1291
+    -
+      description: PEÇAS ARMAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1091
+        z: 5
+        x: 1261
+    -
+      description: PEÇAS ARMAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 991
+        z: 5
+        x: 1337
+    -
+      description: ENTRADA BAU
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 923
+        z: 5
+        x: 1039
+    -
+      description: POT STAMINA
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 923
+        z: 3
+        x: 1295
+    -
+      description: 2 Pot. Medium + 4 Pot. Pequena + 3 Bolsa  de Jóias
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 877
+        z: 5
+        x: 1061
+    -
+      description: Arlong
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 976
+        z: 5
+        x: 900
+    -
+      description: 2 Pot. Pequeno + 1 Pot medium + 3 Bife Grelhado
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1073
+        z: 5
+        x: 1169
+    -
+      description: Hatchan
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1038
+        z: 5
+        x: 920
+    -
+      description: PEÇAS ARMAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1064
+        z: 5
+        x: 1309
+  enies_lobby:
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1037
+        z: 4
+        x: 1386
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1045
+        z: 4
+        x: 1332
+    -
+      description: BOSS LUCCI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1028
+        z: 4
+        x: 1347
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1111
+        z: 4
+        x: 1357
+  invasion_nanohana_dugong:
+    -
+      description: VIDA
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1059
+        z: 5
+        x: 1093
+  baratie:
+    -
+      description: PEIXES
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1117
+        z: 5
+        x: 1157
+    -
+      description: PEIXES
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1067
+        z: 5
+        x: 1153
+    -
+      description: SPOT PIRANHA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1016
+        z: 4
+        x: 1106
+    -
+      description: SPOT SHARK + PIRANHA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1058
+        z: 4
+        x: 1252
+    -
+      description: SPOT SHARK
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1134
+        z: 5
+        x: 1253
+    -
+      description: Peixes
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 999
+        z: 4
+        x: 1105
+    -
+      description: 01 Pot. Medium + 02 Barbatana de Tubarão Grelhado
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1164
+        z: 5
+        x: 1282
+    -
+      description: 01 Pot. Medium +  10 Peixes Crus
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1114
+        z: 6
+        x: 1175
+    -
+      description: PEIXES
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1046
+        z: 4
+        x: 1050
+    -
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1112
+        z: 6
+        x: 1181
+    -
+      description: PEIXES
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1017
+        z: 5
+        x: 1145
+    -
+      description: LIVRO ZEFF
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1034
+        z: 4
+        x: 1126
+  water7:
+    -
+      description: POSSIVEL SPAWN BLUENO BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1015
+        z: 5
+        x: 1183
+    -
+      description: POSSIVEL SPAWN KAKU BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1197
+        z: 5
+        x: 1201
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1185
+        z: 5
+        x: 1247
+    -
+      description: Worker hunt
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1129
+        z: 5
+        x: 1190
+    -
+      description: Worker Hunt
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1172
+        z: 5
+        x: 1198
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1199
+        z: 5
+        x: 1255
+    -
+      description: Capinter Boss hunt
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1203
+        z: 5
+        x: 1253
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1166
+        z: 5
+        x: 1147
+    -
+      description: Carpenter BOSS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1170
+        z: 5
+        x: 1148
+    -
+      description: POSSIVEL KALIFA BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1119
+        z: 5
+        x: 1225
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1116
+        z: 5
+        x: 833
+    -
+      description: FF Member HUNT
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1117
+        z: 5
+        x: 896
+    -
+      description: BOLSA DA QUEST
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1134
+        z: 5
+        x: 853
+    -
+      description: Shipwright Hunt
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1039
+        z: 5
+        x: 1150
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1035
+        z: 5
+        x: 1151
+    -
+      description: Shipwright Hunt
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1012
+        z: 5
+        x: 1202
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1011
+        z: 5
+        x: 1205
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 998
+        z: 5
+        x: 1153
+    -
+      description: FF HUNT
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1097
+        z: 9
+        x: 1068
+    -
+      description: FF HUNT
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1096
+        z: 8
+        x: 1104
+    -
+      description: FF COMANDER BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1062
+        z: 8
+        x: 1080
+    -
+      description: FF COMMANDER BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1064
+        z: 9
+        x: 1130
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1111
+        z: 9
+        x: 1156
+    -
+      description: FF COMMANDER BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1092
+        z: 9
+        x: 1189
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1063
+        z: 9
+        x: 1267
+    -
+      description: FF COMMANDER
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1116
+        z: 5
+        x: 841
+  quest_twin_laboon:
+    -
+      description: FERIMENTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1025
+        z: 7
+        x: 1021
+    -
+      description: FERIMENTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1025
+        z: 7
+        x: 1053
+    -
+      description: FERIMENTO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1026
+        z: 7
+        x: 1068
+  treasure_island:
+    -
+      description: spot centipede
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1147
+        z: 2
+        x: 1087
+    -
+      description: spot wasp
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1043
+        z: 2
+        x: 1091
+    -
+      description: spot tirge
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 986
+        z: 2
+        x: 1060
+    -
+      description: spot gorila
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 972
+        z: 2
+        x: 1164
+    -
+      description: spot centipede
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1189
+        z: 3
+        x: 1105
+    -
+      description: spot wasp
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1123
+        z: 3
+        x: 1105
+    -
+      description: spot snake
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1148
+        z: 3
+        x: 1184
+    -
+      description: spot wasp
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1140
+        z: 5
+        x: 1082
+    -
+      description: spot snake
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1160
+        z: 4
+        x: 1092
+    -
+      description: spot snake
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1160
+        z: 4
+        x: 1180
+    -
+      description: spot gorila
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1017
+        z: 4
+        x: 1180
+    -
+      description: spot monkey
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 929
+        z: 4
+        x: 1117
+    -
+      description: PEDAÇO DE CARNE
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1200
+        z: 3
+        x: 1085
+    -
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1113
+        z: 4
+        x: 1072
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1133
+        z: 3
+        x: 1070
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1178
+        z: 3
+        x: 1134
+    -
+      description: Snake
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1080
+        z: 4
+        x: 1203
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1114
+        z: 1
+        x: 1091
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1130
+        z: 1
+        x: 1099
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1115
+        z: 1
+        x: 1109
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1071
+        z: 1
+        x: 1101
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1062
+        z: 1
+        x: 1094
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1053
+        z: 1
+        x: 1110
+    -
+      description: Snake
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1066
+        z: 1
+        x: 1141
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1043
+        z: 1
+        x: 1144
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1039
+        z: 1
+        x: 1134
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1033
+        z: 1
+        x: 1147
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1024
+        z: 1
+        x: 1144
+    -
+      description: Tigre
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1102
+        z: 1
+        x: 1099
+    -
+      description: POT MEDIUM+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1108
+        z: 0
+        x: 1141
+    -
+      description: 2 Pot. Stamina
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 954
+        z: 2
+        x: 1062
+    -
+      description: 01 Pot. Medium + 03 Band Aids
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1019
+        z: 3
+        x: 1184
+    -
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1057
+        z: 2
+        x: 1138
+    -
+      description: TESOURO GAIMON
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 965
+        z: 3
+        x: 1098
+    -
+      description: MINHOCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1011
+        z: 4
+        x: 1039
+    -
+      description: MINHOCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1019
+        z: 4
+        x: 1143
+    -
+      description: MINHOCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1002
+        z: 4
+        x: 1152
+    -
+      description: MINHOCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1060
+        z: 3
+        x: 1127
+    -
+      description: MINHOCA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1054
+        z: 3
+        x: 1121
+  syrup_forest:
+    -
+      description: Monkey
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1031
+        z: 4
+        x: 1095
+    -
+      description: Monkey
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1024
+        z: 4
+        x: 1074
+    -
+      description: Monkey
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1030
+        z: 4
+        x: 1073
+    -
+      description: Monkey
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1023
+        z: 4
+        x: 1091
+    -
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1050
+        z: 5
+        x: 1022
+    -
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1072
+        z: 5
+        x: 1052
+    -
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1001
+        z: 5
+        x: 1028
+    -
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1049
+        z: 5
+        x: 1069
+    -
+      description: VIDEIRA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1023
+        z: 4
+        x: 1074
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1034
+        z: 4
+        x: 1070
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1019
+        z: 4
+        x: 1066
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1021
+        z: 4
+        x: 1082
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1004
+        z: 5
+        x: 1034
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1058
+        z: 5
+        x: 1041
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1050
+        z: 5
+        x: 1028
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1069
+        z: 5
+        x: 1054
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1074
+        z: 5
+        x: 1025
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1071
+        z: 5
+        x: 1035
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1039
+        z: 5
+        x: 1057
+    -
+      description: GORILA
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1026
+        z: 5
+        x: 1051
+  event_summer_easy:
+    -
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1023
+        z: 5
+        x: 973
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 979
+        z: 6
+        x: 989
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 990
+        z: 6
+        x: 987
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 999
+        z: 6
+        x: 988
+    -
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1008
+        z: 6
+        x: 987
+  syrup_village:
+    -
+      description: BUCHI/SHAM BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1201
+        z: 5
+        x: 1144
+    -
+      description: Roupa do Jango
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 957
+        z: 1
+        x: 1006
+    -
+      description: SPOT BOAR
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1117
+        z: 3
+        x: 1063
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 982
+        z: 3
+        x: 1201
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1000
+        z: 3
+        x: 1062
+    -
+      description: SPOT JAVALI
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 985
+        z: 3
+        x: 1166
+    -
+      description: SPOT PIRATA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1149
+        z: 3
+        x: 1183
+    -
+      description: SPOT PIRATA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1161
+        z: 4
+        x: 1184
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1028
+        z: 4
+        x: 1151
+    -
+      description: SPOT PIRATA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1204
+        z: 5
+        x: 1150
+    -
+      description: 5 Pot. Pequeno + Bandagem
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1016
+        z: 4
+        x: 1123
+    -
+      description: Pot Medium + Roupa lvl 30
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1113
+        z: 2
+        x: 848
+    -
+      description: 2 Pot. Stamina
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1043
+        z: 2
+        x: 876
+    -
+      description: 5 Pot. Pequeno + Calice
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 939
+        z: 2
+        x: 1019
+    -
+      description: 5 Pot. Pequeno + 5 Pera
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1007
+        z: 3
+        x: 1059
+    -
+      description: Buchi
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1149
+        z: 4
+        x: 1056
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1118
+        z: 2
+        x: 864
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1159
+        z: 5
+        x: 1183
+    -
+      description: PIRATA
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1089
+        z: 5
+        x: 1060
+    -
+      description: PIRATA
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1135
+        z: 5
+        x: 1053
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1144
+        z: 5
+        x: 1131
+    -
+      description: PIRATA
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1148
+        z: 4
+        x: 1048
+    -
+      description: MADEIRA.
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 981
+        z: 2
+        x: 1035
+    -
+      description: DROP PRESA JAVALI
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1098
+        z: 5
+        x: 1140
+    -
+      description: Kuro/Jango
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1112
+        z: 5
+        x: 1061
+    -
+      description: SPOT GORILA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1129
+        z: 3
+        x: 826
+    -
+      description: SPOT MONKEY
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1144
+        z: 3
+        x: 959
+    -
+      description: SPOT BOAR
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 992
+        z: 2
+        x: 1054
+    -
+      description: SPOT MONEKY
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1062
+        z: 2
+        x: 934
+    -
+      description: SPOT GORILA
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 999
+        z: 3
+        x: 811
+    -
+      description: SPOT GORILA+MONKEY
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1057
+        z: 2
+        x: 868
+    -
+      description: Livro Kaya
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1193
+        z: 5
+        x: 1087
+  skypiea:
+    -
+      description: Cortar Conasshu
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 943
+        z: 3
+        x: 1129
+    -
+      description: NPC quest dial
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1021
+        z: 5
+        x: 1122
+    -
+      description: Quest toy dial
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 971
+        z: 5
+        x: 1070
+    -
+      description: FRUTA CONQUISTA SECRET
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1027
+        z: 5
+        x: 1136
+    -
+      description: FRUTA CONQUISTA SECRET
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1020
+        z: 5
+        x: 1148
+    -
+      description: pot xp Grande
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 969
+        z: 5
+        x: 1155
+    -
+      description: stamina gl
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1024
+        z: 5
+        x: 1128
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 969
+        z: 4
+        x: 1156
+    -
+      description: 10 braceletes, 4 sacolas e 5 pot médias xp
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 952
+        z: 5
+        x: 1138
+    -
+      description: 5 pot média xp, 2 sacolas, 5 taças
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1005
+        z: 5
+        x: 1153
+    -
+      description: FRUTA CONQUISTA SECRET
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1016
+        z: 5
+        x: 1159
+  event_summer_medium:
+    -
+      description: PEGA ISSO CORNO
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1006
+        z: 6
+        x: 980
+  alabasta_east:
+    -
+      description: DESTRUIR ITENS
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 919
+        z: 4
+        x: 2175
+    -
+      description: PENA PARA DEUS ANUBIS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1104
+        z: 6
+        x: 2125
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1153
+        z: 5
+        x: 2086
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1381
+        z: 5
+        x: 1934
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1256
+        z: 4
+        x: 1964
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1157
+        z: 6
+        x: 2008
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1226
+        z: 5
+        x: 1779
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1056
+        z: 5
+        x: 1934
+    -
+      description: Conquista dos deuses
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1400
+        z: 5
+        x: 1929
+    -
+      description: SPOT CRAB
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1048
+        z: 5
+        x: 2195
+    -
+      description: SPOT SANDWORM
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1063
+        z: 7
+        x: 1909
+    -
+      description: BURACO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1077
+        z: 7
+        x: 1891
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1077
+        z: 7
+        x: 1883
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1009
+        z: 2
+        x: 1944
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1384
+        z: 4
+        x: 2064
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1132
+        z: 6
+        x: 2210
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1428
+        z: 5
+        x: 2001
+    -
+      description: SPOT DUGONG
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1426
+        z: 5
+        x: 2039
+    -
+      description: SPOT DUGONG
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1425
+        z: 5
+        x: 1983
+    -
+      description: SPOT SAND SAILOR
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1215
+        z: 5
+        x: 1832
+    -
+      description: SPOT DUGONG
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1148
+        z: 5
+        x: 1763
+    -
+      description: SPOT DUGONG
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1054
+        z: 5
+        x: 1789
+    -
+      description: CAMELOS SELVAGENS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1358
+        z: 5
+        x: 1909
+    -
+      description: SPOT SANDWORM
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1142
+        z: 5
+        x: 1893
+    -
+      description: SPOT SANDWORM
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1077
+        z: 7
+        x: 1937
+    -
+      description: PONTO MISTERIOSO
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 980
+        z: 4
+        x: 2039
+    -
+      description: PONTO MISTERIOSO
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1234
+        z: 4
+        x: 1973
+    -
+      description: PONTO MISTERIOSO
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1134
+        z: 5
+        x: 1953
+    -
+      description: PONTO MISTERIOSO
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1125
+        z: 5
+        x: 2115
+    -
+      description: PONTO MISTERIOSO
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1235
+        z: 2
+        x: 2093
+    -
+      description: SPOT SAND SAILOR
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1236
+        z: 6
+        x: 1997
+    -
+      description: SPOT CRAB
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1121
+        z: 6
+        x: 2251
+    -
+      description: SPOT GIANT GECKO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1145
+        z: 5
+        x: 2136
+    -
+      description: SPOT GIANT GECKO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1183
+        z: 5
+        x: 2147
+    -
+      description: CONQUISTA LAMPADA MAGICA FALSA
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 963
+        z: 4
+        x: 2092
+    -
+      description: ITEM MISTERIOSO POR "RAÇÃO"
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1402
+        z: 5
+        x: 1873
+    -
+      description: SPOT SAND SAILOR
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 996
+        z: 6
+        x: 1943
+    -
+      description: QUEIMAR ARMAS PARA O PELL
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1055
+        z: 6
+        x: 2035
+    -
+      description: PONTO MISTERIOSO
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1063
+        z: 3
+        x: 2034
+    -
+      description: BAU STAMINA GL
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 922
+        z: 4
+        x: 2216
+    -
+      description: INVESTIGAR SUSPEITO "SAKI QUESTLINE"
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 952
+        z: 4
+        x: 2139
+    -
+      description: RESTOS DE FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1001
+        z: 6
+        x: 2217
+    -
+      description: ESCADA AMUN RA
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1391
+        z: 4
+        x: 2100
+  orange_town:
+    -
+      description: MOHJI BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1094
+        z: 4
+        x: 1098
+    -
+      description: SPOT SLIME
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1111
+        z: 5
+        x: 1156
+    -
+      description: SPOT SLIME
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1047
+        z: 5
+        x: 1149
+    -
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1201
+        z: 3
+        x: 1095
+    -
+      description: BOSS CHUCKLES
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1153
+        z: 4
+        x: 1094
+    -
+      description: BARRIL DE OURO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1156
+        z: 4
+        x: 1090
+    -
+      description: 2 Pot. Pequeno + 3 Pedaço de Carne + 2 Ataduras
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1127
+        z: 4
+        x: 1103
+    -
+      description: 2 Pot Pequeno + 3 Armas lvl 1
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1025
+        z: 4
+        x: 1143
+    -
+      description: 3 Pot. Pequeno + Calice de Ouro
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1065
+        z: 4
+        x: 1130
+    -
+      description: Flores
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1159
+        z: 4
+        x: 1168
+    -
+      description: Buque de Flores
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1115
+        z: 4
+        x: 1253
+    -
+      description: Flores
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1094
+        z: 4
+        x: 1190
+    -
+      description: Flores
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1054
+        z: 4
+        x: 1149
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1025
+        z: 4
+        x: 1116
+    -
+      description: Flores
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1028
+        z: 4
+        x: 1108
+    -
+      description: Mohji
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1072
+        z: 4
+        x: 1104
+    -
+      description: Buggy / Cabaji
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1068
+        z: 4
+        x: 1127
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1129
+        z: 4
+        x: 1103
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1126
+        z: 4
+        x: 1100
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1116
+        z: 4
+        x: 1099
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1045
+        z: 4
+        x: 1130
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1086
+        z: 5
+        x: 1172
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1118
+        z: 6
+        x: 1226
+    -
+      description: Slime
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1064
+        z: 6
+        x: 1092
+    -
+      description: 2 Pot. Pequeno + 4 Bracelete
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1118
+        z: 6
+        x: 1230
+    -
+      description: BARCO PIRATA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1193
+        z: 4
+        x: 1096
+    -
+      description: ATADURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1203
+        z: 4
+        x: 1089
+    -
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1064
+        z: 2
+        x: 1127
+  alabasta_west:
+    -
+      description: SPOT GIANT EAGLE
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 842
+        z: 3
+        x: 1670
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1444
+        z: 5
+        x: 2016
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1382
+        z: 3
+        x: 1864
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1320
+        z: 4
+        x: 1725
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1000
+        z: 5
+        x: 2248
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1008
+        z: 5
+        x: 1999
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 899
+        z: 5
+        x: 1788
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1274
+        z: 6
+        x: 2317
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1273
+        z: 6
+        x: 2317
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1273
+        z: 6
+        x: 2318
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1273
+        z: 6
+        x: 2319
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1273
+        z: 6
+        x: 2320
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2320
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2321
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2322
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2323
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2324
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2325
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2326
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2327
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2328
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2329
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2330
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1274
+        z: 6
+        x: 2331
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1273
+        z: 6
+        x: 2331
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1272
+        z: 6
+        x: 2332
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1271
+        z: 6
+        x: 2332
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1271
+        z: 6
+        x: 2333
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1271
+        z: 6
+        x: 2334
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1270
+        z: 6
+        x: 2334
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1269
+        z: 6
+        x: 2335
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1269
+        z: 6
+        x: 2336
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1270
+        z: 6
+        x: 2337
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1271
+        z: 6
+        x: 2338
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1272
+        z: 6
+        x: 2339
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1273
+        z: 6
+        x: 2338
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2338
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2339
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2340
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2341
+    -
+      category: player_flags
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1274
+        z: 6
+        x: 2342
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1273
+        z: 6
+        x: 2342
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1272
+        z: 6
+        x: 2342
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1271
+        z: 6
+        x: 2342
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1270
+        z: 6
+        x: 2342
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1270
+        z: 6
+        x: 2341
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1270
+        z: 6
+        x: 2340
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1269
+        z: 6
+        x: 2340
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1268
+        z: 6
+        x: 2340
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2339
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2338
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1266
+        z: 6
+        x: 2337
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2336
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2335
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2334
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2333
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2332
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2331
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1266
+        z: 6
+        x: 2330
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1265
+        z: 6
+        x: 2330
+    -
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1264
+        z: 6
+        x: 2330
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1264
+        z: 6
+        x: 2329
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1264
+        z: 6
+        x: 2328
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1265
+        z: 6
+        x: 2328
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1266
+        z: 6
+        x: 2328
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2327
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1268
+        z: 6
+        x: 2326
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1267
+        z: 6
+        x: 2325
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1268
+        z: 6
+        x: 2324
+    -
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1269
+        z: 6
+        x: 2324
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1269
+        z: 6
+        x: 2323
+    -
+      category: player_flags
+      style: MinimapFlagArrowRight
+      position:
+        y: 1269
+        z: 6
+        x: 2322
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 826
+        z: 3
+        x: 1616
+    -
+      description: SPOT DUGONG
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1316
+        z: 5
+        x: 2211
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1244
+        z: 5
+        x: 2326
+    -
+      description: SPOT DUGONG
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1262
+        z: 5
+        x: 2309
+    -
+      description: QUEBRAR PAREDE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1173
+        z: 4
+        x: 1777
+    -
+      description: QUEBRAR
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1238
+        z: 4
+        x: 1805
+    -
+      description: QUEBRAR
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1240
+        z: 4
+        x: 1796
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1121
+        z: 5
+        x: 2195
+    -
+      description: SPOT CALANGO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1091
+        z: 5
+        x: 2189
+    -
+      description: BW BILLION
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1066
+        z: 5
+        x: 1857
+    -
+      description: MISTERIOSO DOS PONEGLYPHS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 919
+        z: 5
+        x: 1741
+    -
+      description: SACOLA QUESTLINE UMEI
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 997
+        z: 5
+        x: 1871
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1396
+        z: 3
+        x: 1843
+    -
+      description: CONQUISTA VENENO
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1400
+        z: 3
+        x: 1857
+    -
+      description: SPOT DE GIANT SCORPION
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1331
+        z: 5
+        x: 1954
+    -
+      description: |-
+        BAU 
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1339
+        z: 6
+        x: 1962
+    -
+      description: GIANT SCORPION
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1345
+        z: 6
+        x: 1948
+    -
+      description: GIANT SCORPION
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1392
+        z: 3
+        x: 1835
+    -
+      description: GIANT SCORPION
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1376
+        z: 3
+        x: 1856
+    -
+      description: SAND SAILOR
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1161
+        z: 5
+        x: 1998
+    -
+      description: SAND SAILOR
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1231
+        z: 5
+        x: 1974
+    -
+      description: SCORPION
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1309
+        z: 4
+        x: 2105
+    -
+      description: SCORPION
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1314
+        z: 4
+        x: 2128
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1311
+        z: 4
+        x: 2117
+    -
+      description: BW Millions
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1050
+        z: 5
+        x: 1858
+    -
+      description: QUESTLINE CHIP LAB 2
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 981
+        z: 4
+        x: 1710
+    -
+      description: ENTREGAR CHIP LAB 2
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 898
+        z: 5
+        x: 1792
+    -
+      description: BW MILLIONS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 932
+        z: 5
+        x: 1792
+    -
+      description: BW BILLIONS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1071
+        z: 5
+        x: 1813
+    -
+      description: SPOT RHINOCEROS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1071
+        z: 5
+        x: 2126
+    -
+      description: SPOT RHINOCEROS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1181
+        z: 5
+        x: 2109
+    -
+      description: SPOT RHINOCEROS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1177
+        z: 5
+        x: 2168
+    -
+      description: SPOT RHINOCEROS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1016
+        z: 5
+        x: 2183
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 948
+        z: 5
+        x: 1998
+    -
+      description: SPOT LION
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 956
+        z: 5
+        x: 1985
+    -
+      description: SPOT LION
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 964
+        z: 5
+        x: 2142
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1380
+        z: 5
+        x: 2060
+    -
+      description: RESTOS DO FARAÓ
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1184
+        z: 5
+        x: 2133
+    -
+      description: RUBI CORAÇÃO DEUS ANUBIS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1185
+        z: 5
+        x: 2039
+  snow_island:
+    -
+      description: PRISÃO
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1144
+        z: 4
+        x: 1007
+    -
+      description: Urso
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1076
+        z: 5
+        x: 1178
+    -
+      description: Chave Estranha
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1052
+        z: 5
+        x: 1175
+    -
+      description: SPOT DE TIGRE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1021
+        z: 4
+        x: 1116
+    -
+      description: 2 Pot Pequeno
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1208
+        z: 5
+        x: 1179
+    -
+      description: Urso
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1127
+        z: 5
+        x: 1106
+    -
+      description: Vô Sora
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1141
+        z: 3
+        x: 1038
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1230
+        z: 4
+        x: 1058
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1024
+        z: 4
+        x: 1122
+    -
+      description: Madeira
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1212
+        z: 5
+        x: 994
+    -
+      description: Wolf
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1227
+        z: 5
+        x: 1069
+    -
+      description: Bear
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1207
+        z: 5
+        x: 1176
+    -
+      description: Wolf
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1243
+        z: 6
+        x: 1071
+    -
+      description: Wolf
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1209
+        z: 6
+        x: 1130
+    -
+      description: 2 Pot Pequeno + 2 Pot Stamina
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1084
+        z: 5
+        x: 900
+    -
+      description: COELHO DE SORA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1154
+        z: 5
+        x: 1207
+    -
+      description: SPOT TIGRE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1199
+        z: 4
+        x: 1189
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1184
+        z: 4
+        x: 1059
+    -
+      description: SPOT WOLF/TIGRE
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1103
+        z: 4
+        x: 1123
+    -
+      description: SPOT URSO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1075
+        z: 3
+        x: 1183
+    -
+      description: SPOT URSO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1121
+        z: 3
+        x: 1043
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1117
+        z: 5
+        x: 951
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1033
+        z: 5
+        x: 1047
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1038
+        z: 5
+        x: 1168
+    -
+      description: SPOT WOLF
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1234
+        z: 5
+        x: 1010
+  grand_line:
+    -
+      category: player_flags_eastblue
+      style: MinimapFlagSquid
+      position:
+        y: 1702
+        z: 7
+        x: 2290
+    -
+      description: boss rei do mar
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1437
+        z: 7
+        x: 2292
+    -
+      description: Noko
+      category: player_flags_eastblue
+      style: MinimapFlagSkull
+      position:
+        y: 1461
+        z: 7
+        x: 2012
+    -
+      description: bau
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1625
+        z: 7
+        x: 2005
+    -
+      description: MARINE WARSHIP
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1711
+        z: 7
+        x: 2292
+    -
+      description: bau
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1689
+        z: 7
+        x: 2337
+    -
+      description: bau
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1872
+        z: 7
+        x: 2303
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1485
+        z: 7
+        x: 1812
+    -
+      description: bau
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1844
+        z: 7
+        x: 2035
+    -
+      description: BAÚ
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1886
+        z: 7
+        x: 1386
+    -
+      description: ENTRADA DO LAB
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1408
+        z: 7
+        x: 1037
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1702
+        z: 7
+        x: 643
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1419
+        z: 7
+        x: 803
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1573
+        z: 7
+        x: 1079
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1816
+        z: 7
+        x: 698
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1872
+        z: 7
+        x: 345
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1474
+        z: 7
+        x: 238
+    -
+      description: ENTRADA ABERTA
+      category: player_flags_eastblue
+      style: MinimapFlagArrowUp
+      position:
+        y: 1460
+        z: 7
+        x: 1018
+    -
+      description: SPOT SHARKING
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1788
+        z: 7
+        x: 308
+    -
+      description: SPOT SERPION
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1569
+        z: 7
+        x: 422
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1535
+        z: 7
+        x: 371
+    -
+      description: SPOT THOUNOUNG
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1652
+        z: 7
+        x: 565
+    -
+      description: SPOT SHARKING
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1785
+        z: 7
+        x: 476
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1804
+        z: 7
+        x: 437
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1681
+        z: 7
+        x: 603
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1753
+        z: 7
+        x: 364
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1783
+        z: 7
+        x: 524
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1652
+        z: 7
+        x: 529
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1553
+        z: 7
+        x: 489
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1641
+        z: 7
+        x: 411
+    -
+      description: ILHA QUEST CROCOS
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1540
+        z: 7
+        x: 621
+    -
+      description: DESTROÇOS
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1614
+        z: 7
+        x: 356
+    -
+      description: DESTROÇOS
+      category: player_flags_eastblue
+      style: MinimapFlagLoot
+      position:
+        y: 1660
+        z: 7
+        x: 306
+    -
+      description: DOCA
+      category: player_flags_eastblue
+      style: MinimapFlagArrowLeft
+      position:
+        y: 1719
+        z: 7
+        x: 250
+    -
+      description: SHIP BAROCK
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1681
+        z: 7
+        x: 265
+    -
+      description: SPOT DE MOBS QUEST
+      category: player_flags_eastblue
+      style: MinimapFlagLever
+      position:
+        y: 1446
+        z: 7
+        x: 320
+    -
+      description: SPOT SERPIOR
+      category: player_flags_eastblue
+      style: MinimapFlagWarning
+      position:
+        y: 1454
+        z: 7
+        x: 348
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1875
+        z: 7
+        x: 1670
+    -
+      description: BAU
+      category: player_flags_eastblue
+      style: MinimapFlagChest
+      position:
+        y: 1466
+        z: 7
+        x: 2336
+  nihon_island:
+    -
+      description: pintura >>
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1094
+        z: 5
+        x: 1199
+    -
+      description: CARREGAMENTO PRO CHEF
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1163
+        z: 5
+        x: 1117
+    -
+      description: PEGAR SHOYO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1098
+        z: 4
+        x: 1085
+    -
+      description: DAR PIMENTA AOS 3
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1106
+        z: 4
+        x: 1085
+    -
+      description: LUTADOR DE SUMÔ
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1075
+        z: 5
+        x: 1161
+    -
+      description: LUTADOR DE SUMÔ
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1098
+        z: 5
+        x: 1159
+    -
+      description: 1 PERGAMINHO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1104
+        z: 4
+        x: 1052
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1070
+        z: 5
+        x: 1175
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1151
+        z: 3
+        x: 1046
+    -
+      description: BAU STAMINA GL
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1037
+        z: 3
+        x: 1109
+    -
+      description: LADRÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1149
+        z: 4
+        x: 1081
+    -
+      description: SWORD
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1148
+        z: 4
+        x: 1079
+    -
+      description: 2 samurais
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1075
+        z: 5
+        x: 1176
+    -
+      description: LUTADOR DE SUMÔ
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1154
+        z: 5
+        x: 1074
+    -
+      description: SAMURAI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1152
+        z: 4
+        x: 1057
+    -
+      description: SAMURAI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1150
+        z: 5
+        x: 1043
+    -
+      description: SAMURAI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1150
+        z: 3
+        x: 1041
+    -
+      description: LUTADOR DE SUMÔ
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1123
+        z: 3
+        x: 1043
+    -
+      description: SAMURAI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1065
+        z: 4
+        x: 1104
+    -
+      description: SAMURAI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1044
+        z: 3
+        x: 1110
+    -
+      description: LUTADOR DE SUMÔ
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1039
+        z: 3
+        x: 1104
+    -
+      description: LUTADOR DE SUMÔ
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1062
+        z: 3
+        x: 1099
+    -
+      description: SAMURAI
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1067
+        z: 4
+        x: 1139
+  shells_town:
+    -
+      description: PEDRA ESPECIAL
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1075
+        z: 3
+        x: 1008
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1005
+        z: 3
+        x: 909
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 978
+        z: 3
+        x: 957
+    -
+      description: SPOT MARINHEIRO
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1025
+        z: 3
+        x: 1128
+    -
+      description: SPOT CENTIPEDE
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1005
+        z: 3
+        x: 896
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 972
+        z: 3
+        x: 810
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1066
+        z: 3
+        x: 873
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1016
+        z: 4
+        x: 781
+    -
+      description: SPOT CENTIPEDE
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 998
+        z: 4
+        x: 889
+    -
+      description: SPOT SNAKE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1149
+        z: 5
+        x: 1146
+    -
+      description: SPOT WASP
+      category: player_flags
+      style: MinimapFlagArrowFish
+      position:
+        y: 1097
+        z: 4
+        x: 901
+    -
+      description: SPOT SNAKE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1098
+        z: 4
+        x: 1108
+    -
+      description: SPOT SNAKE
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1075
+        z: 3
+        x: 1072
+    -
+      description: SPOT MARINHEIROS
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1040
+        z: 3
+        x: 998
+    -
+      description: IMPRESSORA QUEST
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1009
+        z: 3
+        x: 954
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 980
+        z: 1
+        x: 980
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 980
+        z: 1
+        x: 969
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 987
+        z: 1
+        x: 977
+    -
+      description: Sophos
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 943
+        z: 3
+        x: 1034
+    -
+      description: Prisoneiro
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1076
+        z: 3
+        x: 977
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1004
+        z: 5
+        x: 907
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1008
+        z: 5
+        x: 909
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1008
+        z: 6
+        x: 909
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 983
+        z: 6
+        x: 852
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 992
+        z: 6
+        x: 846
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 994
+        z: 6
+        x: 869
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 998
+        z: 6
+        x: 885
+    -
+      category: player_flags
+      style: MinimapFlagStairs
+      position:
+        y: 1028
+        z: 5
+        x: 873
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1017
+        z: 5
+        x: 840
+    -
+      description: Centopeia
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1005
+        z: 5
+        x: 856
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 999
+        z: 5
+        x: 860
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1016
+        z: 4
+        x: 799
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1069
+        z: 5
+        x: 1109
+    -
+      description: Arroz
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1159
+        z: 6
+        x: 990
+    -
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1060
+        z: 1
+        x: 1003
+    -
+      description: Marinheiro
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1069
+        z: 1
+        x: 1005
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1059
+        z: 1
+        x: 1013
+    -
+      description: XP+CASH
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1059
+        z: 1
+        x: 999
+    -
+      description: 2 Pot Stamina
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 965
+        z: 3
+        x: 1043
+    -
+      description: MARTELO QUEST
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 965
+        z: 3
+        x: 1039
+    -
+      description: MORGAN BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1033
+        z: 3
+        x: 1006
+  quest_twin_flower:
+    -
+      description: PLANTA ROXA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1072
+        z: 4
+        x: 1046
+    -
+      description: FRUTA MISTERIOSA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1035
+        z: 4
+        x: 1041
+    -
+      description: FRUTA MISTERIOSA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1036
+        z: 4
+        x: 1054
+    -
+      description: FRUTA MISTERIOSA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1045
+        z: 5
+        x: 1028
+    -
+      description: PLANTA ROXA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1060
+        z: 5
+        x: 1027
+    -
+      description: PLANTA ROXA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1036
+        z: 5
+        x: 1021
+  bird_island:
+    -
+      description: LENTE QUEBRADA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 980
+        z: 2
+        x: 926
+    -
+      description: KAZUMI EM PERIGO?
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1005
+        z: 2
+        x: 953
+    -
+      description: CAMERA QUEBRADA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1006
+        z: 2
+        x: 941
+    -
+      description: OVO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1045
+        z: 3
+        x: 970
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1037
+        z: 3
+        x: 950
+    -
+      description: BOSS BIRD
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1045
+        z: 3
+        x: 952
+    -
+      description: QUEBRAR
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1052
+        z: 3
+        x: 972
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1079
+        z: 3
+        x: 1011
+    -
+      description: BANKER QUEST
+      category: player_flags
+      style: MinimapFlagArrowDown
+      position:
+        y: 1001
+        z: 2
+        x: 973
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1011
+        z: 2
+        x: 978
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 983
+        z: 2
+        x: 1015
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 959
+        z: 2
+        x: 964
+    -
+      description: ESMAGADOR MAÇA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1074
+        z: 3
+        x: 1022
+    -
+      description: PEGA MISTERIOSA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1001
+        z: 2
+        x: 971
+  fuchsia_village:
+    -
+      description: Bau
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1007
+        z: 4
+        x: 2165
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 833
+        z: 2
+        x: 1804
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 940
+        z: 5
+        x: 1771
+    -
+      description: Lobo
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1034
+        z: 3
+        x: 1930
+    -
+      description: SAQUE
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1027
+        z: 3
+        x: 1928
+    -
+      description: PASSAGEM
+      category: player_flags
+      style: MinimapFlagArrowUp
+      position:
+        y: 1023
+        z: 3
+        x: 1919
+    -
+      description: EMBLEMA
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 958
+        z: 3
+        x: 1915
+    -
+      description: BEAR
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 962
+        z: 3
+        x: 1915
+    -
+      description: Lobo
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1007
+        z: 3
+        x: 1921
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 996
+        z: 2
+        x: 1892
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 963
+        z: 2
+        x: 1877
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 969
+        z: 2
+        x: 1911
+    -
+      description: Lobo
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 944
+        z: 2
+        x: 1926
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 931
+        z: 2
+        x: 1877
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 903
+        z: 2
+        x: 1858
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 879
+        z: 2
+        x: 1819
+    -
+      description: Boar
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 854
+        z: 2
+        x: 1807
+    -
+      description: Pirata
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 982
+        z: 5
+        x: 1759
+    -
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1000
+        z: 4
+        x: 1978
+    -
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 1052
+        z: 6
+        x: 1805
+    -
+      category: player_flags
+      style: MinimapFlagSquid
+      position:
+        y: 933
+        z: 5
+        x: 2014
+    -
+      description: ESPADA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 975
+        z: 3
+        x: 2059
+  drum_island:
+    -
+      description: wapol BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 789
+        z: 4
+        x: 1296
+    -
+      description: wapol BOSS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1032
+        z: 5
+        x: 1215
+    -
+      description: SPOT LAPHAN
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 899
+        z: 3
+        x: 921
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 767
+        z: 4
+        x: 1267
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 953
+        z: 2
+        x: 1139
+    -
+      description: 2 ÁGUA PARA SABOTAR
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 777
+        z: 4
+        x: 1283
+    -
+      description: 2 DESIN DE BARCO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 797
+        z: 4
+        x: 1322
+    -
+      description: |-
+        ÁGUA PARA SABOTAR 
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1053
+        z: 5
+        x: 1211
+    -
+      description: 1 DESIN DE BARCO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1011
+        z: 5
+        x: 1223
+    -
+      description: LUVAS DO LADRÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1132
+        z: 5
+        x: 1094
+    -
+      description: ENTRAR SM QUEST SECRETA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 949
+        z: 5
+        x: 1344
+    -
+      description: INTERAGIR PARA LIBERAR QUEST
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 796
+        z: 1
+        x: 952
+    -
+      description: CHIKAGE e GOHEI
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 665
+        z: 3
+        x: 911
+    -
+      description: quebrar
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 1105
+        z: 5
+        x: 1143
+    -
+      description: COGUMELO QUEST
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1023
+        z: 4
+        x: 1112
+    -
+      description: ÓTIMO SPOT DERI WOLF
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 1019
+        z: 4
+        x: 1118
+    -
+      description: NPC PARA ESCOLTAR "KANJIRO"
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1108
+        z: 5
+        x: 1135
+    -
+      description: BAU 2 KEYS
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 1062
+        z: 5
+        x: 993
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 795
+        z: 3
+        x: 998
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 965
+        z: 5
+        x: 853
+    -
+      description: SPOT WOLFS / DERI WOLFS
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1091
+        z: 5
+        x: 1105
+    -
+      description: 4 HIPOPOTAMOS
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 967
+        z: 5
+        x: 855
+    -
+      description: LAPHANN
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 954
+        z: 4
+        x: 980
+    -
+      description: 2X LAPHAN
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 837
+        z: 2
+        x: 934
+    -
+      description: HIPOPOTAMO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 848
+        z: 2
+        x: 943
+    -
+      description: HIPOPOTAMO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 851
+        z: 2
+        x: 917
+    -
+      description: PONTE
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 661
+        z: 4
+        x: 903
+    -
+      description: BAU STAMINA GL
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 664
+        z: 4
+        x: 909
+    -
+      description: BLOCO DE NOTAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 678
+        z: 4
+        x: 931
+    -
+      description: HIPOPOTAMO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 964
+        z: 5
+        x: 1192
+    -
+      description: HIPOPOTAMO
+      category: player_flags
+      style: MinimapFlagWarning
+      position:
+        y: 953
+        z: 5
+        x: 1204
+    -
+      description: QUEBRAR
+      category: player_flags
+      style: MinimapFlagBomb
+      position:
+        y: 916
+        z: 4
+        x: 1197
+    -
+      description: ARMA DA QUEST SECRETA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 800
+        z: 3
+        x: 1351
+    -
+      description: interagir com o guarda
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1130
+        z: 5
+        x: 1099
+    -
+      description: ENTREGAR SOPA LAPHAN
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 807
+        z: 3
+        x: 919
+    -
+      description: LAPHAN
+      category: player_flags
+      style: MinimapFlagSkull
+      position:
+        y: 1050
+        z: 4
+        x: 985
+    -
+      description: ESCONDERIJO DO DR. HILUK
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 955
+        z: 5
+        x: 1142
+    -
+      description: POR BOMBA DR. HILUK
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 697
+        z: 4
+        x: 906
+    -
+      description: POR BOMBA DR. HILUK
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 697
+        z: 4
+        x: 923
+    -
+      description: POR BOMBA DR. HILUK
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 703
+        z: 4
+        x: 914
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1106
+        z: 5
+        x: 1115
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1134
+        z: 5
+        x: 1146
+    -
+      description: COGUMELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1094
+        z: 5
+        x: 1079
+    -
+      description: BAU
+      category: player_flags
+      style: MinimapFlagChest
+      position:
+        y: 869
+        z: 5
+        x: 1375
+    -
+      description: SPOT DRUM SOLDIER
+      category: player_flags
+      style: MinimapFlagLever
+      position:
+        y: 1025
+        z: 5
+        x: 1207
+  quest_jaya_scuba:
+    -
+      description: tesouro
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1040
+        z: 7
+        x: 979
+    -
+      description: tesouro
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1036
+        z: 7
+        x: 989
+    -
+      description: tesouro
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1032
+        z: 7
+        x: 1006
+  quest_sabaody_dive:
+    -
+      category: player_flags
+      description: PINHA AQUATICA
+      style: MinimapFlagLoot
+      position:
+        y: 1127
+        z: 7
+        x: 962
+    -
+      category: player_flags
+      description: PINHA AQUATICA
+      style: MinimapFlagLoot
+      position:
+        y: 1099
+        z: 7
+        x: 1052
+    -
+      category: player_flags
+      description: PINHA AQUATICA
+      style: MinimapFlagLoot
+      position:
+        y: 1124
+        z: 7
+        x: 1047
+    -
+      category: player_flags
+      description: Item quest
+      style: MinimapFlagLoot
+      position:
+        y: 1094
+        z: 7
+        x: 1011
+    -
+      category: player_flags
+      description: CURA
+      style: MinimapFlagArrowDown
+      position:
+        y: 1125
+        z: 7
+        x: 1024
+    -
+      category: player_flags
+      description: Item quest
+      style: MinimapFlagLoot
+      position:
+        y: 1133
+        z: 7
+        x: 975
+    -
+      category: player_flags
+      description: CURA
+      style: MinimapFlagArrowDown
+      position:
+        y: 1130
+        z: 7
+        x: 981
+    -
+      category: player_flags
+      description: CURA
+      style: MinimapFlagArrowDown
+      position:
+        y: 1104
+        z: 7
+        x: 964
+    -
+      category: player_flags
+      description: CURA
+      style: MinimapFlagArrowDown
+      position:
+        y: 1070
+        z: 7
+        x: 1011
+    -
+      category: player_flags
+      description: CURA
+      style: MinimapFlagArrowDown
+      position:
+        y: 1087
+        z: 7
+        x: 1054
+    -
+      category: player_flags
+      description: Item quest
+      style: MinimapFlagLoot
+      position:
+        y: 1089
+        z: 7
+        x: 1082
+    -
+      category: player_flags
+      description: CURA
+      style: MinimapFlagArrowDown
+      position:
+        z: 7
+        y: 1100
+        x: 1019
+    -
+      category: player_flags
+      description: PINHA AQUATICA
+      style: MinimapFlagLoot
+      position:
+        z: 7
+        y: 1117
+        x: 1039
+    -
+      category: player_flags
+      description: PINHA AQUATICA
+      style: MinimapFlagLoot
+      position:
+        z: 7
+        y: 1103
+        x: 974
+  quest_daisuki:
+    -
+      description: PAPELÃO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1046
+        z: 7
+        x: 1056
+    -
+      description: TESOURA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1040
+        z: 6
+        x: 1060
+    -
+      description: LENTE CAMERA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1038
+        z: 7
+        x: 1054
+    -
+      description: FITA ISOLANTE
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1046
+        z: 7
+        x: 1045
+    -
+      description: LENTE OCULOS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 999
+        z: 6
+        x: 1054
+    -
+      description: MARTELO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1039
+        z: 6
+        x: 1045
+    -
+      description: LIXA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1048
+        z: 7
+        x: 1056
+    -
+      description: MISTURAR TINTAS
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1040
+        z: 7
+        x: 1052
+    -
+      description: TINTA AZUL
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1044
+        z: 7
+        x: 1043
+    -
+      description: TINTA AMARELA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1040
+        z: 7
+        x: 1057
+    -
+      description: TINTA VERMELHA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1040
+        z: 7
+        x: 1043
+    -
+      description: TUBO
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1042
+        z: 6
+        x: 1057
+    -
+      description: CERROTE
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 1041
+        z: 6
+        x: 1046
+    -
+      description: CRAFT
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 997
+        z: 6
+        x: 1054
+    -
+      description: COLA
+      category: player_flags
+      style: MinimapFlagLoot
+      position:
+        y: 996
+        z: 6
+        x: 1049
