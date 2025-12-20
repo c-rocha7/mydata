@@ -1,4 +1,3 @@
-uuid: NuR+SMR0PKieBvg2g1yHiuhW3b0=
 realmId: 1
 showEnergyBars: true
 showHealthBars: true
@@ -64,7 +63,6 @@ maxFps: 241
 locale: pt-BR
 IgnorePlayers:
 OnlyVipListPlayers: false
-IgnoreChannelsPreview:
 effectsVolume: 25
 voicesVolume: 15
 interfaceVolume: 10
@@ -73,13 +71,8 @@ awareRange: true
 smartWalkDelay: 0
 smartTurnDelay: 30
 showTimestampsInChat: true
-account_secret: true
-login_account: 1eskUVtEmj7lWi4kQFME1cMO+1NVgcNkSg==
-login_password: T+4sCl9CnzO1X11/
 login_remember: true
-auto_cast: false
 equipment_tutorial: true
-minimapZoom: 2
 desktop-menu:
 hotkeys:
   -
@@ -10504,313 +10497,6 @@ game_spells:
     10: 8
     7: 5
     5: 9
-game_spells_extra:
-  cda870bdf344acb3b39589494a0fa44cfc5ea92d:
-    1:
-      automaticArea: true
-  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
-    1:
-      automaticArea: true
-  20c5925f4552ab1d571a0f5cd05947ca64abd039:
-    3:
-      automaticArea: true
-  bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
-    4:
-      automaticArea: false
-    8:
-      automaticArea: true
-    5:
-      automaticArea: false
-    2:
-      automaticArea: true
-  381e13fbbca185be880727ab89367c79b2221b56:
-    6:
-      automaticArea: true
-  db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
-    5:
-      automaticArea: true
-  80719ab162f0908212d01fd840ad39c1fdaf65f9:
-    3:
-      automaticArea: true
-  0b911d75c99ef05c5db302cabb192097f4419afd:
-    6:
-      automaticArea: false
-    3:
-      automaticArea: true
-    5:
-      automaticArea: false
-    2:
-      automaticArea: false
-  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
-    7:
-      automaticArea: false
-    3:
-      automaticArea: true
-  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
-    1:
-      automaticArea: true
-  cd6942279e748a59951a1109ba029eaba02dddb9:
-    1:
-      automaticArea: true
-  72a87bb07802544554a587086f635a818d026a59:
-    1:
-      automaticArea: true
-  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
-    5:
-      automaticArea: false
-    3:
-      automaticArea: false
-  a689affc74a3a2cd47c5a2d12d332de03104ee86:
-    9:
-      automaticArea: false
-    6:
-      automaticArea: false
-  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
-    6:
-      automaticArea: false
-  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
-    6:
-      automaticArea: false
-  f15592b8021219d77b27fe3013f5cf32ec3683d0:
-    1:
-      automaticArea: true
-  1988a95c1df92dc38c827d583944abe0e96101ce:
-    3:
-      automaticArea: true
-  04a9b6d9a2ddad57a217969981048ce1693855f4:
-    8:
-      automaticArea: true
-  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
-    3:
-      automaticArea: false
-  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
-    3:
-      automaticArea: true
-  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
-    4:
-      automaticArea: true
-    5:
-      automaticArea: false
-  677521146dc31e15a41bbc760d204465013aadf9:
-    7:
-      automaticArea: false
-  019919509fe4924f5d691cffa907604e17f73dfb:
-    1:
-      automaticArea: true
-  16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
-    2:
-      automaticArea: false
-  1a2b40b45157313bfef35f4073b7e95428b14c38:
-    5:
-      automaticArea: false
-  7fc1b08d336798d034bce920591cf3613a3cd218:
-    1:
-      automaticArea: false
-  f270eb4ac60396b9bf39fb60b9c063b36fb4c402:
-    5:
-      automaticArea: false
-  68be479a91e2ee907ab7ce5867015215fb357cd4:
-    1:
-      automaticArea: true
-  fd9a75f0945173209364b87c922dc5c0641bdc0e:
-    3:
-      automaticArea: true
-    5:
-      automaticArea: true
-  0d1d7dc5ea5ef07fc5f0ed0dcf95b0261fd5c8ca:
-    2:
-      automaticArea: false
-    1:
-      automaticArea: true
-  a9439ed1b60082d820adf8da192b1e47fa15ab08:
-    2:
-      automaticArea: true
-  128c41cc3dbb560a41c0bb9b0dcbcd615d3a6143:
-    4:
-      automaticArea: false
-  84aa30682e44604c2808f19f13542ce6c5932533:
-    4:
-      automaticArea: false
-    3:
-      automaticArea: true
-  0e943fb8206bed6c15233711e622f8c1a8c3e65f:
-    1:
-      automaticArea: true
-  4357131be1f4691baa1f9ceed65401bb91500d74:
-    2:
-      automaticArea: false
-  5b3dddd664916361b6685d4b35d38ed2c0e29cb2:
-    1:
-      automaticArea: true
-  d22829d7360ca847cab7e269001260e34f966d4e:
-    1:
-      automaticArea: true
-  7a70cd33b418d385c652ac79e43065d37f415db0:
-    8:
-      automaticArea: true
-  e96305abdd9d8b8fd585d27588af04f4627a64ba:
-    4:
-      automaticArea: false
-    2:
-      automaticArea: false
-  72b174b3832303f2973606b440ef42321d445ae6:
-    4:
-      automaticArea: false
-    2:
-      automaticArea: false
-  f819bd8fcab7115040bef6cf963f4ef5da343f00:
-    4:
-      automaticArea: false
-    6:
-      automaticArea: true
-    2:
-      automaticArea: true
-  c4304a59294665111e65f5d74d7961989d25260b:
-    3:
-      automaticArea: false
-    5:
-      automaticArea: false
-  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
-    5:
-      automaticArea: true
-    3:
-      automaticArea: true
-  69aa59dffb07e06ed45e84585a3985592b980a96:
-    4:
-      automaticArea: false
-  ced51183152907f92e0e8e356ece16a46d650a66:
-    1:
-      automaticArea: true
-  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
-    9:
-      automaticArea: false
-    5:
-      automaticArea: false
-  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
-    4:
-      automaticArea: false
-  dd5283342b29832503d247cf8f972834fa8e669d:
-    5:
-      automaticArea: false
-  71692e03f458d139a3db457488869d6018d2938e:
-    3:
-      automaticArea: true
-  75d588bdb9f35d033ddd359a7e34662431cc9a16:
-    4:
-      automaticArea: false
-    3:
-      automaticArea: true
-  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
-    5:
-      automaticArea: true
-  147b01110432b812438c7bedf6f456bdaaf25835:
-    6:
-      automaticArea: false
-    3:
-      automaticArea: false
-    5:
-      automaticArea: false
-    2:
-      automaticArea: false
-  338d004e00583681c71035abd06ffdc1928040e4:
-    2:
-      automaticArea: false
-  1b99f372df4aca276657519cdd0e621d34d897b3:
-    1:
-      automaticArea: true
-  b52927935fea7573021369459f9d7badfd70761a:
-    1:
-      automaticArea: true
-  3f6a04427e80c9c40227f6e5f7797c4387f02982:
-    6:
-      automaticArea: false
-    3:
-      automaticArea: true
-    7:
-      automaticArea: false
-  e23140eac4261d6906b17722bc8c40e7a3c80ead:
-    7:
-      automaticArea: true
-    4:
-      automaticArea: true
-  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
-    2:
-      automaticArea: true
-  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
-    3:
-      automaticArea: false
-  e0c14644404db852f5459d20765bf747b9ed446c:
-    3:
-      automaticArea: true
-  e65b0def1c986b891a25a9f60e6b4d255324ca66:
-    1:
-      automaticArea: false
-  eff04e73efa08b095252cee28e6a5259bed97ad5:
-    2:
-      automaticArea: true
-  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
-    9:
-      automaticArea: true
-  dc4633affef0d85e31ef08f96806674b753a8de4:
-    3:
-      automaticArea: true
-  c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
-    7:
-      automaticArea: false
-    5:
-      automaticArea: false
-  5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
-    1:
-      automaticArea: true
-  494b5d616bd2d7bc8783e0760c0745dd8999921c:
-    4:
-      automaticArea: false
-  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
-    3:
-      automaticArea: true
-  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
-    6:
-      automaticArea: false
-    3:
-      automaticArea: false
-    5:
-      automaticArea: false
-    2:
-      automaticArea: false
-  8c38a778a590a1a3af110999a178b70ba3608172:
-    3:
-      automaticArea: true
-  932c8b8279be82deaf1dd6856e295735bbe73491:
-    5:
-      automaticArea: false
-  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
-    1:
-      automaticArea: false
-  6902049842e05bdd3651ae0355ff912e72d356d5:
-    2:
-      automaticArea: true
-lastChannelsOpen:
-  Yzzil:
-    Aliança: 11
-completed-stories:
-  raid_skypiea/p1/raid_intro_1: true
-  tobecontinued: true
-  continue: true
-  raid_skypiea/p6/raid_enel_1: true
-  raid_skypiea/p6/raid_enel_4: true
-  raid_skypiea/p5/raid_ohm_1: true
-  raid_skypiea/p3/raid_shura_3: true
-  raid_skypiea/p4/raid_gedatsu_1: true
-  raid_skypiea/p5/raid_ohm_13: true
-  raid_skypiea/p4/raid_gedatsu_3: true
-  raid_skypiea/p1/raid_war_1: true
-  raid_skypiea/p2/raid_satori_1: true
-  raid_skypiea/p3/raid_shura_1: true
-  raid_skypiea/p4/raid_gedatsu_7: true
-  waiting: true
-  raid_skypiea/p2/raid_satori_2: true
-dungeon_last_mission:
-  mode: story
 viplist-players:
   ff8f86d66f1544fb46bb0d3d461874901541023a:
     Anthy:
@@ -10852,307 +10538,767 @@ viplist-players:
     Medo Medonho:
       category: shirokuma
 log-errors:
-worldboss_difficulty:
-  invasion: normal
-  raid: nightmare
-masterVolume: 1
+auto_cast_ship: false
+uuid: dYRcHdvuF+j5majIHOm1MmZE9uk=
+account_secret: true
+login_account: Q4ocGG+vLySlVzJmnVAYFa23ZdnD4Pstfg==
+login_password: 2Y8UQ2upKin1UkE9
+shop_sales:
+  viewed:
+    74: true
+    118: true
+    148: true
+    151: true
+    128: true
+  data:
+    74: true
+    118: true
+    148: true
+    151: true
+    128: true
+  banner: https://i.imgur.com/C3QU2lB.png
+useitems:
+  useItem2: 12667
+  useItem1: 12668
+masterVolume: 10
+minimapZoom: 2
 windowedResolution:
-  width: 1920
   height: 1080
-game-interface:
-  questLogExpanded: true
-  questLogHideMissions: true
-translation-options:
-  allowErrorWindowUndock: false
-  maxFindLines: 1000
+  width: 1920
+auto_cast: false
 lastChatConfig:
   size:
-    width: 588
-    height: 260
-viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
-  -
-    minimized: true
-    name: Shirokuma
-    id: shirokuma
-    order: 1
-  -
-    minimized: true
-    name: Geral
-    id: default
-    order: 2
-auto_cast_ship: false
-MDIWindows:
-  joinWindow:
-    position:
-      y: 0
-      x: 0
-    mdiDockIndex: 2
-    isLocked: false
-    size:
-      width: 190
-      height: 300
-    parentId: gameRightPanel
-    isClosed: true
-    isMinimized: false
-  container0:
-    mdiDockIndex: 4
-    size:
-      width: 190
-      height: 253
-    isClosed: true
-    isLocked: false
-    parentId: gameRightPanel
-    position:
-      y: 204
-      x: 1714
-    isMinimized: false
-  vipWindow:
-    isClosed: true
-    position:
-      y: 204
-      x: 1714
-    mdiDockIndex: 1
-    size:
-      width: 190
-      height: 174
-    parentId: gameRightPanel
-    isLocked: false
-    isMinimized: false
+    height: 324
+    width: 710
+game_spells_extra:
+  8c38a778a590a1a3af110999a178b70ba3608172:
+    3:
+      automaticArea: true
+  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
+    9:
+      automaticArea: true
+  cda870bdf344acb3b39589494a0fa44cfc5ea92d:
+    1:
+      automaticArea: true
+  e0c14644404db852f5459d20765bf747b9ed446c:
+    3:
+      automaticArea: true
+  bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
+    2:
+      automaticArea: true
+    8:
+      automaticArea: true
+    5:
+      automaticArea: false
+    4:
+      automaticArea: false
+  6902049842e05bdd3651ae0355ff912e72d356d5:
+    2:
+      automaticArea: true
+  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
+    1:
+      automaticArea: true
+  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
+    3:
+      automaticArea: true
+    7:
+      automaticArea: false
+  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
+    1:
+      automaticArea: true
+  cd6942279e748a59951a1109ba029eaba02dddb9:
+    1:
+      automaticArea: true
+  72a87bb07802544554a587086f635a818d026a59:
+    1:
+      automaticArea: true
+  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
+    3:
+      automaticArea: false
+    5:
+      automaticArea: false
+  a689affc74a3a2cd47c5a2d12d332de03104ee86:
+    6:
+      automaticArea: true
+    9:
+      automaticArea: true
+  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
+    6:
+      automaticArea: false
+  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
+    6:
+      automaticArea: false
+  f15592b8021219d77b27fe3013f5cf32ec3683d0:
+    1:
+      automaticArea: true
+  1988a95c1df92dc38c827d583944abe0e96101ce:
+    3:
+      automaticArea: true
+  04a9b6d9a2ddad57a217969981048ce1693855f4:
+    8:
+      automaticArea: true
+  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
+    3:
+      automaticArea: false
+  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
+    3:
+      automaticArea: true
+  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
+    5:
+      automaticArea: false
+    4:
+      automaticArea: true
+  677521146dc31e15a41bbc760d204465013aadf9:
+    7:
+      automaticArea: false
+  019919509fe4924f5d691cffa907604e17f73dfb:
+    1:
+      automaticArea: true
+  16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
+    2:
+      automaticArea: false
+  20c5925f4552ab1d571a0f5cd05947ca64abd039:
+    3:
+      automaticArea: true
+  381e13fbbca185be880727ab89367c79b2221b56:
+    6:
+      automaticArea: true
+  7fc1b08d336798d034bce920591cf3613a3cd218:
+    1:
+      automaticArea: false
+  f270eb4ac60396b9bf39fb60b9c063b36fb4c402:
+    5:
+      automaticArea: false
+  68be479a91e2ee907ab7ce5867015215fb357cd4:
+    1:
+      automaticArea: true
+  fd9a75f0945173209364b87c922dc5c0641bdc0e:
+    5:
+      automaticArea: true
+    3:
+      automaticArea: true
+  0d1d7dc5ea5ef07fc5f0ed0dcf95b0261fd5c8ca:
+    2:
+      automaticArea: false
+    1:
+      automaticArea: true
+  a9439ed1b60082d820adf8da192b1e47fa15ab08:
+    2:
+      automaticArea: true
+  128c41cc3dbb560a41c0bb9b0dcbcd615d3a6143:
+    4:
+      automaticArea: false
+  84aa30682e44604c2808f19f13542ce6c5932533:
+    3:
+      automaticArea: true
+    4:
+      automaticArea: false
+  0e943fb8206bed6c15233711e622f8c1a8c3e65f:
+    1:
+      automaticArea: true
+  d22829d7360ca847cab7e269001260e34f966d4e:
+    1:
+      automaticArea: true
+  7a70cd33b418d385c652ac79e43065d37f415db0:
+    8:
+      automaticArea: true
+  e96305abdd9d8b8fd585d27588af04f4627a64ba:
+    2:
+      automaticArea: false
+    4:
+      automaticArea: false
+  72b174b3832303f2973606b440ef42321d445ae6:
+    2:
+      automaticArea: false
+    4:
+      automaticArea: false
+  e65b0def1c986b891a25a9f60e6b4d255324ca66:
+    1:
+      automaticArea: false
+  932c8b8279be82deaf1dd6856e295735bbe73491:
+    5:
+      automaticArea: false
+  4357131be1f4691baa1f9ceed65401bb91500d74:
+    2:
+      automaticArea: false
+  5b3dddd664916361b6685d4b35d38ed2c0e29cb2:
+    1:
+      automaticArea: true
+  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
+    3:
+      automaticArea: true
+    5:
+      automaticArea: true
+  69aa59dffb07e06ed45e84585a3985592b980a96:
+    4:
+      automaticArea: false
+  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
+    2:
+      automaticArea: false
+    6:
+      automaticArea: false
+    5:
+      automaticArea: false
+    3:
+      automaticArea: false
+  f819bd8fcab7115040bef6cf963f4ef5da343f00:
+    2:
+      automaticArea: true
+    6:
+      automaticArea: true
+    4:
+      automaticArea: false
+  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
+    5:
+      automaticArea: false
+    9:
+      automaticArea: false
+  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
+    4:
+      automaticArea: false
+  dd5283342b29832503d247cf8f972834fa8e669d:
+    5:
+      automaticArea: false
+  75d588bdb9f35d033ddd359a7e34662431cc9a16:
+    3:
+      automaticArea: true
+    4:
+      automaticArea: false
+  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
+    2:
+      automaticArea: true
+  e23140eac4261d6906b17722bc8c40e7a3c80ead:
+    4:
+      automaticArea: true
+    7:
+      automaticArea: true
+  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
+    3:
+      automaticArea: true
+  eff04e73efa08b095252cee28e6a5259bed97ad5:
+    2:
+      automaticArea: true
+  1b99f372df4aca276657519cdd0e621d34d897b3:
+    1:
+      automaticArea: true
+  b52927935fea7573021369459f9d7badfd70761a:
+    1:
+      automaticArea: true
+  ced51183152907f92e0e8e356ece16a46d650a66:
+    1:
+      automaticArea: true
+  3f6a04427e80c9c40227f6e5f7797c4387f02982:
+    3:
+      automaticArea: true
+    6:
+      automaticArea: false
+    7:
+      automaticArea: false
+  71692e03f458d139a3db457488869d6018d2938e:
+    3:
+      automaticArea: true
+  c4304a59294665111e65f5d74d7961989d25260b:
+    5:
+      automaticArea: false
+    3:
+      automaticArea: false
+  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
+    5:
+      automaticArea: true
+  147b01110432b812438c7bedf6f456bdaaf25835:
+    2:
+      automaticArea: false
+    6:
+      automaticArea: false
+    5:
+      automaticArea: false
+    3:
+      automaticArea: false
+  338d004e00583681c71035abd06ffdc1928040e4:
+    2:
+      automaticArea: false
+  1a2b40b45157313bfef35f4073b7e95428b14c38:
+    5:
+      automaticArea: false
+  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
+    3:
+      automaticArea: false
+  dc4633affef0d85e31ef08f96806674b753a8de4:
+    3:
+      automaticArea: true
+  0b911d75c99ef05c5db302cabb192097f4419afd:
+    2:
+      automaticArea: false
+    6:
+      automaticArea: false
+    5:
+      automaticArea: false
+    3:
+      automaticArea: true
+  80719ab162f0908212d01fd840ad39c1fdaf65f9:
+    3:
+      automaticArea: true
+  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
+    1:
+      automaticArea: false
+  494b5d616bd2d7bc8783e0760c0745dd8999921c:
+    4:
+      automaticArea: false
+  c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
+    5:
+      automaticArea: false
+    7:
+      automaticArea: false
+  5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
+    1:
+      automaticArea: true
+  db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
+    5:
+      automaticArea: true
+game-interface:
+  questLogExpanded: true
+  questLogHideMissions: false
+completed-stories:
+  raid_skypiea/p1/raid_intro_1: true
+  tobecontinued: true
+  continue: true
+  raid_skypiea/p6/raid_enel_1: true
+  raid_skypiea/p6/raid_enel_4: true
+  raid_skypiea/p5/raid_ohm_1: true
+  raid_skypiea/p3/raid_shura_3: true
+  raid_skypiea/p4/raid_gedatsu_1: true
+  raid_skypiea/p5/raid_ohm_13: true
+  5_krieg/p5/1: true
+  5_krieg/p6/1: true
+  raid_skypiea/p2/raid_satori_1: true
+  raid_skypiea/p3/raid_shura_1: true
+  raid_skypiea/p4/raid_gedatsu_7: true
+  raid_skypiea/p2/raid_satori_2: true
+  event_xmas/event_christmas/p3/1: true
+  event_xmas/chopper_blackmarket/event_xmas_chopper002: true
+  event_xmas/chopper_blackmarket/event_xmas_chopper001: true
+  event_xmas/event_christmas/p2/1: true
+  event_xmas/event_christmas/p6/1: true
+  event_xmas/event_christmas/p5/1: true
+  5_krieg/p7/1: true
+  14_jaya/p2/jaya_story_17: true
+  5_krieg/p2/1: true
+  5_krieg/p3/1: true
+  14_jaya/p5/jaya_story_29: true
+  14_jaya/p4/jaya_story_26: true
+  14_jaya/p1/jaya_story_1: true
+  raid_skypiea/p4/raid_gedatsu_3: true
+  5_krieg/p1/1: true
+  event_xmas/chopper_blackmarket/event_xmas_chopper004: true
+  5_krieg/p4/1: true
+  raid_skypiea/p1/raid_war_1: true
+  14_jaya/p3/jaya_story_19: true
+  raid_enies/p2/1: true
+  raid_enies/p1/1: true
+  raid_enies/p15/1: true
+  raid_enies/p12/1: true
+  raid_enies/p13/1: true
+  raid_enies/p8/1: true
+  raid_enies/p9/1: true
+  raid_enies/p7/1: true
+  raid_enies/p14/1: true
+  raid_enies/p11/1: true
+  raid_enies/p5/1: true
+  waiting: true
+  raid_enies/p4/1: true
+  raid_enies/p3/1: true
+  raid_enies/p6/1: true
+  6_arlong/p5/2: true
+  island_events/stories_sabaody/marines/invasion_sabaody_marines01: true
+  6_arlong/p4/1: true
+  island_events/stories_sabaody/marines/invasion_sabaody_marines04: true
+  6_arlong/p6/1: true
+  6_arlong/p3/1: true
+  6_arlong/p2/1: true
+  6_arlong/p1/1: true
+  island_events/stories_enies/escape/invasion_enies_escape4: true
+  island_events/stories_enies/escape/invasion_enies_escape1: true
+  raid_enies/p10/1: true
+  event_xmas/event_christmas/p4/1: true
+  event_xmas/event_christmas/p1/1: true
 bossLifeBarPos:
   y: 0
   x: 0
+dungeon_last_mission:
+  id: arlong_normal
+  difficultyId: normal
+  mode: story
+translation-options:
+  maxFindLines: 1000
+  allowErrorWindowUndock: false
+lastChannelsOpen:
+  Yzzil:
+    Aliança: 11
+    Grupos: 3
+game_chat:
+  messageHistory:
+    - bora tilana
+    - bora que bora
+    - bzl
+    - blz
+    - olha o homem fazendo sm como sempre
+    - participar do torneio hoje para ajudar o amigo a pegar a sequencia dos bonecos?
+    - estou lá já
+    - sim, etou mutado, pois mulher esta vendo master chef do meu lado
+    - segunda temporado dos profissionais
+    - já vimos a primeira
+    - e as duas de confeitaria
+    - agora escuto vocês
+    - vou mutar de volta
+    - ai vc podem continuar
+    - 2 barril
+    - ahhhhh
+    - hoje nao é dia kkk
+    - |-
+       *** em frost, depois te contar o role da internet, do pc e do so
+    - ??
+    - 1 min
+    - |-
+      k k k k k 
+    - pergaminho
+    - ficarei hoje
+    - segura ai
+    - vou levar o lixo
+    - quero 5 minutos agora
+    - e nada de contar filhos
+    - pronto filhos
+    - estou de volta
+    - PT UP ENIES LOBBY 1/3
+    - pt, faço sup ou dps ranged
+    - vaga?
+    - falta o que?
+    - falta o que meu querido?
+    - ok
+    - +1 enies lobby sup/dps
+    - achei
+    - tenho que escrever a minha ainda
+    - não posso esquecer
+    - entrar daqui a pouco
+    - espera
+    - nada pow
+    - tenho tudo
+    - go?
+    - |-
+       *** estou com um azaar do *** , toda hora ele vira para mim
+    - toda hora ele vira de frente
+    - mas estou ficando na diagonal
+    - vc sabe o que é CD amigo?
+    - aqui cura tudo?
+    - cura tudo?
+    - oi?
+    - é para utar para baixo?
+    - fui trapado
+    - oi tilapia
+    - parede
+    - wp
+    - olha o homem das sms ai
+    - partiu?
+    - já estou na call qualquer coisa
+    - ARLONG CHAVE +1
+    - pega chave lá meu patrão
+    - ARLONG KEY +1
+    - ashuashuahs
+    - ta chamando kkkk
+    - estou de olho aqui daqui a pouco entro no discord
+    - tentar ver se é isso mesmo
+    - cara, falar que só do jeito que está continua puxando ram
+    - não encontrei o que é
+    - vou ver outra parada aqui só de curiocidade
+    - se realmente for isso
+    - |-
+       *** 
+    - vou ficar maluco
+viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
+  -
+    minimized: true
+    id: shirokuma
+    order: 1
+    name: Shirokuma
+  -
+    id: default
+    name: Geral
+    order: 2
+    minimized: true
+worldboss_difficulty:
+  invasion: hard
+  bounty: hard
+  raid: nightmare
+MDIWindows:
+  joinWindow:
+    isLocked: false
+    size:
+      height: 300
+      width: 190
+    isMinimized: false
+    mdiDockIndex: 2
+    isClosed: true
+    parentId: gameRightPanel
+    position:
+      y: 0
+      x: 0
+  vipWindow:
+    isLocked: false
+    size:
+      height: 174
+      width: 190
+    isMinimized: false
+    mdiDockIndex: 1
+    position:
+      y: 204
+      x: 1726
+    parentId: gameRightPanel
+    isClosed: true
+  container0:
+    isLocked: false
+    size:
+      height: 253
+      width: 190
+    isMinimized: false
+    mdiDockIndex: 4
+    position:
+      y: 204
+      x: 1726
+    parentId: gameRightPanel
+    isClosed: true
+IgnoreChannelsPreview:
+  - Grupos
 window:
-  maximized: true
-  position:
-    y: 156
-    x: 277
   size:
+    height: 1008
     width: 1920
-    height: 1080
-  borderless: false
+  maximized: false
+  position:
+    y: 0
+    x: 1920
   fullscreen: false
+  borderless: false
 sgpproxies:
   R3tLBm9/SHpDWHd2
     dataCenter: GyIWQzM0AGceGg==
-    pubPing: 206
-    privPing: 187
-    lastPubPingAtMs: 1765020620260
-    lastSeenAt: 1765020402
+    pubPing: 244
+    privPing: 185
+    lastPubPingAtMs: 1766191145116
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600534
     failedLastConnectPing: false
     ports:
-      - 7003
-      - 7002
-      - 7000
       - 7001
+      - 7000
+      - 7002
+      - 7003
   QnpWGWpiTWRCQGtyZgQ=
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 190
-    privPing: 133
-    lastPubPingAtMs: 1765020618820
-    lastSeenAt: 1765020402
+    pubPing: 224
+    privPing: 131
+    lastPubPingAtMs: 1766191145096
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600534
     failedLastConnectPing: false
     ports:
-      - 7003
-      - 7000
-      - 7001
       - 7002
+      - 7001
+      - 7000
+      - 7003
   QnVQGWphQGRBQXxtZQY=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 123
-    privPing: 110
-    lastPubPingAtMs: 1765020641953
-    lastSeenAt: 1765020402
+    pubPing: 164
+    privPing: 113
+    lastPubPingAtMs: 1766191145036
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1765020331263
+    avoidUntilAtMs: 1766190609006
+    lastUsedAtMs: 1766190604005
     failedLastConnectPing: false
     ports:
-      - 7003
-      - 7001
-      - 7000
       - 7002
+      - 7000
+      - 7001
+      - 7003
   QnpSGW1lV3tETmt1Yg==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 13
-    privPing: 0
-    lastPubPingAtMs: 1765020761813
-    lastSeenAt: 1765020402
+    pubPing: 57
+    privPing: 2
+    lastPubPingAtMs: 1766191144929
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1764847240429
-    lastUsedAtMs: 1765020402387
+    avoidUntilAtMs: 1766190609006
+    lastUsedAtMs: 1766190604005
     failedLastConnectPing: false
     ports:
-      - 7001
-      - 7002
-      - 7003
       - 7000
+      - 7003
+      - 7002
+      - 7001
   SnhLBm5lV35eRHZx
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 246
-    privPing: 3
-    lastPubPingAtMs: 1765020620279
-    lastSeenAt: 1765020402
+    pubPing: 281
+    privPing: 4
+    lastPubPingAtMs: 1766191145153
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1764615001184
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600533
     failedLastConnectPing: false
     ports:
-      - 7001
-      - 7002
-      - 7003
       - 7000
+      - 7003
+      - 7002
+      - 7001
   QnpSGW1lV3tEQmtyYgY=
     dataCenter: HywRXiwkHS9dBSQs
     pubPing: 13
-    privPing: 3
-    lastPubPingAtMs: 1765020641644
-    lastSeenAt: 1765020402
+    privPing: 0
+    lastPubPingAtMs: 1766191209927
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1764847235928
-    lastUsedAtMs: 1765020331263
+    avoidUntilAtMs: 1766190605472
+    lastUsedAtMs: 1766191144915
     failedLastConnectPing: false
     ports:
-      - 7002
-      - 7003
-      - 7001
       - 7000
+      - 7001
+      - 7003
+      - 7002
   QnlSGWliTGRBWHR2ZQ==
     dataCenter: HDsNGi44Fw==
-    pubPing: 177
-    privPing: 124
-    lastPubPingAtMs: 1765020618413
-    lastSeenAt: 1765020402
+    pubPing: 216
+    privPing: 126
+    lastPubPingAtMs: 1766191145088
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1764613758355
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600534
     failedLastConnectPing: false
     ports:
-      - 7001
-      - 7000
-      - 7003
       - 7002
+      - 7003
+      - 7000
+      - 7001
   SnhLBm5lV35eR3Bx
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 246
-    privPing: 3
-    lastPubPingAtMs: 1765020620278
-    lastSeenAt: 1765020402
+    pubPing: 289
+    privPing: 4
+    lastPubPingAtMs: 1766191145161
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1764630311782
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600534
     failedLastConnectPing: false
     ports:
-      - 7003
-      - 7002
-      - 7001
       - 7000
+      - 7001
+      - 7002
+      - 7003
   QnVQGWphQGRBQXxtZQI=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 119
-    privPing: 114
-    lastPubPingAtMs: 1765020761593
-    lastSeenAt: 1765020402
+    pubPing: 170
+    privPing: 113
+    lastPubPingAtMs: 1766191145042
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1765020402387
+    avoidUntilAtMs: 1766190609006
+    lastUsedAtMs: 1766190604006
     failedLastConnectPing: false
     ports:
-      - 7003
-      - 7001
-      - 7000
       - 7002
+      - 7000
+      - 7001
+      - 7003
   QnpWGWphQWRJTmtyYQ==
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 168
-    privPing: 113
-    lastPubPingAtMs: 1765020618392
-    lastSeenAt: 1765020402
+    pubPing: 190
+    privPing: 112
+    lastPubPingAtMs: 1766191145062
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600533
     failedLastConnectPing: false
     ports:
-      - 7001
-      - 7002
-      - 7003
       - 7000
+      - 7003
+      - 7002
+      - 7001
   R3hLD2p/S35FWHR0Zw==
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 245
-    privPing: 3
-    lastPubPingAtMs: 1765020620272
-    lastSeenAt: 1765020402
+    pubPing: 292
+    privPing: 4
+    lastPubPingAtMs: 1766191145164
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1764615047955
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600534
     failedLastConnectPing: false
     ports:
+      - 7001
+      - 7002
+      - 7003
       - 7000
-      - 7003
-      - 7002
-      - 7001
-  QnpSGW1lV3tEQWt1YA==
-    dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 13
-    privPing: 0
-    lastPubPingAtMs: 1765020570454
-    lastSeenAt: 1765020402
+  QnlRGWpgTmRBRmtyZQU=
+    dataCenter: HDsNGjo5Cg==
+    pubPing: 217
+    privPing: 140
+    lastPubPingAtMs: 1766191145089
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1764847243429
-    lastUsedAtMs: 1765019600312
+    avoidUntilAtMs: 1766190605534
+    lastUsedAtMs: 1766190600534
     failedLastConnectPing: false
     ports:
-      - 7003
       - 7002
       - 7001
+      - 7003
       - 7000
   RXpLBWliV3tCRmtyYQk=
     dataCenter: HywRXiwkHS9dGDwg
     pubPing: 119
-    privPing: 113
-    lastPubPingAtMs: 1765020570755
-    lastSeenAt: 1765020402
+    privPing: 110
+    lastPubPingAtMs: 1766191209777
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1765019600312
+    avoidUntilAtMs: 1766190605472
+    lastUsedAtMs: 1766191144915
     failedLastConnectPing: false
     ports:
-      - 7001
-      - 7000
-      - 7003
       - 7002
-  QnlRGWpgTmRBRmtyZQU=
-    dataCenter: HDsNGjo5Cg==
-    pubPing: 186
-    privPing: 127
-    lastPubPingAtMs: 1765020618610
-    lastSeenAt: 1765020402
+      - 7003
+      - 7000
+      - 7001
+  QnpSGW1lV3tEQWt1YA==
+    dataCenter: HywRXiwkHS9dBSQs
+    pubPing: 62
+    privPing: 3
+    lastPubPingAtMs: 1766191144934
+    lastSeenAt: 1766191145
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    avoidUntilAtMs: 1766190609006
+    lastUsedAtMs: 1766190604006
     failedLastConnectPing: false
     ports:
       - 7000
-      - 7003
       - 7001
       - 7002
+      - 7003
