@@ -37,7 +37,6 @@ mouseWalk: false
 smartWalk: true
 activateControllerOnStart: true
 asyncLoadMinimap: false
-fullscreen: Windowed
 windowResolution: Auto Detect
 joystickMode: 1
 opacityGameActions: 100
@@ -529,8 +528,7 @@ MinimapFlags:
       style: MinimapFlagLoot
     -
       category: player_flags
-      description: |-
-        ÁGUA PARA SABOTAR 
+      description: ÁGUA PARA SABOTAR
       position:
         y: 1053
         x: 1211
@@ -1428,8 +1426,7 @@ MinimapFlags:
       style: MinimapFlagSquid
     -
       category: player_flags
-      description: |-
-        madeira 
+      description: madeira
       position:
         y: 1060
         x: 1265
@@ -1437,8 +1434,7 @@ MinimapFlags:
       style: MinimapFlagLoot
     -
       category: player_flags
-      description: |-
-        madeira 
+      description: madeira
       position:
         y: 1044
         x: 1258
@@ -1446,8 +1442,7 @@ MinimapFlags:
       style: MinimapFlagLoot
     -
       category: player_flags
-      description: |-
-        madeira 
+      description: madeira
       position:
         y: 1076
         x: 1280
@@ -1455,8 +1450,7 @@ MinimapFlags:
       style: MinimapFlagLoot
     -
       category: player_flags
-      description: |-
-        madeira 
+      description: madeira
       position:
         y: 1086
         x: 1281
@@ -1521,8 +1515,7 @@ MinimapFlags:
       style: MinimapFlagLoot
     -
       category: player_flags
-      description: |-
-        coletar cerejas 
+      description: coletar cerejas
       position:
         y: 1138
         x: 1016
@@ -3070,8 +3063,7 @@ MinimapFlags:
       style: MinimapFlagLoot
     -
       category: player_flags
-      description: |-
-        INVESTIGAR 
+      description: INVESTIGAR
       position:
         y: 1043
         x: 1007
@@ -3375,8 +3367,7 @@ MinimapFlags:
       style: MinimapFlagChest
     -
       category: player_flags
-      description: |-
-        BAU 
+      description: BAU
       position:
         y: 993
         x: 995
@@ -4468,8 +4459,7 @@ MinimapFlags:
       style: MinimapFlagWarning
     -
       category: player_flags
-      description: |-
-        KUJA COMMANDER 
+      description: KUJA COMMANDER
       position:
         y: 1164
         x: 1193
@@ -6154,8 +6144,7 @@ MinimapFlags:
       style: MinimapFlagWarning
     -
       category: player_flags
-      description: |-
-        GORDÃO 
+      description: GORDÃO
       position:
         y: 885
         x: 1153
@@ -7383,8 +7372,7 @@ MinimapFlags:
       style: MinimapFlagArrowFish
     -
       category: player_flags
-      description: |-
-        BAU 
+      description: BAU
       position:
         y: 1339
         x: 1962
@@ -10539,10 +10527,6 @@ viplist-players:
       category: shirokuma
 log-errors:
 auto_cast_ship: false
-uuid: dYRcHdvuF+j5majIHOm1MmZE9uk=
-account_secret: true
-login_account: Q4ocGG+vLySlVzJmnVAYFa23ZdnD4Pstfg==
-login_password: 2Y8UQ2upKin1UkE9
 shop_sales:
   viewed:
     74: true
@@ -10557,19 +10541,8 @@ shop_sales:
     151: true
     128: true
   banner: https://i.imgur.com/C3QU2lB.png
-useitems:
-  useItem2: 12667
-  useItem1: 12668
-masterVolume: 10
 minimapZoom: 2
-windowedResolution:
-  height: 1080
-  width: 1920
 auto_cast: false
-lastChatConfig:
-  size:
-    height: 324
-    width: 710
 game_spells_extra:
   8c38a778a590a1a3af110999a178b70ba3608172:
     3:
@@ -10855,86 +10828,14 @@ game_spells_extra:
   db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
     5:
       automaticArea: true
-game-interface:
-  questLogExpanded: true
-  questLogHideMissions: false
-completed-stories:
-  raid_skypiea/p1/raid_intro_1: true
-  tobecontinued: true
-  continue: true
-  raid_skypiea/p6/raid_enel_1: true
-  raid_skypiea/p6/raid_enel_4: true
-  raid_skypiea/p5/raid_ohm_1: true
-  raid_skypiea/p3/raid_shura_3: true
-  raid_skypiea/p4/raid_gedatsu_1: true
-  raid_skypiea/p5/raid_ohm_13: true
-  5_krieg/p5/1: true
-  5_krieg/p6/1: true
-  raid_skypiea/p2/raid_satori_1: true
-  raid_skypiea/p3/raid_shura_1: true
-  raid_skypiea/p4/raid_gedatsu_7: true
-  raid_skypiea/p2/raid_satori_2: true
-  event_xmas/event_christmas/p3/1: true
-  event_xmas/chopper_blackmarket/event_xmas_chopper002: true
-  event_xmas/chopper_blackmarket/event_xmas_chopper001: true
-  event_xmas/event_christmas/p2/1: true
-  event_xmas/event_christmas/p6/1: true
-  event_xmas/event_christmas/p5/1: true
-  5_krieg/p7/1: true
-  14_jaya/p2/jaya_story_17: true
-  5_krieg/p2/1: true
-  5_krieg/p3/1: true
-  14_jaya/p5/jaya_story_29: true
-  14_jaya/p4/jaya_story_26: true
-  14_jaya/p1/jaya_story_1: true
-  raid_skypiea/p4/raid_gedatsu_3: true
-  5_krieg/p1/1: true
-  event_xmas/chopper_blackmarket/event_xmas_chopper004: true
-  5_krieg/p4/1: true
-  raid_skypiea/p1/raid_war_1: true
-  14_jaya/p3/jaya_story_19: true
-  raid_enies/p2/1: true
-  raid_enies/p1/1: true
-  raid_enies/p15/1: true
-  raid_enies/p12/1: true
-  raid_enies/p13/1: true
-  raid_enies/p8/1: true
-  raid_enies/p9/1: true
-  raid_enies/p7/1: true
-  raid_enies/p14/1: true
-  raid_enies/p11/1: true
-  raid_enies/p5/1: true
-  waiting: true
-  raid_enies/p4/1: true
-  raid_enies/p3/1: true
-  raid_enies/p6/1: true
-  6_arlong/p5/2: true
-  island_events/stories_sabaody/marines/invasion_sabaody_marines01: true
-  6_arlong/p4/1: true
-  island_events/stories_sabaody/marines/invasion_sabaody_marines04: true
-  6_arlong/p6/1: true
-  6_arlong/p3/1: true
-  6_arlong/p2/1: true
-  6_arlong/p1/1: true
-  island_events/stories_enies/escape/invasion_enies_escape4: true
-  island_events/stories_enies/escape/invasion_enies_escape1: true
-  raid_enies/p10/1: true
-  event_xmas/event_christmas/p4/1: true
-  event_xmas/event_christmas/p1/1: true
-bossLifeBarPos:
-  y: 0
-  x: 0
-dungeon_last_mission:
-  id: arlong_normal
-  difficultyId: normal
-  mode: story
-translation-options:
-  maxFindLines: 1000
-  allowErrorWindowUndock: false
-lastChannelsOpen:
-  Yzzil:
-    Aliança: 11
-    Grupos: 3
+IgnoreChannelsPreview:
+  - Grupos
+uuid: G1DiFyaKavOmyv8lYP7/pbXw21A=
+account_secret: true
+login_account: +V5jEFtSt27wMMKI/8ZHWVZx/wJ5NIQlSg==
+login_password: Y1trS19UsmOgNbHT
+painter: OGL2
+masterVolume: 5
 game_chat:
   messageHistory:
     - bora tilana
@@ -10958,8 +10859,7 @@ game_chat:
        *** em frost, depois te contar o role da internet, do pc e do so
     - ??
     - 1 min
-    - |-
-      k k k k k 
+    - k k k k k
     - pergaminho
     - ficarei hoje
     - segura ai
@@ -11013,77 +10913,190 @@ game_chat:
     - |-
        *** 
     - vou ficar maluco
+    - qual era a logica mesmo, conta 1 lado e multiplica por 3?
+    - hmm
+    - legal
+    - 12?
+    - :D
+    - no flagra
+    - uhum
+    - fez com o que?
+    - ahhh, iria comentar isso, pq fiz de morgan e me sobrou mais de 20k de vida
+    - porém no hard
+    - acho que nunca levei ult dela até agora
+    - assim esperamos
+    - até
+    - |-
+       *** 
+    - as 11 tentativas kkk
+    - para 1 level kkkkkkkkkkkkkkkkkkkkkkkk
+    - não mesmo, ferreiro ta puto
+windowedResolution:
+  height: 1080
+  width: 1920
+lastChatConfig:
+  size:
+    height: 324
+    width: 710
+bossLifeBarPos:
+  y: 0
+  x: 0
+lastChannelsOpen:
+  Yzzil:
+    Grupos: 3
+    Aliança: 11
+completed-stories:
+  raid_enies/p6/1: true
+  6_arlong/p5/2: true
+  island_events/stories_sabaody/marines/invasion_sabaody_marines01: true
+  6_arlong/p4/1: true
+  island_events/stories_sabaody/marines/invasion_sabaody_marines04: true
+  6_arlong/p6/1: true
+  6_arlong/p3/1: true
+  6_arlong/p2/1: true
+  6_arlong/p1/1: true
+  island_events/stories_enies/escape/invasion_enies_escape4: true
+  island_events/stories_enies/escape/invasion_enies_escape1: true
+  raid_enies/p10/1: true
+  event_xmas/event_christmas/p4/1: true
+  event_xmas/event_christmas/p1/1: true
+  7_smoker/p8/1: true
+  7_smoker/p3/1: true
+  7_smoker/p5/1: true
+  7_smoker/p4/1: true
+  7_smoker/p7/1: true
+  7_smoker/p6/1: true
+  raid_skypiea/p4/raid_gedatsu_1: true
+  event_xmas/event_christmas/p6/1: true
+  raid_enies/p11/1: true
+  raid_skypiea/p1/raid_intro_1: true
+  tobecontinued: true
+  continue: true
+  raid_skypiea/p6/raid_enel_1: true
+  raid_skypiea/p6/raid_enel_4: true
+  raid_skypiea/p5/raid_ohm_1: true
+  raid_skypiea/p3/raid_shura_3: true
+  waiting: true
+  raid_skypiea/p5/raid_ohm_13: true
+  5_krieg/p5/1: true
+  5_krieg/p6/1: true
+  raid_skypiea/p2/raid_satori_1: true
+  raid_skypiea/p3/raid_shura_1: true
+  raid_skypiea/p4/raid_gedatsu_7: true
+  raid_skypiea/p2/raid_satori_2: true
+  event_xmas/event_christmas/p3/1: true
+  event_xmas/chopper_blackmarket/event_xmas_chopper002: true
+  event_xmas/chopper_blackmarket/event_xmas_chopper001: true
+  event_xmas/event_christmas/p2/1: true
+  7_smoker/p1/1: true
+  event_xmas/event_christmas/p5/1: true
+  5_krieg/p7/1: true
+  14_jaya/p2/jaya_story_17: true
+  5_krieg/p2/1: true
+  5_krieg/p3/1: true
+  14_jaya/p5/jaya_story_29: true
+  14_jaya/p4/jaya_story_26: true
+  14_jaya/p1/jaya_story_1: true
+  raid_skypiea/p4/raid_gedatsu_3: true
+  5_krieg/p1/1: true
+  event_xmas/chopper_blackmarket/event_xmas_chopper004: true
+  5_krieg/p4/1: true
+  raid_skypiea/p1/raid_war_1: true
+  14_jaya/p3/jaya_story_19: true
+  raid_enies/p2/1: true
+  raid_enies/p1/1: true
+  raid_enies/p15/1: true
+  raid_enies/p12/1: true
+  raid_enies/p13/1: true
+  raid_enies/p8/1: true
+  raid_enies/p9/1: true
+  raid_enies/p7/1: true
+  raid_enies/p14/1: true
+  7_smoker/p2/1: true
+  raid_enies/p5/1: true
+  raid_enies/p4/1: true
+  raid_enies/p3/1: true
+game-interface:
+  questLogHideMissions: true
+  questLogExpanded: true
 viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
   -
-    minimized: true
-    id: shirokuma
     order: 1
+    id: shirokuma
     name: Shirokuma
   -
+    order: 2
     id: default
     name: Geral
-    order: 2
-    minimized: true
+translation-options:
+  allowErrorWindowUndock: false
+  maxFindLines: 1000
 worldboss_difficulty:
-  invasion: hard
-  bounty: hard
   raid: nightmare
+  invasion: hard
+  bounty: nightmare
+useitems:
+  useItem1: 12667
+  useItem2: 0
+dungeon_last_mission:
+  difficultyId: normal
+  id: event_christmas
+  mode: event
+fullscreen: Windowed
 MDIWindows:
-  joinWindow:
+  container0:
+    size:
+      height: 253
+      width: 190
+    isClosed: false
+    parentId: gameRightPanel
+    isMinimized: false
+    position:
+      y: 204
+      x: 1726
+    mdiDockIndex: 4
     isLocked: false
+  joinWindow:
     size:
       height: 300
       width: 190
-    isMinimized: false
-    mdiDockIndex: 2
     isClosed: true
     parentId: gameRightPanel
+    isMinimized: false
+    mdiDockIndex: 2
+    isLocked: false
     position:
       y: 0
       x: 0
   vipWindow:
-    isLocked: false
     size:
-      height: 174
+      height: 501
       width: 190
+    isClosed: true
+    parentId: gameRightPanel
     isMinimized: false
+    position:
+      y: 0
+      x: 0
+    isLocked: false
     mdiDockIndex: 1
-    position:
-      y: 204
-      x: 1726
-    parentId: gameRightPanel
-    isClosed: true
-  container0:
-    isLocked: false
-    size:
-      height: 253
-      width: 190
-    isMinimized: false
-    mdiDockIndex: 4
-    position:
-      y: 204
-      x: 1726
-    parentId: gameRightPanel
-    isClosed: true
-IgnoreChannelsPreview:
-  - Grupos
 window:
   size:
-    height: 1008
-    width: 1920
-  maximized: false
+    height: 540
+    width: 960
   position:
-    y: 0
-    x: 1920
-  fullscreen: false
+    y: 280
+    x: 682
   borderless: false
+  maximized: true
+  fullscreen: false
 sgpproxies:
   R3tLBm9/SHpDWHd2
     dataCenter: GyIWQzM0AGceGg==
-    pubPing: 244
-    privPing: 185
-    lastPubPingAtMs: 1766191145116
-    lastSeenAt: 1766191145
+    pubPing: 200
+    privPing: 186
+    lastPubPingAtMs: 1766294484328
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11096,10 +11109,10 @@ sgpproxies:
       - 7003
   QnpWGWpiTWRCQGtyZgQ=
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 224
-    privPing: 131
-    lastPubPingAtMs: 1766191145096
-    lastSeenAt: 1766191145
+    pubPing: 180
+    privPing: 133
+    lastPubPingAtMs: 1766294481308
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11112,14 +11125,14 @@ sgpproxies:
       - 7003
   QnVQGWphQGRBQXxtZQY=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 164
+    pubPing: 121
     privPing: 113
-    lastPubPingAtMs: 1766191145036
-    lastSeenAt: 1766191145
+    lastPubPingAtMs: 1766294537858
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766190604005
+    lastUsedAtMs: 1766293049380
     failedLastConnectPing: false
     ports:
       - 7002
@@ -11128,14 +11141,14 @@ sgpproxies:
       - 7003
   QnpSGW1lV3tETmt1Yg==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 57
-    privPing: 2
-    lastPubPingAtMs: 1766191144929
-    lastSeenAt: 1766191145
+    pubPing: 13
+    privPing: 0
+    lastPubPingAtMs: 1766294529342
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766190604005
+    lastUsedAtMs: 1766293588925
     failedLastConnectPing: false
     ports:
       - 7000
@@ -11144,14 +11157,14 @@ sgpproxies:
       - 7001
   SnhLBm5lV35eRHZx
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 281
-    privPing: 4
-    lastPubPingAtMs: 1766191145153
-    lastSeenAt: 1766191145
+    pubPing: 233
+    privPing: 3
+    lastPubPingAtMs: 1766294529566
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
-    lastUsedAtMs: 1766190600533
+    lastUsedAtMs: 1766293588925
     failedLastConnectPing: false
     ports:
       - 7000
@@ -11162,12 +11175,12 @@ sgpproxies:
     dataCenter: HywRXiwkHS9dBSQs
     pubPing: 13
     privPing: 0
-    lastPubPingAtMs: 1766191209927
-    lastSeenAt: 1766191145
+    lastPubPingAtMs: 1766294548585
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1766190605472
-    lastUsedAtMs: 1766191144915
+    avoidUntilAtMs: 1766290922664
+    lastUsedAtMs: 1766294445866
     failedLastConnectPing: false
     ports:
       - 7000
@@ -11176,10 +11189,10 @@ sgpproxies:
       - 7002
   QnlSGWliTGRBWHR2ZQ==
     dataCenter: HDsNGi44Fw==
-    pubPing: 216
-    privPing: 126
-    lastPubPingAtMs: 1766191145088
-    lastSeenAt: 1766191145
+    pubPing: 160
+    privPing: 127
+    lastPubPingAtMs: 1766294481287
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11192,14 +11205,14 @@ sgpproxies:
       - 7001
   SnhLBm5lV35eR3Bx
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 289
-    privPing: 4
-    lastPubPingAtMs: 1766191145161
-    lastSeenAt: 1766191145
+    pubPing: 236
+    privPing: 3
+    lastPubPingAtMs: 1766294445308
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
-    lastUsedAtMs: 1766190600534
+    lastUsedAtMs: 1766294049291
     failedLastConnectPing: false
     ports:
       - 7000
@@ -11208,14 +11221,14 @@ sgpproxies:
       - 7003
   QnVQGWphQGRBQXxtZQI=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 170
+    pubPing: 123
     privPing: 113
-    lastPubPingAtMs: 1766191145042
-    lastSeenAt: 1766191145
+    lastPubPingAtMs: 1766294548317
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766190604006
+    lastUsedAtMs: 1766294445866
     failedLastConnectPing: false
     ports:
       - 7002
@@ -11224,10 +11237,10 @@ sgpproxies:
       - 7003
   QnpWGWphQWRJTmtyYQ==
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 190
-    privPing: 112
-    lastPubPingAtMs: 1766191145062
-    lastSeenAt: 1766191145
+    pubPing: 143
+    privPing: 113
+    lastPubPingAtMs: 1766294481271
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11240,14 +11253,14 @@ sgpproxies:
       - 7001
   R3hLD2p/S35FWHR0Zw==
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 292
-    privPing: 4
-    lastPubPingAtMs: 1766191145164
-    lastSeenAt: 1766191145
+    pubPing: 236
+    privPing: 3
+    lastPubPingAtMs: 1766294309580
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
-    lastUsedAtMs: 1766190600534
+    lastUsedAtMs: 1766293097257
     failedLastConnectPing: false
     ports:
       - 7001
@@ -11256,10 +11269,10 @@ sgpproxies:
       - 7000
   QnlRGWpgTmRBRmtyZQU=
     dataCenter: HDsNGjo5Cg==
-    pubPing: 217
-    privPing: 140
-    lastPubPingAtMs: 1766191145089
-    lastSeenAt: 1766191145
+    pubPing: 168
+    privPing: 137
+    lastPubPingAtMs: 1766294481296
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11272,14 +11285,14 @@ sgpproxies:
       - 7000
   RXpLBWliV3tCRmtyYQk=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 119
+    pubPing: 120
     privPing: 110
-    lastPubPingAtMs: 1766191209777
-    lastSeenAt: 1766191145
+    lastPubPingAtMs: 1766294490448
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605472
-    lastUsedAtMs: 1766191144915
+    lastUsedAtMs: 1766292910589
     failedLastConnectPing: false
     ports:
       - 7002
@@ -11288,14 +11301,14 @@ sgpproxies:
       - 7001
   QnpSGW1lV3tEQWt1YA==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 62
-    privPing: 3
-    lastPubPingAtMs: 1766191144934
-    lastSeenAt: 1766191145
+    pubPing: 13
+    privPing: 0
+    lastPubPingAtMs: 1766294445588
+    lastSeenAt: 1766294446
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766190604006
+    lastUsedAtMs: 1766294049291
     failedLastConnectPing: false
     ports:
       - 7000
