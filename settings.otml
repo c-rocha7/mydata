@@ -20,7 +20,6 @@ showAbilitiesNumber: false
 reverseGameActions: false
 gameActionsPlacement: rightDiagonal
 conditionsPlacement: topLeft
-badWordsFilter: true
 showPrivateMessagesInConsole: false
 showChannelMessages: true
 textDoubleClickOpenChat: true
@@ -10528,21 +10527,6 @@ viplist-players:
 log-errors:
 auto_cast_ship: false
 uuid: dYRcHdvuF+j5majIHOm1MmZE9uk=
-shop_sales:
-  viewed:
-    74: true
-    118: true
-    148: true
-    151: true
-    128: true
-  data:
-    74: true
-    118: true
-    148: true
-    151: true
-    128: true
-  banner: https://i.imgur.com/C3QU2lB.png
-masterVolume: 10
 minimapZoom: 2
 auto_cast: false
 game_spells_extra:
@@ -10846,23 +10830,7 @@ once-tutorial-bmarket: true
 account_secret: true
 login_account: Q4ocGG+vLySlVzJmnVAYFa23ZdnD4Pstfg==
 login_password: 2Y8UQ2upKin1UkE9
-lastChannelsOpen:
-  Yzzil:
-    Aliança: 11
 IgnoreChannelsPreview:
-game-interface:
-  questLogExpanded: true
-  questLogHideMissions: false
-useitems:
-  useItem1: 4569
-  useItem2: 12665
-translation-options:
-  maxFindLines: 1000
-  allowErrorWindowUndock: false
-worldboss_difficulty:
-  invasion: hard
-  bounty: extreme
-  raid: nightmare
 completed-stories:
   raid_enies/p8/1: true
   raid_enies/p9/1: true
@@ -10939,112 +10907,109 @@ completed-stories:
   raid_enies/p15/1: true
   raid_enies/p12/1: true
   raid_enies/p13/1: true
-dungeon_last_mission:
-  difficultyId: normal
-  id: event_christmas
-  mode: event
+shop_sales:
+  viewed:
+    145: true
+    152: true
+    165: true
+  banner: https://i.imgur.com/C3QU2lB.png
+  data:
+    145: true
+    152: true
+    165: true
+lastChannelsOpen:
+  Yzzil:
+    Aliança: 11
+badWordsFilter: false
+translation-options:
+  maxFindLines: 1000
+  allowErrorWindowUndock: false
+masterVolume: 30
 fullscreen: Windowed
-game_chat:
-  messageHistory:
-    - olha o homem aí
-    - fazer sm até os dedos ficarem torto?
-    - asuhashuahs
-    - estou querendo torar umas staminas
-    - então estou ai para jogo
-    - já entro, vou ficar fazendo pq o pessoal marco de fazer as coisas as 21:30
-    - então estou com tempo para gastar esses staminas ai
-    - sim
-    - não deu para fazer ontem que rit foi aparecer era quase acho que 1:00 da manhã
-    - ritt demorou para aparecer
-    - ai nem deu para fazer
-    - suave
-    - vou entrar discord, essa ai é safe
-    - se coloco no elite?
-    - de boa, é mais como eu falei, resolver isso para não ficar estranho as coisas
-    - pq tbm lembro uma vez que pegaram mr 3
-    - e reclamaram
-    - então, mas lembro disso ainda antes da major
-    - quando o ritt ainda jogava no celular
-    - e acho que foi inclusive ele que reclamou que pegaram mr 3
-    - pq o celular dele não aguentava vela e etc
-    - é complicado
-    - no final é igual a frost falou
-    - se eu fizer o leo de morgan
-    - é para mandar o print e marca ele
-    - oh deus viu
+dungeon_last_mission:
+  id: alabasta_normal_1
+  difficultyId: normal
+  mode: event
 windowedResolution:
-  width: 1920
   height: 1080
+  width: 1920
+game-interface:
+  questLogExpanded: true
+  questLogHideMissions: true
 lastChatConfig:
   size:
-    width: 710
     height: 324
+    width: 710
 viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
   -
-    name: Shirokuma
     id: shirokuma
+    name: Shirokuma
     order: 1
   -
-    name: Geral
     id: default
+    name: Geral
     order: 2
+worldboss_difficulty:
+  raid: nightmare
+  invasion: hard
+  bounty: extreme
 MDIWindows:
-  vipWindow:
-    position:
-      x: 0
-      y: 0
-    size:
-      width: 190
-      height: 501
-    parentId: gameRightPanel
-    isLocked: false
-    isClosed: true
-    isMinimized: false
-    mdiDockIndex: 1
   joinWindow:
-    position:
-      x: 0
-      y: 0
     size:
-      width: 190
       height: 300
-    parentId: gameRightPanel
+      width: 190
     isMinimized: false
     isLocked: false
     isClosed: true
-    mdiDockIndex: 2
-  container0:
-    position:
-      x: 1726
-      y: 204
-    size:
-      width: 190
-      height: 253
     parentId: gameRightPanel
-    isClosed: false
+    mdiDockIndex: 2
+    position:
+      y: 0
+      x: 0
+  container0:
+    size:
+      height: 253
+      width: 190
     isMinimized: false
-    isLocked: false
+    position:
+      y: 204
+      x: 1726
+    isClosed: false
     mdiDockIndex: 4
+    parentId: gameRightPanel
+    isLocked: false
+  vipWindow:
+    size:
+      height: 501
+      width: 190
+    isMinimized: false
+    position:
+      y: 204
+      x: 1726
+    isClosed: true
+    mdiDockIndex: 1
+    parentId: gameRightPanel
+    isLocked: false
 bossLifeBarPos:
-  x: 0
   y: 0
+  x: 0
 window:
-  borderless: false
   size:
-    width: 1280
-    height: 692
-  maximized: true
+    height: 1008
+    width: 1920
+  borderless: false
   position:
-    x: 2244
-    y: 125
+    y: 0
+    x: 1920
+  maximized: false
   fullscreen: false
 sgpproxies:
   R3tLBm9/SHpDWHd2
     dataCenter: GyIWQzM0AGceGg==
-    pubPing: 262
-    privPing: 184
-    lastPubPingAtMs: 1766531155779
-    lastSeenAt: 1766531155
+    pubPing: 258
+    privPing: 229
+    lastPubPingAtMs: 1767573391460
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11057,10 +11022,10 @@ sgpproxies:
       - 7001
   QnpWGWpiTWRCQGtyZgQ=
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 246
+    pubPing: 237
     privPing: 133
-    lastPubPingAtMs: 1766531155763
-    lastSeenAt: 1766531155
+    lastPubPingAtMs: 1767573391441
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11073,14 +11038,14 @@ sgpproxies:
       - 7002
   QnVQGWphQGRBQXxtZQY=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 186
+    pubPing: 119
     privPing: 113
-    lastPubPingAtMs: 1766531155703
-    lastSeenAt: 1766531155
+    lastPubPingAtMs: 1767573487781
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766528651238
+    lastUsedAtMs: 1767573150916
     failedLastConnectPing: false
     ports:
       - 7003
@@ -11089,14 +11054,14 @@ sgpproxies:
       - 7002
   QnpSGW1lV3tETmt1Yg==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 12
-    privPing: 2
-    lastPubPingAtMs: 1766531176030
-    lastSeenAt: 1766531155
+    pubPing: 13
+    privPing: 3
+    lastPubPingAtMs: 1767573487473
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766531155582
+    avoidUntilAtMs: 1767497506065
+    lastUsedAtMs: 1767573460156
     failedLastConnectPing: false
     ports:
       - 7001
@@ -11105,14 +11070,14 @@ sgpproxies:
       - 7000
   SnhLBm5lV35eRHZx
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 309
-    privPing: 4
-    lastPubPingAtMs: 1766531155826
-    lastSeenAt: 1766531155
+    pubPing: 298
+    privPing: 3
+    lastPubPingAtMs: 1767573391492
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
-    lastUsedAtMs: 1766447150302
+    lastUsedAtMs: 1767498075926
     failedLastConnectPing: false
     ports:
       - 7001
@@ -11121,14 +11086,14 @@ sgpproxies:
       - 7000
   QnpSGW1lV3tEQmtyYgY=
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 83
+    pubPing: 13
     privPing: 3
-    lastPubPingAtMs: 1766531155600
-    lastSeenAt: 1766531155
+    lastPubPingAtMs: 1767573514068
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1766190605472
-    lastUsedAtMs: 1766529074675
+    avoidUntilAtMs: 1767497506063
+    lastUsedAtMs: 1767573463173
     failedLastConnectPing: false
     ports:
       - 7002
@@ -11137,10 +11102,10 @@ sgpproxies:
       - 7000
   QnlSGWliTGRBWHR2ZQ==
     dataCenter: HDsNGi44Fw==
-    pubPing: 239
+    pubPing: 219
     privPing: 126
-    lastPubPingAtMs: 1766531155756
-    lastSeenAt: 1766531155
+    lastPubPingAtMs: 1767573391426
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11153,14 +11118,14 @@ sgpproxies:
       - 7002
   SnhLBm5lV35eR3Bx
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 310
+    pubPing: 295
     privPing: 3
-    lastPubPingAtMs: 1766531155827
-    lastSeenAt: 1766531155
+    lastPubPingAtMs: 1767573391499
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
-    lastUsedAtMs: 1766447233111
+    lastUsedAtMs: 1767497483712
     failedLastConnectPing: false
     ports:
       - 7003
@@ -11169,14 +11134,14 @@ sgpproxies:
       - 7000
   QnVQGWphQGRBQXxtZQI=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 190
-    privPing: 113
-    lastPubPingAtMs: 1766531155707
-    lastSeenAt: 1766531155
+    pubPing: 119
+    privPing: 110
+    lastPubPingAtMs: 1767573431261
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766529074675
+    lastUsedAtMs: 1767573247977
     failedLastConnectPing: false
     ports:
       - 7003
@@ -11185,10 +11150,10 @@ sgpproxies:
       - 7002
   QnpWGWphQWRJTmtyYQ==
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 212
+    pubPing: 222
     privPing: 112
-    lastPubPingAtMs: 1766531155729
-    lastSeenAt: 1766531155
+    lastPubPingAtMs: 1767573391424
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
@@ -11201,14 +11166,14 @@ sgpproxies:
       - 7000
   R3hLD2p/S35FWHR0Zw==
     dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 306
-    privPing: 4
-    lastPubPingAtMs: 1766531155823
-    lastSeenAt: 1766531155
+    pubPing: 301
+    privPing: 3
+    lastPubPingAtMs: 1767573391506
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
-    lastUsedAtMs: 1766446797957
+    lastUsedAtMs: 1767497501079
     failedLastConnectPing: false
     ports:
       - 7000
@@ -11217,14 +11182,14 @@ sgpproxies:
       - 7001
   QnpSGW1lV3tEQWt1YA==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 84
-    privPing: 3
-    lastPubPingAtMs: 1766531155601
-    lastSeenAt: 1766531155
+    pubPing: 13
+    privPing: 2
+    lastPubPingAtMs: 1767573431265
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
-    avoidUntilAtMs: 1766190609006
-    lastUsedAtMs: 1766528651238
+    avoidUntilAtMs: 1767573464673
+    lastUsedAtMs: 1767573461671
     failedLastConnectPing: false
     ports:
       - 7003
@@ -11233,14 +11198,14 @@ sgpproxies:
       - 7000
   RXpLBWliV3tCRmtyYQk=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 119
-    privPing: 111
-    lastPubPingAtMs: 1766531175839
-    lastSeenAt: 1766531155
+    pubPing: 123
+    privPing: 110
+    lastPubPingAtMs: 1767573513876
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605472
-    lastUsedAtMs: 1766531155582
+    lastUsedAtMs: 1767573431662
     failedLastConnectPing: false
     ports:
       - 7001
@@ -11249,10 +11214,10 @@ sgpproxies:
       - 7002
   QnlRGWpgTmRBRmtyZQU=
     dataCenter: HDsNGjo5Cg==
-    pubPing: 257
-    privPing: 136
-    lastPubPingAtMs: 1766531155774
-    lastSeenAt: 1766531155
+    pubPing: 236
+    privPing: 138
+    lastPubPingAtMs: 1767573391438
+    lastSeenAt: 1767573432
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 1766190605534
