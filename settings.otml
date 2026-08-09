@@ -70,1943 +70,6 @@ embarkship_tutorial: true
 hotkeyCombo: first
 installed-shortcut: true
 minimapMultifloor: false
-game_spells:
-  923e1fa1bfc98bdf20f6be15c613a6705373c623:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 4
-  0525a3ae4f13a8561eb0a7461dbc79f544dbb4ba:
-    7: 7
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w9: 9
-    w10: 8
-    5: 5
-  f819bd8fcab7115040bef6cf963f4ef5da343f00:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 6
-    6: 4
-    2: 2
-    w10: 10
-    7: 7
-    5: 5
-  a18398ef707dfd77b75b513ab0bc08a6ac4755b0:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  e0dbb15d2dfb736d9b2658ff8d3d3cbb581b1ded:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 7
-    6: 6
-    2: 2
-    w9: 5
-    w10: 10
-    5: 4
-  9f199f2656fecf0dabcf328d351e75fbd7d82320:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  ebaf1f5436971a88e35dab4bf7b0ba3679acf188:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  92930d78ee4150fd9554d58e104f1c77e32a4cd4:
-    7: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  4f26930b81445fae5c8d5e3a74064967e14a76b4:
-    9: 9
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 8
-    7: 5
-    5: 10
-  f6d6caa99636fa6ffb2a60883217cc0ce543c823:
-    3: 2
-    1: 1
-    w4: 4
-    w5: 5
-    2: 3
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    w10: 10
-  ad0fb6c40a78a6e71f6fb2b23cb9e32c00d50d61:
-    3: 3
-    1: 1
-    4: 7
-    w5: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 4
-    w6: 6
-    2: 2
-  71692e03f458d139a3db457488869d6018d2938e:
-    7: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 9
-    w10: 10
-    w6: 6
-    2: 2
-    5: 5
-  1e479a2e4dc7bc9113c4673fb33d56ec4881b1e7:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w7: 6
-    7: 7
-    5: 5
-  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 6
-    6: 7
-    2: 2
-    w9: 5
-    7: 8
-    5: 4
-  147b01110432b812438c7bedf6f456bdaaf25835:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 6
-    6: 5
-    2: 2
-    10: 10
-    7: 7
-    5: 4
-  338d004e00583681c71035abd06ffdc1928040e4:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 10
-    7: 5
-    5: 9
-  bb94be25e1720a11775263d440e4911b8fdae040:
-    9: 9
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 10
-    7: 8
-    5: 5
-  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
-    9: 4
-    3: 3
-    8: 5
-    1: 1
-    4: 9
-    6: 6
-    2: 2
-    10: 8
-    7: 7
-    5: 10
-  b06d4555bea98653dc369f6f8959c66d994ee8fd:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  2e7e009948c075b2d09656e41cb7af842712513d:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 6
-    w5: 5
-    2: 2
-    7: 8
-    5: 7
-  9a1135fd187df76109aee8800bc59535179911da:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w9: 9
-    w10: 10
-    5: 5
-  ac9bb09032ec5459ebe19d73346aeaaf25ad2792:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  8618021bcdd52ef732e23677e1c6fa598bf9d982:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w6: 6
-    7: 9
-    5: 5
-  c995146a008651725237d6ae2967477979d4872e:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 6
-    6: 7
-    2: 2
-    w9: 5
-    w10: 10
-    5: 4
-  95f4bad83234b3cf94370c67aa8c2e0f17409182:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  a1d74cbcdf2e60f35760b680318cffa13998f2b0:
-    9: 6
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 10
-    7: 8
-    5: 5
-  3fedb6a0176a1c688bb3f61669140fdae7eabfa3:
-    3: 1
-    1: 10
-    w4: 4
-    w5: 5
-    2: 2
-    w8: 8
-    w9: 9
-    w7: 7
-    w3: 3
-    w6: 6
-  a69886a97cc3fbfee28f8410e4ac3ec90a48a129:
-    7: 8
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 9
-    w6: 5
-    5: 6
-  b01a94396d25fdf6b52d1e2968f60d7b7e36ce28:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  8864a3f8ebbd46115e5b4e0995b037b64ac2d7ec:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    10: 10
-    7: 4
-    5: 7
-  c14c0fe7eebbf62f8b4d2f5922f1b5192bfba0e5:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    w5: 6
-    2: 2
-    w10: 10
-    5: 5
-  dc4633affef0d85e31ef08f96806674b753a8de4:
-    9: 9
-    3: 3
-    8: 6
-    1: 1
-    4: 5
-    6: 4
-    2: 2
-    10: 8
-    7: 7
-    5: 10
-  e0c14644404db852f5459d20765bf747b9ed446c:
-    9: 9
-    3: 3
-    8: 6
-    1: 1
-    4: 5
-    6: 4
-    2: 2
-    10: 8
-    7: 7
-    5: 10
-  f46ceb92cf51faf469e540dbb7f97c049ddb1ff9:
-    9: 9
-    3: 4
-    8: 8
-    1: 1
-    4: 2
-    6: 6
-    2: 3
-    10: 10
-    7: 7
-    5: 5
-  55beec6a807572c5ac5d7d8fac925056bc2acfd1:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 6
-    6: 9
-    2: 2
-    w10: 10
-    7: 5
-    5: 4
-  8d6a982c2e6c0daf8e2021cddaeb51b48258362b:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 5
-    2: 2
-    w9: 6
-    w10: 10
-    5: 7
-  0975a0d77372a8de61c95635ffc11d570b88e9c7:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    10: 10
-    7: 6
-    5: 5
-  e412d657ebcde0577487deda06b6a2b6e9ef0587:
-    9: 6
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 10
-    7: 8
-    5: 5
-  8d3af4f8e058fdcea05a622f04876c9631a0b805:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  26a1e3232219895da8f204dff65438864074978a:
-    9: 9
-    3: 4
-    8: 8
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    w10: 10
-    7: 7
-    5: 3
-  6902049842e05bdd3651ae0355ff912e72d356d5:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  4ff037f064f53dc19c3d621405f1e99464f08ad3:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 8
-    5: 5
-  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
-    3: 2
-    1: 1
-    4: 4
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 3
-    5: 5
-  473265d36a3b18a4a8611792bc1303eaf6a58372:
-    3: 3
-    1: 1
-    4: 4
-    w5: 5
-    w10: 10
-    w8: 8
-    w7: 7
-    w3: 9
-    w6: 6
-    2: 2
-  20c5925f4552ab1d571a0f5cd05947ca64abd039:
-    9: 10
-    3: 3
-    8: 8
-    1: 2
-    4: 4
-    6: 9
-    2: 1
-    w6: 5
-    7: 7
-    5: 6
-  cb9b83b2082b8e9fbd37ff82bd5e94e5e1b9b8ce:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  3b829c5aecd3669ce3ec5f03a023366cb54e8f86:
-    7: 7
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 8
-    w10: 10
-    w6: 6
-    2: 2
-    5: 5
-  2a8f226da3f5d7255fb0d952e48eeeb436af0c34:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 6
-    6: 4
-    2: 2
-    w9: 9
-    w10: 10
-    5: 5
-  381e13fbbca185be880727ab89367c79b2221b56:
-    9: 9
-    3: 3
-    8: 6
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    10: 10
-    7: 8
-    5: 5
-  db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w9: 5
-    w10: 10
-    5: 9
-  bfd88bf4cf93b2e87025b332b16affcfa714ba2a:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w7: 10
-    7: 7
-    5: 5
-  262a2a588099e191f4c7d942b218a31e401a1503:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    10: 10
-    7: 6
-    5: 5
-  8dc664a44c96eac830b4edbec618502544492e19:
-    3: 3
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w8: 5
-    w9: 9
-    w7: 7
-    w10: 10
-    5: 8
-  643afb23aedfe34ba21b51077f3f204ee6511c68:
-    7: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    w5: 5
-    2: 2
-    w10: 10
-    5: 7
-  22398c9a4c80f09fd8af065eb06f64fcc86047ec:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  9772a1b3bdb0ea78da6b6353a176aa868ca32674:
-    7: 8
-    3: 3
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w8: 6
-    w9: 9
-    w10: 10
-    5: 5
-  55ecdfe76919bdbcd4542481b566289d05f6ca2c:
-    3: 2
-    1: 1
-    4: 4
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 3
-    5: 5
-  eff04e73efa08b095252cee28e6a5259bed97ad5:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 10
-    7: 5
-    5: 9
-  41ed6b38cc84ed1ecf853160f6cb4981b189eab0:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  d540740e457d40d0a8820e6a4128fe3ee9eb585b:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  742dfaf236748b5050f636551a28ce534e6babf6:
-    7: 7
-    3: 4
-    8: 8
-    1: 1
-    4: 3
-    6: 9
-    2: 2
-    w9: 5
-    w10: 10
-    5: 6
-  78f3b6b8ebcb2ca4afaab9d0eda1731e4e25bf0e:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 5
-    6: 8
-    2: 2
-    w10: 6
-    7: 7
-    5: 4
-  5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
-    3: 3
-    1: 1
-    w4: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 4
-  d5177850aee0d88a9e2870ca2e24b9350e837160:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    w9: 9
-    w10: 10
-    5: 4
-  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
-    3: 2
-    1: 1
-    4: 3
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 4
-    5: 5
-  8c3c0cdbcf0deb5c35a6e5a37f27e2ce3c25b2aa:
-    3: 3
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w8: 7
-    w9: 9
-    w7: 5
-    w10: 10
-    5: 6
-  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
-    7: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w9: 9
-    w10: 10
-    5: 5
-  54aaeae5536903c6751f7c31e1e282a41481e578:
-    7: 8
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 7
-    w5: 5
-    2: 2
-    w6: 6
-    5: 9
-  69aa59dffb07e06ed45e84585a3985592b980a96:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w10: 10
-    7: 6
-    5: 5
-  8cfec52931167d8d7d270ae7cbd1d9a32631ff51:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    w10: 10
-    7: 7
-    5: 4
-  29a0935c6dbaf1c04dde4b71355d5174c1f5485e:
-    7: 7
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  ced51183152907f92e0e8e356ece16a46d650a66:
-    3: 4
-    1: 1
-    4: 3
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 5
-  326d92c0b88f96208f41e9623e5c3731d55661c4:
-    7: 8
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 9
-    w10: 6
-    5: 5
-  937dc3caac8934bd53ba437ca4112a01fb4fccab:
-    3: 4
-    1: 1
-    4: 2
-    2: 3
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    w10: 10
-    5: 5
-  91bb18cb5ec83a5acc8bac317cf9eb8ed2c35f97:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w10: 10
-    7: 6
-    5: 5
-  dd5283342b29832503d247cf8f972834fa8e669d:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 10
-    7: 6
-    5: 5
-  bd8ca6ef589b65a412d24473e3119e36b5a21048:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  75d588bdb9f35d033ddd359a7e34662431cc9a16:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 5
-    w10: 10
-    5: 6
-  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
-    3: 3
-    1: 1
-    4: 4
-    w5: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-  4754eea965fdd49a4f5b25e93189244bc9192b0e:
-    7: 8
-    3: 3
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w8: 5
-    w9: 9
-    w10: 10
-    5: 6
-  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
-    9: 8
-    3: 3
-    8: 6
-    1: 1
-    4: 7
-    6: 9
-    2: 2
-    w10: 10
-    7: 4
-    5: 5
-  ebd410aa21729472ce11c952f08054ef52f6d356:
-    7: 4
-    3: 3
-    8: 9
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    10: 10
-    9: 8
-    5: 7
-  1b99f372df4aca276657519cdd0e621d34d897b3:
-    3: 4
-    1: 1
-    4: 3
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 5
-  b52927935fea7573021369459f9d7badfd70761a:
-    3: 3
-    1: 1
-    w4: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 4
-  c74e53ca61af4997ddd421ec8d6a9cdffee5d0f1:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  3f6a04427e80c9c40227f6e5f7797c4387f02982:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  ba75921f7db4c0f4653d4522bd04aa1906be587c:
-    7: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  e72062b6943c915dc828f87de72853257682371b:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 6
-    6: 9
-    2: 2
-    w10: 10
-    7: 4
-    5: 5
-  54bde3a5cc354c466a295e1e20fd9a3fe0257a47:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w7: 7
-    7: 10
-    5: 5
-  2cadba8350ae6f72745c976c2a978412ef59a5cb:
-    7: 8
-    3: 2
-    8: 10
-    1: 1
-    4: 4
-    6: 7
-    2: 3
-    w9: 9
-    w10: 5
-    5: 6
-  e23140eac4261d6906b17722bc8c40e7a3c80ead:
-    7: 8
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 7
-    w5: 6
-    2: 2
-    w9: 9
-    5: 5
-  9f1d79edfc19288ff287b98d568a56019b3e5b8e:
-    w2: 2
-    1: 1
-    w4: 4
-    w5: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w3: 3
-    w6: 6
-  6d517928f95f594fc8bbc37064800dbdeb5b621e:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  4db3c86bc96ffa223fe267820d43099fa7ac9def:
-    3: 4
-    1: 1
-    4: 3
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 5
-  ac90a8a6dd697e5689cb9e829de8a65516955b73:
-    9: 6
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w10: 10
-    7: 7
-    5: 5
-  e11712399ba8f67fb4fbaf44e4979845e2ad9570:
-    7: 9
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 8
-    w10: 6
-    5: 5
-  494b5d616bd2d7bc8783e0760c0745dd8999921c:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w10: 10
-    7: 6
-    5: 5
-  c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
-    9: 8
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 9
-    7: 7
-    5: 5
-  d92e64584c765682bb8e192e3792148c68c63547:
-    9: 5
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 8
-    7: 10
-    5: 9
-  c01e3a9ed0792543834a66cf14173c843a37d5c8:
-    7: 5
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 8
-  eaa4dab0303034f1c42094c3017b8f54fd803a74:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w10: 6
-    7: 7
-    5: 5
-  15b84ac50c8450ffc61b429cfd814b3f36ecb2a0:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w1: 10
-    7: 7
-    5: 5
-  8c38a778a590a1a3af110999a178b70ba3608172:
-    9: 9
-    3: 3
-    8: 6
-    1: 1
-    4: 5
-    6: 4
-    2: 2
-    10: 8
-    7: 7
-    5: 10
-  8dce3c67e7ebd35016e250dfd3e34e07c761c69e:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 8
-    5: 5
-  619d3dce59dda102414c65981463a149ee3cd33d:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w6: 5
-    7: 7
-    5: 6
-  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  cda870bdf344acb3b39589494a0fa44cfc5ea92d:
-    3: 3
-    1: 1
-    w4: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 4
-  c8017084add75ba04db8c69a376ccaae22329d20:
-    3: 2
-    1: 1
-    4: 4
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 3
-    5: 5
-  8e39a3d675abe7049836acde79d3125afac71772:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  e7c330a3992c392e4282cf4109817b2d758b6cd3:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  b8aefb232c86851bcea78213e0f3cb594c35fe5b:
-    7: 8
-    3: 3
-    8: 10
-    1: 1
-    4: 4
-    6: 6
-    w5: 5
-    2: 2
-    w8: 9
-    5: 7
-  bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 10
-    7: 7
-    5: 5
-  2e1e58d7969b55c8a495dd6ca079ce7e32355f81:
-    7: 8
-    3: 3
-    1: 1
-    4: 4
-    6: 7
-    w10: 10
-    w9: 9
-    w6: 5
-    2: 2
-    5: 6
-  b8414ad7e19f7077ce66515a091c56b884b08e4f:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 6
-    6: 7
-    2: 2
-    w6: 5
-    7: 8
-    5: 4
-  e9a284442f4796480eb1f049f082a3f80d7956a8:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w6: 6
-    7: 8
-    5: 5
-  80719ab162f0908212d01fd840ad39c1fdaf65f9:
-    9: 5
-    3: 3
-    8: 8
-    1: 2
-    4: 4
-    6: 9
-    w5: 10
-    2: 1
-    7: 7
-    5: 6
-  6697b1da7151039b26ce0579eee23683cde3a9a9:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 10
-    7: 6
-    5: 5
-  0b911d75c99ef05c5db302cabb192097f4419afd:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 4
-  81006b4b4ed068c14c470c12e48e31776560b8ed:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 7
-    6: 4
-    2: 6
-    w10: 10
-    7: 5
-    5: 2
-  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
-    9: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 5
-    2: 2
-    w10: 10
-    7: 9
-    5: 6
-  481c46c4e2f2e764b9b5faf3a8dcc667539ba9b4:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  bb5a8813c1fb7d43e427dbb71a2f36083688297c:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
-    3: 2
-    1: 1
-    4: 4
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 3
-    5: 5
-  07d1b7903b2e53855b9857c9eed5c101c9022d3a:
-    3: 4
-    1: 1
-    4: 3
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 5
-  da001b5949453401a4c764a57057c4318d4c52db:
-    3: 3
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w8: 8
-    w9: 9
-    w7: 6
-    w10: 10
-    5: 5
-  cd6942279e748a59951a1109ba029eaba02dddb9:
-    3: 3
-    1: 1
-    4: 4
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 5
-  7dfd5bc2cb595614995b438d6ecda5d3eda18459:
-    7: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    w10: 10
-    w6: 7
-    2: 2
-    5: 5
-  3f7a437edfd1101fb5cc79b5020e06f9eee07d17:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 2
-    6: 6
-    2: 4
-    10: 10
-    7: 7
-    5: 5
-  072fe874f24c904d2676f4267e1f2261c86f6db1:
-    3: 3
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w8: 5
-    w9: 9
-    w7: 7
-    w10: 10
-    5: 6
-  9c70ff70c31158d159154b9a874845f53a2a4267:
-    3: 3
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w8: 6
-    w9: 9
-    w7: 5
-    w10: 10
-    5: 7
-  9a0593708b1dc7452744c022bca13fb68cfd0e94:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w9: 9
-    w10: 10
-    5: 5
-  446a7d4e3a8edf7b8d837c38101059d0430d454b:
-    7: 8
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  1d1c23a49851be848b818597b2c2b4865f2d7f58:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  72a87bb07802544554a587086f635a818d026a59:
-    3: 2
-    1: 1
-    4: 3
-    w5: 6
-    2: 4
-    w8: 8
-    w9: 9
-    w7: 7
-    w10: 10
-    5: 5
-  e70c62ac8b67eb1e56c47100e32ded8f52fb3b12:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    w5: 5
-    2: 2
-    7: 6
-    5: 7
-  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w9: 9
-    w10: 10
-    5: 5
-  045cc5557e8035fe4447e52a99d508336b8efd69:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 8
-    5: 5
-  cd403053a9d860120e415e17e0dc2a39b244091d:
-    7: 9
-    3: 3
-    8: 10
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    w9: 7
-    w10: 8
-    5: 4
-  0307f3bf841a792d1036db50351580bf39eed210:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 5
-    w10: 10
-    5: 6
-  a689affc74a3a2cd47c5a2d12d332de03104ee86:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 5
-    2: 2
-    10: 10
-    7: 7
-    5: 6
-  051557c346f7b87864ec4dfc3a85433491fe6508:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 5
-    7: 9
-    5: 7
-  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    w10: 10
-    w6: 5
-    2: 2
-    5: 6
-  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  c9a5611f61b7c83a455b77d594c2be06549ec76a:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 5
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 4
-  4473f3969bc69b81b280901f528566be8681dbaf:
-    7: 6
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w9: 9
-    w10: 10
-    5: 5
-  4ef268442c10f9671f2149eef0879aa801762e9d:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  f15592b8021219d77b27fe3013f5cf32ec3683d0:
-    3: 4
-    1: 1
-    4: 3
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 5
-  1988a95c1df92dc38c827d583944abe0e96101ce:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    w5: 5
-    2: 2
-    7: 9
-    5: 7
-  54c3a269a35c1d6822a368f15d9e41004397710f:
-    7: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 5
-    2: 2
-    w9: 6
-    w10: 10
-    5: 7
-  6a925317190898293b58451f140504ccafea7db8:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 9
-    5: 5
-  79bb364f032925de84f4592061606091ed20274b:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 10
-    7: 7
-    5: 5
-  4142d04064a2000abb705c7b093126dc6b452de3:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 8
-    5: 5
-  226ecdd913c39c29c39342368528d6590b4b2a95:
-    7: 9
-    3: 3
-    1: 1
-    4: 4
-    6: 8
-    w5: 5
-    2: 2
-    w9: 6
-    w10: 10
-    5: 7
-  ae5b916c9b54aa2e5ece27514b71686079521ab8:
-    7: 8
-    3: 3
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w8: 6
-    w9: 9
-    w10: 10
-    5: 5
-  ddbf2684e12f419280f46919b845813ae219b7e9:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  04a9b6d9a2ddad57a217969981048ce1693855f4:
-    9: 8
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 10
-    7: 7
-    5: 5
-  a0afae93d21186110ec80430e7d4c97e38da1367:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
-    9: 8
-    3: 3
-    8: 4
-    1: 1
-    4: 7
-    6: 9
-    2: 2
-    w10: 10
-    7: 5
-    5: 6
-  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 6
-    w10: 10
-    5: 5
-  473eb1c741a757d7027033360e08f89ea04fbb81:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 6
-    6: 5
-    2: 2
-    w8: 8
-    7: 7
-    5: 4
-  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    w5: 5
-    2: 2
-    7: 10
-    5: 7
-  5d5b9b8ee29a1f3fd058fb9e7695ab50c877e8d8:
-    7: 7
-    3: 3
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w8: 8
-    w9: 9
-    w10: 10
-    5: 5
-  677521146dc31e15a41bbc760d204465013aadf9:
-    9: 8
-    3: 2
-    8: 6
-    1: 1
-    4: 4
-    6: 7
-    2: 3
-    w6: 10
-    7: 5
-    5: 9
-  019919509fe4924f5d691cffa907604e17f73dfb:
-    3: 3
-    1: 1
-    w4: 5
-    w10: 10
-    w8: 8
-    w9: 9
-    w7: 7
-    w6: 6
-    2: 2
-    5: 4
-  cbe2f084743851441e42cc9de86ab8446de6a005:
-    7: 9
-    3: 3
-    1: 1
-    4: 4
-    6: 8
-    2: 2
-    w8: 6
-    w9: 5
-    w10: 10
-    5: 7
-  c1cb52ef9c59c1fbd10f0db4e2d310f897758c8d:
-    7: 7
-    3: 3
-    1: 1
-    4: 4
-    6: 5
-    2: 2
-    w8: 8
-    w9: 9
-    w10: 10
-    5: 6
-  01ba1d19057daaa4b4a3e9d438ff49dec60b8808:
-    7: 7
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w9: 5
-    w10: 10
-    5: 6
-  abd7f58cb47ad086de1b553746fcd43de251a282:
-    9: 10
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 9
-    2: 2
-    w10: 6
-    7: 7
-    5: 5
-  16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w1: 10
-    7: 7
-    5: 5
-  e743e12eb865457963ef6054aeefa21a8b016d2d:
-    9: 9
-    3: 3
-    8: 8
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    w10: 10
-    7: 7
-    5: 5
-  dfc1ad0822690bff8fa016bf620bb1a68cb38e1a:
-    9: 10
-    3: 3
-    8: 9
-    1: 1
-    4: 4
-    6: 7
-    2: 2
-    w10: 6
-    7: 8
-    5: 5
-  9c883d045efc40dd80729634279adc3df330b8a4:
-    7: 7
-    3: 9
-    8: 8
-    1: 1
-    4: 6
-    6: 4
-    2: 2
-    w9: 5
-    w10: 10
-    5: 3
-  2b08e0e6dca7eec9c775a7c4c04a96d9b0c4371f:
-    9: 10
-    3: 3
-    8: 7
-    1: 1
-    4: 4
-    6: 6
-    2: 2
-    10: 8
-    7: 5
-    5: 9
 auto_cast_ship: false
 viplist-categories-6f57508d9878f815c56140c7296d1170749a8e7f:
   -
@@ -2180,21 +243,131 @@ viplist-players:
     Eneru:
       category: shirokuma
 once-tutorial-lowlevel: true
-auto_cast: false
-windowResolution: 1920x1080
 fullscreen: Borderless
 favorites_heros:
   Yzzil:
 maxFps: 241
+battlepass_groupup: true
+minimapZoom: 2
+interfaceVolume: 25
+voicesVolume: 25
+effectsVolume: 40
+musicVolume: 5
+showCreatureSubNames: false
+log-errors:
+translation-options:
+  maxFindLines: 1000
+  allowErrorWindowUndock: false
+uuid: TDqGrvTnXdy0C2cetRjc4043J2U=
+displayIndex: -1
+account_secret: true
+login_account: yzWBsyCOgUFxg5rvyx7i6GDMpZNLX2aGMQ==
+login_password: UTCJ6CSIhEwhhum0
 game_spells_extra:
+  cda870bdf344acb3b39589494a0fa44cfc5ea92d:
+    1:
+      automaticArea: true
+  bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
+    5:
+      automaticArea: false
+    4:
+      automaticArea: false
+    8:
+      automaticArea: true
+    2:
+      automaticArea: true
+  80719ab162f0908212d01fd840ad39c1fdaf65f9:
+    3:
+      automaticArea: true
+  0b911d75c99ef05c5db302cabb192097f4419afd:
+    5:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: true
+    2:
+      automaticArea: false
+  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
+    3:
+      automaticArea: false
+    7:
+      automaticArea: false
+  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
+    1:
+      automaticArea: true
+  cd6942279e748a59951a1109ba029eaba02dddb9:
+    1:
+      automaticArea: true
+  72a87bb07802544554a587086f635a818d026a59:
+    1:
+      automaticArea: true
+  71692e03f458d139a3db457488869d6018d2938e:
+    3:
+      automaticArea: false
+  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
+    5:
+      automaticArea: true
+  147b01110432b812438c7bedf6f456bdaaf25835:
+    5:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: false
+    2:
+      automaticArea: false
+  a689affc74a3a2cd47c5a2d12d332de03104ee86:
+    6:
+      automaticArea: true
+    9:
+      automaticArea: true
+  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
+    3:
+      automaticArea: false
+  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
+    6:
+      automaticArea: false
+  f15592b8021219d77b27fe3013f5cf32ec3683d0:
+    1:
+      automaticArea: true
+  1988a95c1df92dc38c827d583944abe0e96101ce:
+    3:
+      automaticArea: true
+  04a9b6d9a2ddad57a217969981048ce1693855f4:
+    8:
+      automaticArea: true
+  dc4633affef0d85e31ef08f96806674b753a8de4:
+    3:
+      automaticArea: true
+  e0c14644404db852f5459d20765bf747b9ed446c:
+    3:
+      automaticArea: true
+  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
+    3:
+      automaticArea: true
+  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
+    5:
+      automaticArea: false
+    4:
+      automaticArea: true
+  677521146dc31e15a41bbc760d204465013aadf9:
+    7:
+      automaticArea: true
+  019919509fe4924f5d691cffa907604e17f73dfb:
+    1:
+      automaticArea: true
+  6902049842e05bdd3651ae0355ff912e72d356d5:
+    2:
+      automaticArea: true
+  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
+    1:
+      automaticArea: true
   16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
     2:
       automaticArea: false
-  8c38a778a590a1a3af110999a178b70ba3608172:
+  20c5925f4552ab1d571a0f5cd05947ca64abd039:
     3:
-      automaticArea: true
-  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
-    9:
       automaticArea: true
   128c41cc3dbb560a41c0bb9b0dcbcd615d3a6143:
     4:
@@ -2203,9 +376,9 @@ game_spells_extra:
     8:
       automaticArea: true
   e96305abdd9d8b8fd585d27588af04f4627a64ba:
-    2:
-      automaticArea: false
     4:
+      automaticArea: false
+    2:
       automaticArea: false
   4357131be1f4691baa1f9ceed65401bb91500d74:
     2:
@@ -2221,10 +394,10 @@ game_spells_extra:
     4:
       automaticArea: false
   0d1d7dc5ea5ef07fc5f0ed0dcf95b0261fd5c8ca:
-    2:
-      automaticArea: false
     1:
       automaticArea: true
+    2:
+      automaticArea: false
   68be479a91e2ee907ab7ce5867015215fb357cd4:
     1:
       automaticArea: true
@@ -2232,109 +405,134 @@ game_spells_extra:
     1:
       automaticArea: false
   72b174b3832303f2973606b440ef42321d445ae6:
-    2:
-      automaticArea: false
     4:
+      automaticArea: false
+    2:
       automaticArea: false
   d22829d7360ca847cab7e269001260e34f966d4e:
     1:
       automaticArea: true
-  0b911d75c99ef05c5db302cabb192097f4419afd:
-    5:
-      automaticArea: false
-    2:
-      automaticArea: false
-    6:
-      automaticArea: false
-    3:
-      automaticArea: true
-  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
-    5:
-      automaticArea: false
-    2:
-      automaticArea: false
-    3:
-      automaticArea: false
-    6:
-      automaticArea: false
-  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
-    3:
-      automaticArea: false
-    7:
-      automaticArea: false
   932c8b8279be82deaf1dd6856e295735bbe73491:
     5:
       automaticArea: false
-  f819bd8fcab7115040bef6cf963f4ef5da343f00:
-    2:
-      automaticArea: true
-    6:
-      automaticArea: true
-    4:
-      automaticArea: false
-  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
-    1:
-      automaticArea: true
   6ef6180a6f5a3c7ada476e64f8c6ebbedbd03edd:
     6:
       automaticArea: true
   e202ef6bcba127cae77d15bd61a20ddcc7c715d4:
     2:
       automaticArea: true
-  cd6942279e748a59951a1109ba029eaba02dddb9:
-    1:
-      automaticArea: true
   0e943fb8206bed6c15233711e622f8c1a8c3e65f:
     1:
       automaticArea: true
-  72a87bb07802544554a587086f635a818d026a59:
-    1:
-      automaticArea: true
-  71692e03f458d139a3db457488869d6018d2938e:
-    3:
-      automaticArea: false
-  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
-    5:
-      automaticArea: true
-  147b01110432b812438c7bedf6f456bdaaf25835:
+  1a2b40b45157313bfef35f4073b7e95428b14c38:
     5:
       automaticArea: false
-    2:
-      automaticArea: false
-    6:
-      automaticArea: false
-    3:
-      automaticArea: false
-  338d004e00583681c71035abd06ffdc1928040e4:
-    2:
-      automaticArea: false
-  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
-    6:
-      automaticArea: false
-  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
-    6:
-      automaticArea: false
-  f15592b8021219d77b27fe3013f5cf32ec3683d0:
+  5b3dddd664916361b6685d4b35d38ed2c0e29cb2:
     1:
       automaticArea: true
-  1988a95c1df92dc38c827d583944abe0e96101ce:
+  e65b0def1c986b891a25a9f60e6b4d255324ca66:
+    1:
+      automaticArea: false
+  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
     3:
       automaticArea: true
-  dc4633affef0d85e31ef08f96806674b753a8de4:
-    3:
+    5:
       automaticArea: true
-  e0c14644404db852f5459d20765bf747b9ed446c:
-    3:
-      automaticArea: true
-  6902049842e05bdd3651ae0355ff912e72d356d5:
+  a9439ed1b60082d820adf8da192b1e47fa15ab08:
     2:
       automaticArea: true
-  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
+  69aa59dffb07e06ed45e84585a3985592b980a96:
+    4:
+      automaticArea: false
+  ced51183152907f92e0e8e356ece16a46d650a66:
     1:
       automaticArea: true
-  20c5925f4552ab1d571a0f5cd05947ca64abd039:
+  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
+    9:
+      automaticArea: false
+    5:
+      automaticArea: false
+  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
+    4:
+      automaticArea: false
+  dd5283342b29832503d247cf8f972834fa8e669d:
+    5:
+      automaticArea: false
+  75d588bdb9f35d033ddd359a7e34662431cc9a16:
     3:
       automaticArea: true
+    4:
+      automaticArea: false
+  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
+    2:
+      automaticArea: true
+  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
+    3:
+      automaticArea: true
+  1b99f372df4aca276657519cdd0e621d34d897b3:
+    1:
+      automaticArea: true
+  b52927935fea7573021369459f9d7badfd70761a:
+    1:
+      automaticArea: true
+  3f6a04427e80c9c40227f6e5f7797c4387f02982:
+    6:
+      automaticArea: false
+    3:
+      automaticArea: true
+    7:
+      automaticArea: false
+  7ceb0c356c43301d7302b3e79e4426555571b194:
+    3:
+      automaticArea: false
+  fd9a75f0945173209364b87c922dc5c0641bdc0e:
+    5:
+      automaticArea: true
+    3:
+      automaticArea: true
+  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
+    5:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: false
+    2:
+      automaticArea: false
+  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
+    1:
+      automaticArea: false
+  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
+    3:
+      automaticArea: false
+  f819bd8fcab7115040bef6cf963f4ef5da343f00:
+    6:
+      automaticArea: true
+    4:
+      automaticArea: false
+    2:
+      automaticArea: true
+  e23140eac4261d6906b17722bc8c40e7a3c80ead:
+    4:
+      automaticArea: true
+    7:
+      automaticArea: true
+  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
+    3:
+      automaticArea: false
+    5:
+      automaticArea: false
+  f270eb4ac60396b9bf39fb60b9c063b36fb4c402:
+    5:
+      automaticArea: false
+  494b5d616bd2d7bc8783e0760c0745dd8999921c:
+    4:
+      automaticArea: false
+  c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
+    5:
+      automaticArea: false
+    7:
+      automaticArea: false
   381e13fbbca185be880727ab89367c79b2221b56:
     6:
       automaticArea: true
@@ -2347,199 +545,2099 @@ game_spells_extra:
   5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
     1:
       automaticArea: true
-  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
-    1:
-      automaticArea: false
-  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
+  8c38a778a590a1a3af110999a178b70ba3608172:
     3:
       automaticArea: true
-    5:
-      automaticArea: true
-  69aa59dffb07e06ed45e84585a3985592b980a96:
-    4:
+  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
+    6:
       automaticArea: false
-  ced51183152907f92e0e8e356ece16a46d650a66:
-    1:
-      automaticArea: true
-  1a2b40b45157313bfef35f4073b7e95428b14c38:
-    5:
+  338d004e00583681c71035abd06ffdc1928040e4:
+    2:
       automaticArea: false
-  5b3dddd664916361b6685d4b35d38ed2c0e29cb2:
-    1:
-      automaticArea: true
-  e65b0def1c986b891a25a9f60e6b4d255324ca66:
-    1:
-      automaticArea: false
-  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
+  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
     9:
-      automaticArea: false
-    5:
-      automaticArea: false
-  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
-    4:
-      automaticArea: false
-  dd5283342b29832503d247cf8f972834fa8e669d:
-    5:
-      automaticArea: false
+      automaticArea: true
+game_spells:
   cda870bdf344acb3b39589494a0fa44cfc5ea92d:
-    1:
-      automaticArea: true
-  75d588bdb9f35d033ddd359a7e34662431cc9a16:
-    3:
-      automaticArea: true
-    4:
-      automaticArea: false
-  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
-    2:
-      automaticArea: true
+    w9: 9
+    1: 1
+    5: 4
+    w4: 5
+    2: 2
+    w8: 8
+    w10: 10
+    w6: 6
+    3: 3
+    w7: 7
+  c8017084add75ba04db8c69a376ccaae22329d20:
+    w9: 9
+    1: 1
+    5: 5
+    2: 3
+    4: 4
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 2
+    w10: 10
+  8e39a3d675abe7049836acde79d3125afac71772:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  e7c330a3992c392e4282cf4109817b2d758b6cd3:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  b8aefb232c86851bcea78213e0f3cb594c35fe5b:
+    1: 1
+    8: 10
+    6: 6
+    w8: 9
+    w5: 5
+    2: 2
+    5: 7
+    4: 4
+    3: 3
+    7: 8
   bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
-    5:
-      automaticArea: false
-    4:
-      automaticArea: false
-    2:
-      automaticArea: true
-    8:
-      automaticArea: true
-  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
-    3:
-      automaticArea: true
-  494b5d616bd2d7bc8783e0760c0745dd8999921c:
-    4:
-      automaticArea: false
-  1b99f372df4aca276657519cdd0e621d34d897b3:
-    1:
-      automaticArea: true
-  b52927935fea7573021369459f9d7badfd70761a:
-    1:
-      automaticArea: true
-  f270eb4ac60396b9bf39fb60b9c063b36fb4c402:
-    5:
-      automaticArea: false
-  3f6a04427e80c9c40227f6e5f7797c4387f02982:
-    3:
-      automaticArea: true
-    6:
-      automaticArea: false
-    7:
-      automaticArea: false
-  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
-    3:
-      automaticArea: false
-  a689affc74a3a2cd47c5a2d12d332de03104ee86:
-    6:
-      automaticArea: true
-    9:
-      automaticArea: true
-  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
-    3:
-      automaticArea: false
-    5:
-      automaticArea: false
-  04a9b6d9a2ddad57a217969981048ce1693855f4:
-    8:
-      automaticArea: true
-  e23140eac4261d6906b17722bc8c40e7a3c80ead:
-    7:
-      automaticArea: true
-    4:
-      automaticArea: true
-  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
-    3:
-      automaticArea: false
-  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
-    3:
-      automaticArea: true
-  a9439ed1b60082d820adf8da192b1e47fa15ab08:
-    2:
-      automaticArea: true
-  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
-    5:
-      automaticArea: false
-    4:
-      automaticArea: true
+    9: 8
+    8: 9
+    6: 6
+    5: 5
+    7: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  2e1e58d7969b55c8a495dd6ca079ce7e32355f81:
+    w9: 9
+    1: 1
+    6: 7
+    5: 6
+    2: 2
+    7: 8
+    w10: 10
+    w6: 5
+    3: 3
+    4: 4
+  b8414ad7e19f7077ce66515a091c56b884b08e4f:
+    9: 10
+    8: 9
+    6: 7
+    1: 1
+    7: 8
+    2: 2
+    5: 4
+    w6: 5
+    3: 3
+    4: 6
+  e9a284442f4796480eb1f049f082a3f80d7956a8:
+    9: 10
+    8: 9
+    6: 7
+    1: 1
+    7: 8
+    2: 2
+    5: 5
+    w6: 6
+    3: 3
+    4: 4
   80719ab162f0908212d01fd840ad39c1fdaf65f9:
-    3:
-      automaticArea: true
+    9: 5
+    8: 8
+    6: 9
+    7: 7
+    w5: 10
+    2: 1
+    5: 6
+    4: 4
+    3: 3
+    1: 2
+  6697b1da7151039b26ce0579eee23683cde3a9a9:
+    9: 8
+    8: 9
+    6: 7
+    5: 5
+    7: 6
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  0b911d75c99ef05c5db302cabb192097f4419afd:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 4
+    4: 5
+    10: 10
+    3: 3
+  81006b4b4ed068c14c470c12e48e31776560b8ed:
+    9: 9
+    8: 8
+    6: 4
+    5: 2
+    7: 5
+    2: 6
+    w10: 10
+    4: 7
+    3: 3
+    1: 1
+  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
+    9: 8
+    8: 7
+    6: 5
+    5: 6
+    7: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  481c46c4e2f2e764b9b5faf3a8dcc667539ba9b4:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  bb5a8813c1fb7d43e427dbb71a2f36083688297c:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
+    w9: 9
+    1: 1
+    5: 5
+    2: 3
+    4: 4
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 2
+    w10: 10
+  07d1b7903b2e53855b9857c9eed5c101c9022d3a:
+    w9: 9
+    1: 1
+    5: 5
+    2: 2
+    4: 3
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 4
+    w10: 10
+  da001b5949453401a4c764a57057c4318d4c52db:
+    w9: 9
+    1: 1
+    6: 7
+    5: 5
+    w10: 10
+    w8: 8
+    w7: 6
+    4: 4
+    3: 3
+    2: 2
+  cd6942279e748a59951a1109ba029eaba02dddb9:
+    w9: 9
+    1: 1
+    5: 5
+    2: 2
+    4: 4
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 3
+    w10: 10
+  7dfd5bc2cb595614995b438d6ecda5d3eda18459:
+    1: 1
+    5: 5
+    6: 6
+    2: 2
+    8: 8
+    7: 9
+    w10: 10
+    w6: 7
+    3: 3
+    4: 4
+  3f7a437edfd1101fb5cc79b5020e06f9eee07d17:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 4
+    5: 5
+    4: 2
+    10: 10
+    3: 3
+  072fe874f24c904d2676f4267e1f2261c86f6db1:
+    w9: 9
+    1: 1
+    6: 8
+    5: 6
+    w10: 10
+    w8: 5
+    w7: 7
+    4: 4
+    3: 3
+    2: 2
+  9c70ff70c31158d159154b9a874845f53a2a4267:
+    w9: 9
+    1: 1
+    6: 8
+    5: 7
+    w10: 10
+    w8: 6
+    w7: 5
+    4: 4
+    3: 3
+    2: 2
+  9a0593708b1dc7452744c022bca13fb68cfd0e94:
+    w9: 9
+    1: 1
+    6: 6
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  446a7d4e3a8edf7b8d837c38101059d0430d454b:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  1d1c23a49851be848b818597b2c2b4865f2d7f58:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  72a87bb07802544554a587086f635a818d026a59:
+    w9: 9
+    1: 1
+    5: 5
+    w10: 10
+    w5: 6
+    w8: 8
+    w7: 7
+    4: 3
+    3: 2
+    2: 4
+  e70c62ac8b67eb1e56c47100e32ded8f52fb3b12:
+    9: 10
+    8: 8
+    6: 9
+    7: 6
+    w5: 5
+    2: 2
+    5: 7
+    4: 4
+    3: 3
+    1: 1
+  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
+    w9: 9
+    1: 1
+    6: 6
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  045cc5557e8035fe4447e52a99d508336b8efd69:
+    9: 10
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  cd403053a9d860120e415e17e0dc2a39b244091d:
+    w9: 7
+    1: 1
+    6: 6
+    5: 4
+    8: 10
+    2: 2
+    w10: 8
+    4: 5
+    3: 3
+    7: 9
+  0307f3bf841a792d1036db50351580bf39eed210:
+    w9: 5
+    1: 1
+    6: 7
+    5: 6
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  a689affc74a3a2cd47c5a2d12d332de03104ee86:
+    9: 8
+    8: 9
+    6: 5
+    1: 1
+    7: 7
+    2: 2
+    5: 6
+    4: 4
+    10: 10
+    3: 3
+  051557c346f7b87864ec4dfc3a85433491fe6508:
+    9: 10
+    8: 8
+    6: 6
+    5: 7
+    7: 9
+    2: 2
+    w10: 5
+    4: 4
+    3: 3
+    1: 1
+  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
+    1: 1
+    5: 6
+    6: 7
+    2: 2
+    8: 9
+    7: 8
+    w10: 10
+    w6: 5
+    3: 3
+    4: 4
+  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  c9a5611f61b7c83a455b77d594c2be06549ec76a:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 4
+    4: 5
+    10: 10
+    3: 3
+  4473f3969bc69b81b280901f528566be8681dbaf:
+    w9: 9
+    1: 1
+    6: 7
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 6
+  4ef268442c10f9671f2149eef0879aa801762e9d:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  f15592b8021219d77b27fe3013f5cf32ec3683d0:
+    w9: 9
+    1: 1
+    5: 5
+    2: 2
+    4: 3
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 4
+    w10: 10
+  1988a95c1df92dc38c827d583944abe0e96101ce:
+    9: 10
+    8: 8
+    6: 6
+    7: 9
+    w5: 5
+    2: 2
+    5: 7
+    4: 4
+    3: 3
+    1: 1
+  54c3a269a35c1d6822a368f15d9e41004397710f:
+    w9: 6
+    1: 1
+    6: 5
+    5: 7
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  6a925317190898293b58451f140504ccafea7db8:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  79bb364f032925de84f4592061606091ed20274b:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  4142d04064a2000abb705c7b093126dc6b452de3:
+    9: 10
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  226ecdd913c39c29c39342368528d6590b4b2a95:
+    w9: 6
+    1: 1
+    6: 8
+    5: 7
+    w5: 5
+    7: 9
+    w10: 10
+    4: 4
+    3: 3
+    2: 2
+  ae5b916c9b54aa2e5ece27514b71686079521ab8:
+    w9: 9
+    1: 1
+    6: 7
+    5: 5
+    2: 2
+    w8: 6
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  ddbf2684e12f419280f46919b845813ae219b7e9:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  04a9b6d9a2ddad57a217969981048ce1693855f4:
+    9: 8
+    8: 9
+    6: 6
+    5: 5
+    7: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  a0afae93d21186110ec80430e7d4c97e38da1367:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
+    9: 8
+    8: 4
+    6: 9
+    5: 6
+    7: 5
+    2: 2
+    w10: 10
+    4: 7
+    3: 3
+    1: 1
+  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  473eb1c741a757d7027033360e08f89ea04fbb81:
+    9: 10
+    8: 9
+    6: 5
+    1: 1
+    7: 7
+    w8: 8
+    5: 4
+    4: 6
+    3: 3
+    2: 2
+  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
+    9: 9
+    8: 8
+    6: 6
+    7: 10
+    w5: 5
+    2: 2
+    5: 7
+    4: 4
+    3: 3
+    1: 1
+  5d5b9b8ee29a1f3fd058fb9e7695ab50c877e8d8:
+    w9: 9
+    1: 1
+    6: 6
+    5: 5
+    2: 2
+    w8: 8
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
   677521146dc31e15a41bbc760d204465013aadf9:
-    7:
-      automaticArea: true
+    9: 8
+    8: 6
+    6: 7
+    1: 1
+    7: 5
+    2: 3
+    5: 9
+    w6: 10
+    3: 2
+    4: 4
   019919509fe4924f5d691cffa907604e17f73dfb:
-    1:
-      automaticArea: true
+    w9: 9
+    1: 1
+    5: 4
+    w4: 5
+    2: 2
+    w8: 8
+    w10: 10
+    w6: 6
+    3: 3
+    w7: 7
+  cbe2f084743851441e42cc9de86ab8446de6a005:
+    w9: 5
+    1: 1
+    6: 8
+    5: 7
+    2: 2
+    w8: 6
+    w10: 10
+    4: 4
+    3: 3
+    7: 9
+  c1cb52ef9c59c1fbd10f0db4e2d310f897758c8d:
+    w9: 9
+    1: 1
+    6: 5
+    5: 6
+    2: 2
+    w8: 8
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  01ba1d19057daaa4b4a3e9d438ff49dec60b8808:
+    w9: 5
+    1: 1
+    6: 9
+    5: 6
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  abd7f58cb47ad086de1b553746fcd43de251a282:
+    9: 10
+    8: 8
+    6: 9
+    5: 5
+    7: 7
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
+    9: 9
+    8: 8
+    6: 6
+    7: 7
+    w1: 10
+    2: 2
+    5: 5
+    4: 4
+    3: 3
+    1: 1
+  e743e12eb865457963ef6054aeefa21a8b016d2d:
+    9: 9
+    8: 8
+    6: 6
+    5: 5
+    7: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  dfc1ad0822690bff8fa016bf620bb1a68cb38e1a:
+    9: 10
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  9c883d045efc40dd80729634279adc3df330b8a4:
+    w9: 5
+    1: 1
+    6: 4
+    5: 3
+    8: 8
+    2: 2
+    w10: 10
+    4: 6
+    3: 9
+    7: 7
+  2b08e0e6dca7eec9c775a7c4c04a96d9b0c4371f:
+    9: 10
+    8: 7
+    6: 6
+    1: 1
+    7: 5
+    2: 2
+    5: 9
+    4: 4
+    10: 8
+    3: 3
+  923e1fa1bfc98bdf20f6be15c613a6705373c623:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 4
+    4: 5
+    10: 10
+    3: 3
+  0525a3ae4f13a8561eb0a7461dbc79f544dbb4ba:
+    w9: 9
+    1: 1
+    6: 6
+    5: 5
+    8: 10
+    2: 2
+    w10: 8
+    4: 4
+    3: 3
+    7: 7
+  f819bd8fcab7115040bef6cf963f4ef5da343f00:
+    9: 9
+    8: 8
+    6: 4
+    5: 5
+    7: 7
+    2: 2
+    w10: 10
+    4: 6
+    3: 3
+    1: 1
+  a18398ef707dfd77b75b513ab0bc08a6ac4755b0:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  e0dbb15d2dfb736d9b2658ff8d3d3cbb581b1ded:
+    w9: 5
+    1: 1
+    6: 6
+    5: 4
+    8: 9
+    2: 2
+    w10: 10
+    4: 7
+    3: 3
+    7: 8
+  9f199f2656fecf0dabcf328d351e75fbd7d82320:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  ebaf1f5436971a88e35dab4bf7b0ba3679acf188:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  92930d78ee4150fd9554d58e104f1c77e32a4cd4:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  4f26930b81445fae5c8d5e3a74064967e14a76b4:
+    9: 9
+    8: 7
+    6: 6
+    5: 10
+    7: 5
+    2: 2
+    w10: 8
+    4: 4
+    3: 3
+    1: 1
+  f6d6caa99636fa6ffb2a60883217cc0ce543c823:
+    w9: 9
+    1: 1
+    w10: 10
+    w4: 4
+    w5: 5
+    2: 3
+    w7: 7
+    w6: 6
+    3: 2
+    w8: 8
+  ad0fb6c40a78a6e71f6fb2b23cb9e32c00d50d61:
+    w9: 9
+    1: 1
+    2: 2
+    w6: 6
+    w5: 5
+    w8: 8
+    w7: 4
+    4: 7
+    3: 3
+    w10: 10
+  71692e03f458d139a3db457488869d6018d2938e:
+    1: 1
+    5: 5
+    6: 9
+    2: 2
+    8: 7
+    7: 8
+    w10: 10
+    w6: 6
+    3: 3
+    4: 4
+  1e479a2e4dc7bc9113c4673fb33d56ec4881b1e7:
+    9: 10
+    8: 9
+    6: 8
+    5: 5
+    7: 7
+    2: 2
+    w7: 6
+    4: 4
+    3: 3
+    1: 1
+  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
+    w9: 5
+    9: 10
+    8: 9
+    6: 7
+    7: 8
+    2: 2
+    5: 4
+    4: 6
+    3: 3
+    1: 1
+  147b01110432b812438c7bedf6f456bdaaf25835:
+    9: 9
+    8: 8
+    6: 5
+    1: 1
+    7: 7
+    2: 2
+    5: 4
+    4: 6
+    10: 10
+    3: 3
+  338d004e00583681c71035abd06ffdc1928040e4:
+    9: 8
+    8: 7
+    6: 6
+    5: 9
+    7: 5
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  bb94be25e1720a11775263d440e4911b8fdae040:
+    9: 9
+    8: 7
+    6: 6
+    5: 5
+    7: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
+    9: 4
+    8: 5
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 10
+    4: 9
+    10: 8
+    3: 3
+  b06d4555bea98653dc369f6f8959c66d994ee8fd:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  2e7e009948c075b2d09656e41cb7af842712513d:
+    9: 10
+    8: 9
+    6: 6
+    7: 8
+    w5: 5
+    2: 2
+    5: 7
+    4: 4
+    3: 3
+    1: 1
+  9a1135fd187df76109aee8800bc59535179911da:
+    w9: 9
+    1: 1
+    6: 6
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  ac9bb09032ec5459ebe19d73346aeaaf25ad2792:
+    9: 10
+    8: 8
+    6: 7
+    5: 5
+    7: 9
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  8618021bcdd52ef732e23677e1c6fa598bf9d982:
+    9: 10
+    8: 8
+    6: 7
+    1: 1
+    7: 9
+    2: 2
+    5: 5
+    w6: 6
+    3: 3
+    4: 4
+  c995146a008651725237d6ae2967477979d4872e:
+    w9: 5
+    1: 1
+    6: 7
+    5: 4
+    8: 9
+    2: 2
+    w10: 10
+    4: 6
+    3: 3
+    7: 8
+  95f4bad83234b3cf94370c67aa8c2e0f17409182:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  a1d74cbcdf2e60f35760b680318cffa13998f2b0:
+    9: 6
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  3fedb6a0176a1c688bb3f61669140fdae7eabfa3:
+    w9: 9
+    1: 10
+    w3: 3
+    w4: 4
+    w5: 5
+    2: 2
+    w7: 7
+    w6: 6
+    3: 1
+    w8: 8
+  a69886a97cc3fbfee28f8410e4ac3ec90a48a129:
+    w9: 9
+    1: 1
+    6: 7
+    8: 10
+    w6: 5
+    2: 2
+    5: 6
+    4: 4
+    3: 3
+    7: 8
+  b01a94396d25fdf6b52d1e2968f60d7b7e36ce28:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  8864a3f8ebbd46115e5b4e0995b037b64ac2d7ec:
+    9: 8
+    8: 9
+    6: 6
+    1: 1
+    7: 4
+    2: 2
+    5: 7
+    4: 5
+    10: 10
+    3: 3
+  c14c0fe7eebbf62f8b4d2f5922f1b5192bfba0e5:
+    1: 1
+    5: 5
+    6: 7
+    8: 9
+    w5: 6
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  dc4633affef0d85e31ef08f96806674b753a8de4:
+    9: 9
+    8: 6
+    6: 4
+    1: 1
+    7: 7
+    2: 2
+    5: 10
+    4: 5
+    10: 8
+    3: 3
+  e0c14644404db852f5459d20765bf747b9ed446c:
+    9: 9
+    8: 6
+    6: 4
+    1: 1
+    7: 7
+    2: 2
+    5: 10
+    4: 5
+    10: 8
+    3: 3
+  f46ceb92cf51faf469e540dbb7f97c049ddb1ff9:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 3
+    5: 5
+    4: 2
+    10: 10
+    3: 4
+  55beec6a807572c5ac5d7d8fac925056bc2acfd1:
+    9: 8
+    8: 7
+    6: 9
+    5: 4
+    7: 5
+    2: 2
+    w10: 10
+    4: 6
+    3: 3
+    1: 1
+  8d6a982c2e6c0daf8e2021cddaeb51b48258362b:
+    w9: 6
+    1: 1
+    6: 5
+    5: 7
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  0975a0d77372a8de61c95635ffc11d570b88e9c7:
+    9: 8
+    8: 9
+    6: 7
+    1: 1
+    7: 6
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  e412d657ebcde0577487deda06b6a2b6e9ef0587:
+    9: 6
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  8d3af4f8e058fdcea05a622f04876c9631a0b805:
+    9: 8
+    8: 9
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  26a1e3232219895da8f204dff65438864074978a:
+    9: 9
+    8: 8
+    6: 6
+    5: 3
+    7: 7
+    2: 2
+    w10: 10
+    4: 5
+    3: 4
+    1: 1
+  6902049842e05bdd3651ae0355ff912e72d356d5:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  4ff037f064f53dc19c3d621405f1e99464f08ad3:
+    9: 10
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
+    w9: 9
+    1: 1
+    5: 5
+    2: 3
+    4: 4
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 2
+    w10: 10
+  473265d36a3b18a4a8611792bc1303eaf6a58372:
+    1: 1
+    2: 2
+    w6: 6
+    w10: 10
+    w5: 5
+    w8: 8
+    w3: 9
+    4: 4
+    3: 3
+    w7: 7
+  20c5925f4552ab1d571a0f5cd05947ca64abd039:
+    9: 10
+    8: 8
+    6: 9
+    1: 2
+    7: 7
+    2: 1
+    5: 6
+    w6: 5
+    3: 3
+    4: 4
+  cb9b83b2082b8e9fbd37ff82bd5e94e5e1b9b8ce:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  3b829c5aecd3669ce3ec5f03a023366cb54e8f86:
+    1: 1
+    5: 5
+    6: 8
+    2: 2
+    8: 9
+    7: 7
+    w10: 10
+    w6: 6
+    3: 3
+    4: 4
+  2a8f226da3f5d7255fb0d952e48eeeb436af0c34:
+    w9: 9
+    1: 1
+    6: 4
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 6
+    3: 3
+    7: 7
+  381e13fbbca185be880727ab89367c79b2221b56:
+    9: 9
+    8: 6
+    6: 7
+    1: 1
+    7: 8
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
+    w9: 5
+    1: 1
+    6: 6
+    5: 9
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  bfd88bf4cf93b2e87025b332b16affcfa714ba2a:
+    9: 9
+    8: 8
+    6: 6
+    5: 5
+    7: 7
+    2: 2
+    w7: 10
+    4: 4
+    3: 3
+    1: 1
+  262a2a588099e191f4c7d942b218a31e401a1503:
+    9: 8
+    8: 9
+    6: 7
+    1: 1
+    7: 6
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  8dc664a44c96eac830b4edbec618502544492e19:
+    w9: 9
+    1: 1
+    6: 6
+    5: 8
+    w10: 10
+    w8: 5
+    w7: 7
+    4: 4
+    3: 3
+    2: 2
+  643afb23aedfe34ba21b51077f3f204ee6511c68:
+    1: 1
+    5: 7
+    6: 6
+    8: 8
+    w5: 5
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 9
+  22398c9a4c80f09fd8af065eb06f64fcc86047ec:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  9772a1b3bdb0ea78da6b6353a176aa868ca32674:
+    w9: 9
+    1: 1
+    6: 7
+    5: 5
+    2: 2
+    w8: 6
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  55ecdfe76919bdbcd4542481b566289d05f6ca2c:
+    w9: 9
+    1: 1
+    5: 5
+    2: 3
+    4: 4
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 2
+    w10: 10
+  eff04e73efa08b095252cee28e6a5259bed97ad5:
+    9: 8
+    8: 7
+    6: 6
+    5: 9
+    7: 5
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  41ed6b38cc84ed1ecf853160f6cb4981b189eab0:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  d540740e457d40d0a8820e6a4128fe3ee9eb585b:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  742dfaf236748b5050f636551a28ce534e6babf6:
+    w9: 5
+    1: 1
+    6: 9
+    5: 6
+    8: 8
+    2: 2
+    w10: 10
+    4: 3
+    3: 4
+    7: 7
+  78f3b6b8ebcb2ca4afaab9d0eda1731e4e25bf0e:
+    9: 10
+    8: 9
+    6: 8
+    5: 4
+    7: 7
+    2: 2
+    w10: 6
+    4: 5
+    3: 3
+    1: 1
+  5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
+    w9: 9
+    1: 1
+    5: 4
+    w4: 5
+    2: 2
+    w8: 8
+    w10: 10
+    w6: 6
+    3: 3
+    w7: 7
+  d5177850aee0d88a9e2870ca2e24b9350e837160:
+    w9: 9
+    1: 1
+    6: 6
+    5: 4
+    8: 8
+    2: 2
+    w10: 10
+    4: 5
+    3: 3
+    7: 7
+  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
+    w9: 9
+    1: 1
+    5: 5
+    2: 4
+    4: 3
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 2
+    w10: 10
+  8c3c0cdbcf0deb5c35a6e5a37f27e2ce3c25b2aa:
+    w9: 9
+    1: 1
+    6: 8
+    5: 6
+    w10: 10
+    w8: 7
+    w7: 5
+    4: 4
+    3: 3
+    2: 2
+  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
+    w9: 9
+    1: 1
+    6: 6
+    5: 5
+    8: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  54aaeae5536903c6751f7c31e1e282a41481e578:
+    1: 1
+    8: 10
+    6: 7
+    w6: 6
+    w5: 5
+    2: 2
+    5: 9
+    4: 4
+    3: 3
+    7: 8
+  69aa59dffb07e06ed45e84585a3985592b980a96:
+    9: 8
+    8: 7
+    6: 9
+    5: 5
+    7: 6
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  8cfec52931167d8d7d270ae7cbd1d9a32631ff51:
+    9: 9
+    8: 8
+    6: 6
+    5: 4
+    7: 7
+    2: 2
+    w10: 10
+    4: 5
+    3: 3
+    1: 1
+  29a0935c6dbaf1c04dde4b71355d5174c1f5485e:
+    w9: 6
+    1: 1
+    6: 8
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  ced51183152907f92e0e8e356ece16a46d650a66:
+    w9: 9
+    1: 1
+    5: 5
+    2: 2
+    4: 3
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 4
+    w10: 10
+  326d92c0b88f96208f41e9623e5c3731d55661c4:
+    w9: 9
+    1: 1
+    6: 7
+    5: 5
+    8: 10
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    7: 8
+  937dc3caac8934bd53ba437ca4112a01fb4fccab:
+    w9: 9
+    1: 1
+    5: 5
+    w10: 10
+    4: 2
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 4
+    2: 3
+  91bb18cb5ec83a5acc8bac317cf9eb8ed2c35f97:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
+    9: 8
+    8: 9
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
+    9: 8
+    8: 7
+    6: 9
+    5: 5
+    7: 6
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  dd5283342b29832503d247cf8f972834fa8e669d:
+    9: 9
+    8: 8
+    6: 7
+    5: 5
+    7: 6
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  bd8ca6ef589b65a412d24473e3119e36b5a21048:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  75d588bdb9f35d033ddd359a7e34662431cc9a16:
+    w9: 5
+    1: 1
+    6: 9
+    5: 6
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
+    w9: 9
+    1: 1
+    2: 2
+    w6: 6
+    w5: 5
+    w8: 8
+    w7: 7
+    4: 4
+    3: 3
+    w10: 10
+  4754eea965fdd49a4f5b25e93189244bc9192b0e:
+    w9: 9
+    1: 1
+    6: 7
+    5: 6
+    2: 2
+    w8: 5
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
+    9: 8
+    8: 6
+    6: 9
+    5: 5
+    7: 4
+    2: 2
+    w10: 10
+    4: 7
+    3: 3
+    1: 1
+  ebd410aa21729472ce11c952f08054ef52f6d356:
+    9: 8
+    1: 1
+    6: 6
+    3: 3
+    8: 9
+    2: 2
+    5: 7
+    4: 5
+    10: 10
+    7: 4
+  1b99f372df4aca276657519cdd0e621d34d897b3:
+    w9: 9
+    1: 1
+    5: 5
+    2: 2
+    4: 3
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 4
+    w10: 10
+  b52927935fea7573021369459f9d7badfd70761a:
+    w9: 9
+    1: 1
+    5: 4
+    w4: 5
+    2: 2
+    w8: 8
+    w10: 10
+    w6: 6
+    3: 3
+    w7: 7
+  c74e53ca61af4997ddd421ec8d6a9cdffee5d0f1:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+  3f6a04427e80c9c40227f6e5f7797c4387f02982:
+    w9: 6
+    1: 1
+    6: 9
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 7
+  ba75921f7db4c0f4653d4522bd04aa1906be587c:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 8
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 9
+  e72062b6943c915dc828f87de72853257682371b:
+    9: 8
+    8: 7
+    6: 9
+    5: 5
+    7: 4
+    2: 2
+    w10: 10
+    4: 6
+    3: 3
+    1: 1
+  54bde3a5cc354c466a295e1e20fd9a3fe0257a47:
+    9: 9
+    8: 8
+    6: 6
+    5: 5
+    7: 10
+    2: 2
+    w7: 7
+    4: 4
+    3: 3
+    1: 1
+  2cadba8350ae6f72745c976c2a978412ef59a5cb:
+    w9: 9
+    1: 1
+    6: 7
+    5: 6
+    8: 10
+    2: 3
+    w10: 5
+    4: 4
+    3: 2
+    7: 8
+  e23140eac4261d6906b17722bc8c40e7a3c80ead:
+    w9: 9
+    1: 1
+    6: 7
+    8: 10
+    w5: 6
+    2: 2
+    5: 5
+    4: 4
+    3: 3
+    7: 8
+  7ceb0c356c43301d7302b3e79e4426555571b194:
+    9: 4
+    1: 1
+    6: 6
+    3: 3
+    8: 9
+    7: 7
+    5: 5
+    4: 10
+    10: 8
+    2: 2
+  9f1d79edfc19288ff287b98d568a56019b3e5b8e:
+    w2: 2
+    1: 1
+    w3: 3
+    w4: 4
+    w5: 5
+    w8: 8
+    w10: 10
+    w6: 6
+    w9: 9
+    w7: 7
+  6d517928f95f594fc8bbc37064800dbdeb5b621e:
+    w9: 6
+    1: 1
+    6: 7
+    5: 5
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 8
+  4db3c86bc96ffa223fe267820d43099fa7ac9def:
+    w9: 9
+    1: 1
+    5: 5
+    2: 2
+    4: 3
+    w8: 8
+    w7: 7
+    w6: 6
+    3: 4
+    w10: 10
+  ac90a8a6dd697e5689cb9e829de8a65516955b73:
+    9: 6
+    8: 9
+    6: 8
+    5: 5
+    7: 7
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
+  e11712399ba8f67fb4fbaf44e4979845e2ad9570:
+    w9: 8
+    1: 1
+    6: 7
+    5: 5
+    8: 10
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    7: 9
+  494b5d616bd2d7bc8783e0760c0745dd8999921c:
+    9: 8
+    8: 7
+    6: 9
+    5: 5
+    7: 6
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    1: 1
   c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
-    5:
-      automaticArea: false
-    7:
-      automaticArea: false
-  fd9a75f0945173209364b87c922dc5c0641bdc0e:
-    5:
-      automaticArea: true
-    3:
-      automaticArea: true
-uuid: Zf/Ai/bnNL9/W/3294BPJK6mPtk=
-account_secret: true
-login_account: kfASm6lHcqLvwx2eLgulZHFCKfURmvWuuA==
-login_password: C/UawK1Bd6+/xm7F
-battlepass_groupup: true
-minimapZoom: 2
-interfaceVolume: 25
-voicesVolume: 25
-effectsVolume: 40
-musicVolume: 5
-masterVolume: 70
-showCreatureSubNames: false
-log-errors:
-shop_sales:
-  banner: https://i.imgur.com/WFvfuK1.png
-  data:
-    125: true
-    133: true
-    165: true
-    122: true
-    61: true
-    62: true
-  viewed:
-    125: true
-    133: true
-    165: true
-    122: true
-    61: true
-    62: true
+    9: 8
+    8: 10
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 9
+    3: 3
+  d92e64584c765682bb8e192e3792148c68c63547:
+    9: 5
+    8: 7
+    6: 6
+    1: 1
+    7: 10
+    2: 2
+    5: 9
+    4: 4
+    10: 8
+    3: 3
+  c01e3a9ed0792543834a66cf14173c843a37d5c8:
+    w9: 6
+    1: 1
+    6: 7
+    5: 8
+    8: 9
+    2: 2
+    w10: 10
+    4: 4
+    3: 3
+    7: 5
+  eaa4dab0303034f1c42094c3017b8f54fd803a74:
+    9: 10
+    8: 8
+    6: 9
+    5: 5
+    7: 7
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  15b84ac50c8450ffc61b429cfd814b3f36ecb2a0:
+    9: 9
+    8: 8
+    6: 6
+    7: 7
+    w1: 10
+    2: 2
+    5: 5
+    4: 4
+    3: 3
+    1: 1
+  8c38a778a590a1a3af110999a178b70ba3608172:
+    9: 9
+    8: 6
+    6: 4
+    1: 1
+    7: 7
+    2: 2
+    5: 10
+    4: 5
+    10: 8
+    3: 3
+  8dce3c67e7ebd35016e250dfd3e34e07c761c69e:
+    9: 10
+    8: 9
+    6: 7
+    5: 5
+    7: 8
+    2: 2
+    w10: 6
+    4: 4
+    3: 3
+    1: 1
+  619d3dce59dda102414c65981463a149ee3cd33d:
+    9: 10
+    8: 8
+    6: 9
+    1: 1
+    7: 7
+    2: 2
+    5: 6
+    w6: 5
+    3: 3
+    4: 4
+  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
+    9: 9
+    8: 8
+    6: 6
+    1: 1
+    7: 7
+    2: 2
+    5: 5
+    4: 4
+    10: 10
+    3: 3
+auto_cast: false
+masterVolume: 1
+useitems:
+  useItem2: 0
+  useItem1: 60082
 MinimapFlags:
   water7:
-    -
-      style: MinimapFlagChest
-      position:
-        y: 1063
-        x: 1267
-        z: 9
-      category: player_flags
-      description: Baú
-    -
-      style: MinimapFlagLever
-      position:
-        y: 1105
-        x: 1159
-        z: 9
-      category: player_flags
-      description: Ponte
-    -
-      style: MinimapFlagChest
-      position:
-        y: 1111
-        x: 1156
-        z: 9
-      category: player_flags
-      description: Baú
-    -
-      style: MinimapFlagChest
-      position:
-        y: 1116
-        x: 833
-        z: 5
-      category: player_flags
-      description: Baú
+windowResolution: Auto Detect
+quest-options:
+  expanded: true
+  hideTrackers: false
+  hideCollected: true
+autoeatfood: 3
+hiddenCurrencies: false
+completed-stories:
+  12_alabasta/p5/1: true
+  9_whisky/p2/1: true
+  14_jaya/p1/jaya_story_1: true
+  12_alabasta/p4/1: true
+  17_amazon/p1/1: true
+  9_whisky/p1/1: true
+  9_whisky/p2a/1: true
+  12_alabasta/p2/1: true
+  13_alabasta/p8/1: true
+  12_alabasta/p7/1: true
+  raid_skypiea/p1/raid_war_1: true
+  raid_skypiea/p3/raid_shura_3: true
+  raid_skypiea/p1/raid_intro_1: true
+  raid_skypiea/p6/raid_enel_4: true
+  raid_skypiea/p2/raid_satori_1: true
+  raid_skypiea/p6/raid_enel_1: true
+  raid_skypiea/p2/raid_satori_2: true
+  raid_skypiea/p5/raid_ohm_13: true
+  raid_skypiea/p5/raid_ohm_1: true
+  raid_skypiea/p4/raid_gedatsu_3: true
+  raid_skypiea/p4/raid_gedatsu_7: true
+  raid_skypiea/p4/raid_gedatsu_1: true
+  event_halloween/p4/1: true
+  event_halloween/p4/9: true
+  raid_skypiea/p3/raid_shura_1: true
+  event_halloween/p3/1: true
+  event_halloween/p2/1: true
+  10_little/p6/1: true
+  9_whisky/p3/1: true
+  14_jaya/p2/jaya_story_17: true
+  16_sabaody/p3/1: true
+  15_water7/p2/1: true
+  13_alabasta/p2/1: true
+  10_little/p4/1: true
+  11_drum/p1/1: true
+  17_amazon/p5/1: true
+  12_alabasta/p3/1: true
+  9_whisky/p5/1: true
+  17_amazon/p4/1: true
+  13_alabasta/p7/32: true
+  16_sabaody/p1/1: true
+  16_sabaody/p4/1: true
+  13_alabasta/p6a/1: true
+  15_water7/p4/1: true
+  15_water7/p5/1: true
+  13_alabasta/p5/1: true
+  14_jaya/p3/jaya_story_19: true
+  13_alabasta/p6/1: true
+  14_jaya/p4/jaya_story_26: true
+  14_jaya/p5/jaya_story_29: true
+  12_alabasta/p7/14: true
+  16_sabaody/p5/1: true
+  11_drum/p4/16: true
+  10_little/p5/1: true
+  13_alabasta/p3/1: true
+  12_alabasta/p6/1: true
+  11_drum/p5/1: true
+  13_alabasta/p2a/1: true
+  12_alabasta/p3a/1: true
+  11_drum/p3/1: true
+  event_germa/p1/9: true
+  event_germa/p3/3: true
+  event_germa/p4/4: true
+  event_germa/p4/1: true
+  event_germa/p3/1: true
+  event_germa/p2/6: true
+  event_germa/p2/1: true
+  event_germa/p1/15: true
+  event_germa/p1/6: true
+  event_germa/p1/1: true
+  event_summer/p2/p6-2: true
+  event_summer/p2/p5-1: true
+  event_summer/p2/p4-1: true
+  event_summer/p2/p3-1: true
+  event_summer/p2/p2-1: true
+  event_summer/p2/1: true
+  waiting: true
+  13_alabasta/p1/1: true
+  10_little/p1/1: true
+  9_whisky/p4/1: true
+  10_little/p2/1: true
+  17_amazon/p3/1: true
+  15_water7/p3/1: true
+  10_little/p3/1: true
+  16_sabaody/p2/1: true
+  15_water7/p7/1: true
+  2_morgan/p6/1: true
+  17_amazon/p2/1: true
+  11_drum/p2/1: true
+  3_buggy/p2/1: true
+  1_alvida/p1/1: true
+  1_alvida/p3/1: true
+  3_buggy/p3/1: true
+  2_morgan/p1/1: true
+  3_buggy/p1/1: true
+  2_morgan/p2/1: true
+  2_morgan/p4/1: true
+  3_buggy/p7/1: true
+  3_buggy/p6/1: true
+  1_alvida/p2/1: true
+  3_buggy/p5/1: true
+  3_buggy/p4/1: true
+  9_whisky/p6/1: true
+  2_morgan/p5/1: true
+  13_alabasta/p4/1: true
+  event_easter/carrot_blackmarket/01: true
+  continue: true
+  tobecontinued: true
+  15_water7/p6/1: true
+  2_morgan/p3/1: true
+  12_alabasta/p1/1: true
+  15_water7/p1/1: true
+dungeon_last_mission:
+  mode: event
+  id: germa66_hard
+  selectedDifficulty: normal
+  difficultyId: elite
+  selectedGroup: solo
 game_chat:
   messageHistory:
     - manda pt
@@ -2557,86 +2655,113 @@ game_chat:
     - kkk
     - vou sair tbm entao cria
     - vlw o up
-dungeon_last_mission:
-  mode: story
-  selectedDifficulty: normal
-  id: fistoflove_hard4
-  difficultyId: elite
-useitems:
-  useItem2: 12667
-  useItem1: 4567
+    - todos?
+    - manda pt
+    - tenho q upar o moria
+    - aquele balão
+    - ice age me enganoou kkkk
+    - esse ai não sei tirar a mecanica ainda
+    - voltando a jogar agora patrão calmo ai
+    - bebe ou carne?
+    - fecho
+    - close
+    - no final bobiamos
+    - respondendo o rh aqui pai
+    - sabaody ou monkey?
+    - moria?
+    - full?
+    - os 2
+    - batendo pose
+    - isso aqui nao é hard
+    - é elite?
+    - :/
+    - estava achando estanho mesmo
+    - muito rappido
+    - pq
+    - hihi
+    - vsf
+    - essa tua ulti no começo acabou com nos
+    - dnovo
+    - pq
+    - wash, se vai ultar o coisa em linha reta cara
+    - usa para baix
 windowedResolution:
   width: 1920
   height: 1080
-lastChatConfig:
-  size:
-    width: 588
-    height: 260
-bossLifeBarPos:
-  y: 0
-  x: 657
-translation-options:
-  maxFindLines: 1000
-  allowErrorWindowUndock: false
+shop_sales:
+  data:
+    93: true
+    73: true
+    175: true
+    164: true
+    133: true
+    149: true
+  banner: https://i.imgur.com/aINoq02.png
+  viewed:
+    93: true
+    73: true
+    175: true
+    164: true
+    149: true
+    133: true
 lastChannelsOpen:
   Yzzil:
-    Grupos: 3
     Aliança: 11
+    Grupos: 3
+lastChatConfig:
+  size:
+    width: 766
+    height: 514
 viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
   -
-    order: 1
     name: Geral
+    order: 1
     id: default
 worldboss_difficulty:
-  invasion: hard
   bounty: extreme
-quest-options:
-  expanded: true
-  hideTrackers: false
-  hideCollected: true
-completed-stories:
-  event_easter/carrot_blackmarket/01: true
-  continue: true
-  tobecontinued: true
+  invasion: hard
 MDIWindows:
-  container0:
-    isLocked: true
-    parentId: gameRightPanel
-    mdiDockIndex: 4
-    isMinimized: false
-    position:
-      y: 204
-      x: 1726
-    isClosed: false
-    size:
-      width: 190
-      height: 253
   joinWindow:
+    parentId: gameRightPanel
+    isMinimized: false
+    mdiDockIndex: 2
+    isLocked: false
+    position:
+      y: 0
+      x: 0
     size:
       width: 190
       height: 300
-    parentId: gameRightPanel
     isClosed: true
-    isMinimized: false
-    position:
-      y: 0
-      x: 0
-    mdiDockIndex: 2
-    isLocked: false
-  vipWindow:
+  container0:
     parentId: gameRightPanel
+    isMinimized: false
+    mdiDockIndex: 4
     isLocked: true
-    mdiDockIndex: 1
-    isMinimized: false
     position:
-      y: 0
-      x: 0
-    isClosed: true
+      y: 204
+      x: 1726
     size:
       width: 190
-      height: 524
+      height: 253
+    isClosed: false
+  vipWindow:
+    parentId: gameRightPanel
+    isMinimized: false
+    mdiDockIndex: 1
+    isLocked: true
+    position:
+      y: 0
+      x: 0
+    size:
+      width: 190
+      height: 456
+    isClosed: true
+bossLifeBarPos:
+  y: 0
+  x: 657
 window:
-  fullscreen: true
+  borderless: true
   maximized: false
   position:
     y: 300
@@ -2644,14 +2769,14 @@ window:
   size:
     width: 640
     height: 480
-  borderless: true
+  fullscreen: true
 sgpproxies:
-  QnpWGWpiTWRCQGtyZgQ=
-    dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 192
-    privPing: 133
-    lastPubPingAtMs: 1775325374461
-    lastSeenAt: 1775325465
+  RnxLBWpjV3hFWHF1
+    dataCenter: HDsNGjo5Cg==
+    pubPing: 163
+    privPing: 137
+    lastPubPingAtMs: 1786291538005
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
@@ -2662,48 +2787,48 @@ sgpproxies:
       - 7003
       - 7002
       - 7000
-  SnhLBm5lV35eRHZx
-    dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 252
-    privPing: 3
-    lastPubPingAtMs: 1775325581913
-    lastSeenAt: 1775325465
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1775325230113
-    failedLastConnectPing: false
-    ports:
-      - 7002
-      - 7003
-      - 7000
-      - 7001
   QnpSGW1lV3tETmt1Yg==
     dataCenter: HywRXiwkHS9dBSQs
     pubPing: 6
-    privPing: 0
-    lastPubPingAtMs: 1775325585516
-    lastSeenAt: 1775325465
+    privPing: 1
+    lastPubPingAtMs: 1786291433684
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1775325464346
+    lastUsedAtMs: 1786291297643
     failedLastConnectPing: false
     ports:
       - 7001
       - 7002
       - 7000
       - 7003
-  QnVQGWphQGRBQXxtZQY=
-    dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 153
-    privPing: 110
-    lastPubPingAtMs: 1775325374429
-    lastSeenAt: 1775325465
+  QnpWGWpiTWRCQGtyZgQ=
+    dataCenter: HCMARyo+DyMUEzduPUla
+    pubPing: 123
+    privPing: 117
+    lastPubPingAtMs: 1786291466868
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1775261812008
+    lastUsedAtMs: 1786291435541
+    failedLastConnectPing: false
+    ports:
+      - 7001
+      - 7003
+      - 7002
+      - 7000
+  QnVQGWphQGRBQXxtZQY=
+    dataCenter: HywRXiwkHS9dGDwg
+    pubPing: 155
+    privPing: 110
+    lastPubPingAtMs: 1786291537981
+    lastSeenAt: 1786291468
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1786239014378
     failedLastConnectPing: false
     ports:
       - 7003
@@ -2712,10 +2837,10 @@ sgpproxies:
       - 7000
   R3tLBm9/SHpDWHd2
     dataCenter: GyIWQzM0AGceGg==
-    pubPing: 222
+    pubPing: 219
     privPing: 187
-    lastPubPingAtMs: 1775325374690
-    lastSeenAt: 1775325465
+    lastPubPingAtMs: 1786291538254
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
@@ -2726,44 +2851,44 @@ sgpproxies:
       - 7001
       - 7000
       - 7002
-  RXpLBWliV3tCRmtyYQk=
-    dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 152
-    privPing: 110
-    lastPubPingAtMs: 1775325374429
-    lastSeenAt: 1775325465
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1775261572827
-    failedLastConnectPing: false
-    ports:
-      - 7001
-      - 7002
-      - 7003
-      - 7000
   QnpSGW1lV3tEQWt1YA==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 6
-    privPing: 3
-    lastPubPingAtMs: 1775325581890
-    lastSeenAt: 1775325465
+    pubPing: 9
+    privPing: 0
+    lastPubPingAtMs: 1786291467113
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1775325230113
+    lastUsedAtMs: 1786291435541
     failedLastConnectPing: false
     ports:
       - 7000
       - 7001
       - 7002
       - 7003
+  QnlSGWliTGRBQ2t1Zg==
+    dataCenter: HDsNGi44Fw==
+    pubPing: 135
+    privPing: 130
+    lastPubPingAtMs: 1786291537977
+    lastSeenAt: 1786291468
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1786239054623
+    failedLastConnectPing: false
+    ports:
+      - 7000
+      - 7002
+      - 7003
+      - 7001
   QnlRGWpgTmRBRmtyZQU=
     dataCenter: HDsNGjo5Cg==
-    pubPing: 159
-    privPing: 133
-    lastPubPingAtMs: 1775325374434
-    lastSeenAt: 1775325465
+    pubPing: 148
+    privPing: 143
+    lastPubPingAtMs: 1786291537990
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
@@ -2776,46 +2901,30 @@ sgpproxies:
       - 7000
   QnpWGWphQWRJTmtyYQ==
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 153
-    privPing: 112
-    lastPubPingAtMs: 1775325374429
-    lastSeenAt: 1775325465
+    pubPing: 136
+    privPing: 113
+    lastPubPingAtMs: 1786291580838
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1775261575477
+    lastUsedAtMs: 1786291467650
     failedLastConnectPing: false
     ports:
       - 7001
       - 7003
       - 7002
       - 7000
-  R3hLD2p/S35FWHR0Zw==
-    dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 279
-    privPing: 4
-    lastPubPingAtMs: 1775325463821
-    lastSeenAt: 1775325465
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1775325342140
-    failedLastConnectPing: false
-    ports:
-      - 7000
-      - 7003
-      - 7002
-      - 7001
   QnpSGW1lV3tEQmtyYgY=
     dataCenter: HywRXiwkHS9dBSQs
     pubPing: 6
     privPing: 0
-    lastPubPingAtMs: 1775325464042
-    lastSeenAt: 1775325465
+    lastPubPingAtMs: 1786291580918
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1775325342140
+    lastUsedAtMs: 1786291467650
     failedLastConnectPing: false
     ports:
       - 7001
@@ -2824,46 +2933,30 @@ sgpproxies:
       - 7003
   QnlSGWliTGRBWHR2ZQ==
     dataCenter: HDsNGi44Fw==
-    pubPing: 150
-    privPing: 133
-    lastPubPingAtMs: 1775325374409
-    lastSeenAt: 1775325465
+    pubPing: 135
+    privPing: 127
+    lastPubPingAtMs: 1786291537977
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    lastUsedAtMs: 1786239876000
     failedLastConnectPing: false
     ports:
       - 7001
       - 7003
       - 7002
       - 7000
-  SnhLBm5lV35eR3Bx
-    dataCenter: ByUAXzciDSMeEWgwMl8=
-    pubPing: 223
-    privPing: 3
-    lastPubPingAtMs: 1775325585221
-    lastSeenAt: 1775325465
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 1775325464346
-    failedLastConnectPing: false
-    ports:
-      - 7001
-      - 7000
-      - 7003
-      - 7002
   QnVQGWphQGRBQXxtZQI=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 151
+    pubPing: 136
     privPing: 110
-    lastPubPingAtMs: 1775325374429
-    lastSeenAt: 1775325465
+    lastPubPingAtMs: 1786291433681
+    lastSeenAt: 1786291468
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1775261763424
+    lastUsedAtMs: 1786291297643
     failedLastConnectPing: false
     ports:
       - 7003
