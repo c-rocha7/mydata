@@ -263,300 +263,6 @@ displayIndex: -1
 account_secret: true
 login_account: yzWBsyCOgUFxg5rvyx7i6GDMpZNLX2aGMQ==
 login_password: UTCJ6CSIhEwhhum0
-game_spells_extra:
-  cda870bdf344acb3b39589494a0fa44cfc5ea92d:
-    1:
-      automaticArea: true
-  bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
-    5:
-      automaticArea: false
-    4:
-      automaticArea: false
-    8:
-      automaticArea: true
-    2:
-      automaticArea: true
-  80719ab162f0908212d01fd840ad39c1fdaf65f9:
-    3:
-      automaticArea: true
-  0b911d75c99ef05c5db302cabb192097f4419afd:
-    5:
-      automaticArea: false
-    6:
-      automaticArea: false
-    3:
-      automaticArea: true
-    2:
-      automaticArea: false
-  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
-    3:
-      automaticArea: false
-    7:
-      automaticArea: false
-  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
-    1:
-      automaticArea: true
-  cd6942279e748a59951a1109ba029eaba02dddb9:
-    1:
-      automaticArea: true
-  72a87bb07802544554a587086f635a818d026a59:
-    1:
-      automaticArea: true
-  71692e03f458d139a3db457488869d6018d2938e:
-    3:
-      automaticArea: false
-  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
-    5:
-      automaticArea: true
-  147b01110432b812438c7bedf6f456bdaaf25835:
-    5:
-      automaticArea: false
-    6:
-      automaticArea: false
-    3:
-      automaticArea: false
-    2:
-      automaticArea: false
-  a689affc74a3a2cd47c5a2d12d332de03104ee86:
-    6:
-      automaticArea: true
-    9:
-      automaticArea: true
-  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
-    3:
-      automaticArea: false
-  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
-    6:
-      automaticArea: false
-  f15592b8021219d77b27fe3013f5cf32ec3683d0:
-    1:
-      automaticArea: true
-  1988a95c1df92dc38c827d583944abe0e96101ce:
-    3:
-      automaticArea: true
-  04a9b6d9a2ddad57a217969981048ce1693855f4:
-    8:
-      automaticArea: true
-  dc4633affef0d85e31ef08f96806674b753a8de4:
-    3:
-      automaticArea: true
-  e0c14644404db852f5459d20765bf747b9ed446c:
-    3:
-      automaticArea: true
-  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
-    3:
-      automaticArea: true
-  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
-    5:
-      automaticArea: false
-    4:
-      automaticArea: true
-  677521146dc31e15a41bbc760d204465013aadf9:
-    7:
-      automaticArea: true
-  019919509fe4924f5d691cffa907604e17f73dfb:
-    1:
-      automaticArea: true
-  6902049842e05bdd3651ae0355ff912e72d356d5:
-    2:
-      automaticArea: true
-  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
-    1:
-      automaticArea: true
-  16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
-    2:
-      automaticArea: false
-  20c5925f4552ab1d571a0f5cd05947ca64abd039:
-    3:
-      automaticArea: true
-  128c41cc3dbb560a41c0bb9b0dcbcd615d3a6143:
-    4:
-      automaticArea: false
-  7a70cd33b418d385c652ac79e43065d37f415db0:
-    8:
-      automaticArea: true
-  e96305abdd9d8b8fd585d27588af04f4627a64ba:
-    4:
-      automaticArea: false
-    2:
-      automaticArea: false
-  4357131be1f4691baa1f9ceed65401bb91500d74:
-    2:
-      automaticArea: false
-  c4304a59294665111e65f5d74d7961989d25260b:
-    5:
-      automaticArea: false
-    3:
-      automaticArea: false
-  84aa30682e44604c2808f19f13542ce6c5932533:
-    3:
-      automaticArea: true
-    4:
-      automaticArea: false
-  0d1d7dc5ea5ef07fc5f0ed0dcf95b0261fd5c8ca:
-    1:
-      automaticArea: true
-    2:
-      automaticArea: false
-  68be479a91e2ee907ab7ce5867015215fb357cd4:
-    1:
-      automaticArea: true
-  7fc1b08d336798d034bce920591cf3613a3cd218:
-    1:
-      automaticArea: false
-  72b174b3832303f2973606b440ef42321d445ae6:
-    4:
-      automaticArea: false
-    2:
-      automaticArea: false
-  d22829d7360ca847cab7e269001260e34f966d4e:
-    1:
-      automaticArea: true
-  932c8b8279be82deaf1dd6856e295735bbe73491:
-    5:
-      automaticArea: false
-  6ef6180a6f5a3c7ada476e64f8c6ebbedbd03edd:
-    6:
-      automaticArea: true
-  e202ef6bcba127cae77d15bd61a20ddcc7c715d4:
-    2:
-      automaticArea: true
-  0e943fb8206bed6c15233711e622f8c1a8c3e65f:
-    1:
-      automaticArea: true
-  1a2b40b45157313bfef35f4073b7e95428b14c38:
-    5:
-      automaticArea: false
-  5b3dddd664916361b6685d4b35d38ed2c0e29cb2:
-    1:
-      automaticArea: true
-  e65b0def1c986b891a25a9f60e6b4d255324ca66:
-    1:
-      automaticArea: false
-  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
-    3:
-      automaticArea: true
-    5:
-      automaticArea: true
-  a9439ed1b60082d820adf8da192b1e47fa15ab08:
-    2:
-      automaticArea: true
-  69aa59dffb07e06ed45e84585a3985592b980a96:
-    4:
-      automaticArea: false
-  ced51183152907f92e0e8e356ece16a46d650a66:
-    1:
-      automaticArea: true
-  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
-    9:
-      automaticArea: false
-    5:
-      automaticArea: false
-  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
-    4:
-      automaticArea: false
-  dd5283342b29832503d247cf8f972834fa8e669d:
-    5:
-      automaticArea: false
-  75d588bdb9f35d033ddd359a7e34662431cc9a16:
-    3:
-      automaticArea: true
-    4:
-      automaticArea: false
-  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
-    2:
-      automaticArea: true
-  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
-    3:
-      automaticArea: true
-  1b99f372df4aca276657519cdd0e621d34d897b3:
-    1:
-      automaticArea: true
-  b52927935fea7573021369459f9d7badfd70761a:
-    1:
-      automaticArea: true
-  3f6a04427e80c9c40227f6e5f7797c4387f02982:
-    6:
-      automaticArea: false
-    3:
-      automaticArea: true
-    7:
-      automaticArea: false
-  7ceb0c356c43301d7302b3e79e4426555571b194:
-    3:
-      automaticArea: false
-  fd9a75f0945173209364b87c922dc5c0641bdc0e:
-    5:
-      automaticArea: true
-    3:
-      automaticArea: true
-  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
-    5:
-      automaticArea: false
-    6:
-      automaticArea: false
-    3:
-      automaticArea: false
-    2:
-      automaticArea: false
-  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
-    1:
-      automaticArea: false
-  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
-    3:
-      automaticArea: false
-  f819bd8fcab7115040bef6cf963f4ef5da343f00:
-    6:
-      automaticArea: true
-    4:
-      automaticArea: false
-    2:
-      automaticArea: true
-  e23140eac4261d6906b17722bc8c40e7a3c80ead:
-    4:
-      automaticArea: true
-    7:
-      automaticArea: true
-  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
-    3:
-      automaticArea: false
-    5:
-      automaticArea: false
-  f270eb4ac60396b9bf39fb60b9c063b36fb4c402:
-    5:
-      automaticArea: false
-  494b5d616bd2d7bc8783e0760c0745dd8999921c:
-    4:
-      automaticArea: false
-  c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
-    5:
-      automaticArea: false
-    7:
-      automaticArea: false
-  381e13fbbca185be880727ab89367c79b2221b56:
-    6:
-      automaticArea: true
-  db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
-    5:
-      automaticArea: true
-  eff04e73efa08b095252cee28e6a5259bed97ad5:
-    2:
-      automaticArea: true
-  5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
-    1:
-      automaticArea: true
-  8c38a778a590a1a3af110999a178b70ba3608172:
-    3:
-      automaticArea: true
-  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
-    6:
-      automaticArea: false
-  338d004e00583681c71035abd06ffdc1928040e4:
-    2:
-      automaticArea: false
-  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
-    9:
-      automaticArea: true
 game_spells:
   cda870bdf344acb3b39589494a0fa44cfc5ea92d:
     w9: 9
@@ -2507,24 +2213,326 @@ game_spells:
     3: 3
 auto_cast: false
 masterVolume: 1
-useitems:
-  useItem2: 0
-  useItem1: 60082
 MinimapFlags:
   water7:
 windowResolution: Auto Detect
-quest-options:
-  expanded: true
-  hideTrackers: false
-  hideCollected: true
 autoeatfood: 3
-hiddenCurrencies: false
+game_spells_extra:
+  dc4633affef0d85e31ef08f96806674b753a8de4:
+    3:
+      automaticArea: true
+  e0c14644404db852f5459d20765bf747b9ed446c:
+    3:
+      automaticArea: true
+  6902049842e05bdd3651ae0355ff912e72d356d5:
+    2:
+      automaticArea: true
+  7bc7e757371e4dc5d9ee330d7ed27f59900da47a:
+    1:
+      automaticArea: false
+  20c5925f4552ab1d571a0f5cd05947ca64abd039:
+    3:
+      automaticArea: true
+  69aa59dffb07e06ed45e84585a3985592b980a96:
+    4:
+      automaticArea: false
+  ced51183152907f92e0e8e356ece16a46d650a66:
+    1:
+      automaticArea: true
+  84aa30682e44604c2808f19f13542ce6c5932533:
+    4:
+      automaticArea: false
+    3:
+      automaticArea: true
+  0d1d7dc5ea5ef07fc5f0ed0dcf95b0261fd5c8ca:
+    2:
+      automaticArea: false
+    1:
+      automaticArea: true
+  50b1a4df5ef2ed0049206d72f05ea34fb16bc96b:
+    9:
+      automaticArea: false
+    5:
+      automaticArea: false
+  b539a7c89912c3eb66fb6249f1fc0a57cbf40a54:
+    4:
+      automaticArea: false
+  dd5283342b29832503d247cf8f972834fa8e669d:
+    5:
+      automaticArea: false
+  d22829d7360ca847cab7e269001260e34f966d4e:
+    1:
+      automaticArea: true
+  75d588bdb9f35d033ddd359a7e34662431cc9a16:
+    4:
+      automaticArea: false
+    3:
+      automaticArea: true
+  6e8d951c9d69bc5eaaa8d4be4762ce2b3275e83e:
+    2:
+      automaticArea: true
+  e202ef6bcba127cae77d15bd61a20ddcc7c715d4:
+    2:
+      automaticArea: true
+  cd33ed8ef46f5f405bd3287f0ec9e38ce0b6c87f:
+    3:
+      automaticArea: true
+  1a2b40b45157313bfef35f4073b7e95428b14c38:
+    5:
+      automaticArea: false
+  1b99f372df4aca276657519cdd0e621d34d897b3:
+    1:
+      automaticArea: true
+  e65b0def1c986b891a25a9f60e6b4d255324ca66:
+    1:
+      automaticArea: false
+  a9439ed1b60082d820adf8da192b1e47fa15ab08:
+    2:
+      automaticArea: true
+  fd9a75f0945173209364b87c922dc5c0641bdc0e:
+    5:
+      automaticArea: false
+    3:
+      automaticArea: false
+  f270eb4ac60396b9bf39fb60b9c063b36fb4c402:
+    5:
+      automaticArea: false
+  80719ab162f0908212d01fd840ad39c1fdaf65f9:
+    3:
+      automaticArea: true
+  0b911d75c99ef05c5db302cabb192097f4419afd:
+    2:
+      automaticArea: false
+    5:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: true
+  7ceb0c356c43301d7302b3e79e4426555571b194:
+    3:
+      automaticArea: false
+  3e85b1ca38650564aa1cb69583a1f3689ce0037c:
+    7:
+      automaticArea: false
+    3:
+      automaticArea: false
+  1f5b1e850b1606a7f16b3efac084d405c17f4d99:
+    1:
+      automaticArea: true
+  cd6942279e748a59951a1109ba029eaba02dddb9:
+    1:
+      automaticArea: true
+  c26fa2ac4e80c17de7adc3dfe239e63df79c4f06:
+    7:
+      automaticArea: false
+    5:
+      automaticArea: false
+  8c38a778a590a1a3af110999a178b70ba3608172:
+    3:
+      automaticArea: true
+  72a87bb07802544554a587086f635a818d026a59:
+    1:
+      automaticArea: true
+  3d17a3e101d9a4e42f00f5a10f8d2bd6efef7f9c:
+    9:
+      automaticArea: true
+  128c41cc3dbb560a41c0bb9b0dcbcd615d3a6143:
+    4:
+      automaticArea: false
+  7a70cd33b418d385c652ac79e43065d37f415db0:
+    8:
+      automaticArea: true
+  e96305abdd9d8b8fd585d27588af04f4627a64ba:
+    4:
+      automaticArea: false
+    2:
+      automaticArea: false
+  4357131be1f4691baa1f9ceed65401bb91500d74:
+    2:
+      automaticArea: false
+  c4304a59294665111e65f5d74d7961989d25260b:
+    3:
+      automaticArea: false
+    5:
+      automaticArea: false
+  ba41e3a6c6de36b1cdf551ade0b171b8a0fb2bb1:
+    6:
+      automaticArea: false
+  79bbd3f4ff4a459aed89bcb17c90f1469bfa2a75:
+    6:
+      automaticArea: false
+  db9ee39451df4c45fbab58dfb1e4b5b8eb1a5ab8:
+    5:
+      automaticArea: true
+  f15592b8021219d77b27fe3013f5cf32ec3683d0:
+    1:
+      automaticArea: true
+  1988a95c1df92dc38c827d583944abe0e96101ce:
+    3:
+      automaticArea: true
+  eff04e73efa08b095252cee28e6a5259bed97ad5:
+    2:
+      automaticArea: true
+  04a9b6d9a2ddad57a217969981048ce1693855f4:
+    8:
+      automaticArea: true
+  09d3650ae2413f35af34bb8a20d74b2a9fe09ab5:
+    3:
+      automaticArea: false
+  37193bfd2e0ad84d7c84bd3dcfa8f85f0a4a730f:
+    3:
+      automaticArea: true
+  286d10ee8d15df1b92a3ea7ae221677ad3e0f6e6:
+    4:
+      automaticArea: true
+    5:
+      automaticArea: false
+  677521146dc31e15a41bbc760d204465013aadf9:
+    7:
+      automaticArea: true
+  019919509fe4924f5d691cffa907604e17f73dfb:
+    1:
+      automaticArea: true
+  68be479a91e2ee907ab7ce5867015215fb357cd4:
+    1:
+      automaticArea: true
+  5ff8922b2ad829ba9f40da54ec21a10f6c0adf9e:
+    1:
+      automaticArea: true
+  16f2d98b4fb17dcda4a0c35a1ba3d2a5680e803e:
+    2:
+      automaticArea: false
+  381e13fbbca185be880727ab89367c79b2221b56:
+    6:
+      automaticArea: true
+  494b5d616bd2d7bc8783e0760c0745dd8999921c:
+    4:
+      automaticArea: false
+  a96413f7b47d62453f9ba1c8d3e113d7b7e3ef0a:
+    5:
+      automaticArea: false
+    3:
+      automaticArea: false
+  e23140eac4261d6906b17722bc8c40e7a3c80ead:
+    4:
+      automaticArea: true
+    7:
+      automaticArea: true
+  a689affc74a3a2cd47c5a2d12d332de03104ee86:
+    9:
+      automaticArea: false
+    6:
+      automaticArea: true
+  8ef0ad2371f9e447b46acdf08f803ec6f2b72fe1:
+    2:
+      automaticArea: false
+    5:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: false
+  5f3a618d9c03e43b16e10499a2584b0b0a5c15dd:
+    1:
+      automaticArea: true
+  f819bd8fcab7115040bef6cf963f4ef5da343f00:
+    2:
+      automaticArea: true
+    6:
+      automaticArea: true
+    4:
+      automaticArea: false
+  7fc1b08d336798d034bce920591cf3613a3cd218:
+    1:
+      automaticArea: false
+  72b174b3832303f2973606b440ef42321d445ae6:
+    4:
+      automaticArea: false
+    2:
+      automaticArea: false
+  6ef6180a6f5a3c7ada476e64f8c6ebbedbd03edd:
+    6:
+      automaticArea: true
+  932c8b8279be82deaf1dd6856e295735bbe73491:
+    5:
+      automaticArea: false
+  3f6a04427e80c9c40227f6e5f7797c4387f02982:
+    7:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: true
+  bc43a31bddc709f634eca92c944f1bfe7c4f52b6:
+    2:
+      automaticArea: true
+    5:
+      automaticArea: false
+    4:
+      automaticArea: false
+    8:
+      automaticArea: true
+  5b3dddd664916361b6685d4b35d38ed2c0e29cb2:
+    1:
+      automaticArea: true
+  0e943fb8206bed6c15233711e622f8c1a8c3e65f:
+    1:
+      automaticArea: true
+  71692e03f458d139a3db457488869d6018d2938e:
+    3:
+      automaticArea: false
+  cda870bdf344acb3b39589494a0fa44cfc5ea92d:
+    1:
+      automaticArea: true
+  ab6891acc0bbe17d5697b8bf99c29a6d54f89bcf:
+    5:
+      automaticArea: true
+  147b01110432b812438c7bedf6f456bdaaf25835:
+    2:
+      automaticArea: false
+    5:
+      automaticArea: false
+    6:
+      automaticArea: false
+    3:
+      automaticArea: false
+  338d004e00583681c71035abd06ffdc1928040e4:
+    2:
+      automaticArea: false
+  64acfc690bdfbfc02bf27b61d94f3b4475cee042:
+    5:
+      automaticArea: true
+    3:
+      automaticArea: true
+  684db6d24e35bb56b2642c1818cb374c7bbbe61c:
+    3:
+      automaticArea: false
+  b52927935fea7573021369459f9d7badfd70761a:
+    1:
+      automaticArea: true
+once-tutorial-preset: true
+preset-tutorial-stage: 3
 completed-stories:
+  13_alabasta/p5/1: true
+  14_jaya/p3/jaya_story_19: true
+  13_alabasta/p6/1: true
+  14_jaya/p4/jaya_story_26: true
+  14_jaya/p5/jaya_story_29: true
+  12_alabasta/p7/14: true
+  16_sabaody/p5/1: true
+  11_drum/p4/16: true
+  10_little/p5/1: true
+  13_alabasta/p3/1: true
+  12_alabasta/p6/1: true
+  11_drum/p5/1: true
+  13_alabasta/p2a/1: true
+  12_alabasta/p3a/1: true
   12_alabasta/p5/1: true
   9_whisky/p2/1: true
-  14_jaya/p1/jaya_story_1: true
-  12_alabasta/p4/1: true
-  17_amazon/p1/1: true
+  event_germa/p3/3: true
+  event_germa/p4/4: true
+  event_germa/p4/1: true
   9_whisky/p1/1: true
   9_whisky/p2a/1: true
   12_alabasta/p2/1: true
@@ -2565,79 +2573,93 @@ completed-stories:
   13_alabasta/p6a/1: true
   15_water7/p4/1: true
   15_water7/p5/1: true
-  13_alabasta/p5/1: true
-  14_jaya/p3/jaya_story_19: true
-  13_alabasta/p6/1: true
-  14_jaya/p4/jaya_story_26: true
-  14_jaya/p5/jaya_story_29: true
-  12_alabasta/p7/14: true
-  16_sabaody/p5/1: true
-  11_drum/p4/16: true
-  10_little/p5/1: true
-  13_alabasta/p3/1: true
-  12_alabasta/p6/1: true
-  11_drum/p5/1: true
-  13_alabasta/p2a/1: true
-  12_alabasta/p3a/1: true
-  11_drum/p3/1: true
-  event_germa/p1/9: true
-  event_germa/p3/3: true
-  event_germa/p4/4: true
-  event_germa/p4/1: true
-  event_germa/p3/1: true
-  event_germa/p2/6: true
-  event_germa/p2/1: true
-  event_germa/p1/15: true
-  event_germa/p1/6: true
-  event_germa/p1/1: true
-  event_summer/p2/p6-2: true
-  event_summer/p2/p5-1: true
-  event_summer/p2/p4-1: true
-  event_summer/p2/p3-1: true
-  event_summer/p2/p2-1: true
-  event_summer/p2/1: true
-  waiting: true
-  13_alabasta/p1/1: true
-  10_little/p1/1: true
-  9_whisky/p4/1: true
-  10_little/p2/1: true
-  17_amazon/p3/1: true
-  15_water7/p3/1: true
-  10_little/p3/1: true
-  16_sabaody/p2/1: true
-  15_water7/p7/1: true
-  2_morgan/p6/1: true
-  17_amazon/p2/1: true
-  11_drum/p2/1: true
-  3_buggy/p2/1: true
-  1_alvida/p1/1: true
-  1_alvida/p3/1: true
-  3_buggy/p3/1: true
-  2_morgan/p1/1: true
-  3_buggy/p1/1: true
-  2_morgan/p2/1: true
-  2_morgan/p4/1: true
-  3_buggy/p7/1: true
-  3_buggy/p6/1: true
-  1_alvida/p2/1: true
-  3_buggy/p5/1: true
-  3_buggy/p4/1: true
-  9_whisky/p6/1: true
-  2_morgan/p5/1: true
-  13_alabasta/p4/1: true
   event_easter/carrot_blackmarket/01: true
-  continue: true
+  waiting: true
   tobecontinued: true
   15_water7/p6/1: true
   2_morgan/p3/1: true
   12_alabasta/p1/1: true
   15_water7/p1/1: true
+  island_events/wanted_pirates/marine_invasion001.png: true
+  continue: true
+  13_alabasta/p4/1: true
+  2_morgan/p5/1: true
+  9_whisky/p6/1: true
+  3_buggy/p4/1: true
+  3_buggy/p5/1: true
+  1_alvida/p2/1: true
+  3_buggy/p6/1: true
+  3_buggy/p7/1: true
+  2_morgan/p4/1: true
+  2_morgan/p2/1: true
+  3_buggy/p1/1: true
+  2_morgan/p1/1: true
+  3_buggy/p3/1: true
+  1_alvida/p3/1: true
+  1_alvida/p1/1: true
+  3_buggy/p2/1: true
+  11_drum/p2/1: true
+  17_amazon/p2/1: true
+  2_morgan/p6/1: true
+  15_water7/p7/1: true
+  16_sabaody/p2/1: true
+  10_little/p3/1: true
+  15_water7/p3/1: true
+  17_amazon/p3/1: true
+  10_little/p2/1: true
+  9_whisky/p4/1: true
+  10_little/p1/1: true
+  13_alabasta/p1/1: true
+  event_summer/p2/1: true
+  event_summer/p2/p2-1: true
+  event_summer/p2/p3-1: true
+  event_summer/p2/p4-1: true
+  event_summer/p2/p5-1: true
+  event_summer/p2/p6-2: true
+  event_germa/p1/1: true
+  event_germa/p1/6: true
+  event_germa/p1/15: true
+  event_germa/p2/1: true
+  event_germa/p2/6: true
+  event_germa/p3/1: true
+  11_drum/p3/1: true
+  event_germa/p1/9: true
+  17_amazon/p1/1: true
+  12_alabasta/p4/1: true
+  14_jaya/p1/jaya_story_1: true
+useitems:
+  useItem2: 12668
+  useItem1: 4569
+windowedResolution:
+  height: 1080
+  width: 1920
+lastChatConfig:
+  size:
+    height: 514
+    width: 766
+bossLifeBarPos:
+  x: 657
+  y: 0
+shop_sales:
+  data:
+    164: true
+    133: true
+    149: true
+  viewed:
+    164: true
+    133: true
+    149: true
+  banner: https://i.imgur.com/aINoq02.png
+hiddenCurrencies: false
+worldboss_difficulty:
+  invasion: hard
+  bounty: extreme
 dungeon_last_mission:
-  mode: event
   id: germa66_hard
   selectedDifficulty: normal
-  difficultyId: elite
   selectedGroup: solo
+  difficultyId: elite
+  mode: story
 game_chat:
   messageHistory:
     - manda pt
@@ -2685,102 +2707,83 @@ game_chat:
     - pq
     - wash, se vai ultar o coisa em linha reta cara
     - usa para baix
-windowedResolution:
-  width: 1920
-  height: 1080
-shop_sales:
-  data:
-    93: true
-    73: true
-    175: true
-    164: true
-    133: true
-    149: true
-  banner: https://i.imgur.com/aINoq02.png
-  viewed:
-    93: true
-    73: true
-    175: true
-    164: true
-    149: true
-    133: true
+    - tem vaga ainda para os boss semanal elite?
+    - kkkkk
+    - 4
+    - 1
+    - vlw
+    - dn
+quest-options:
+  hideCollected: true
+  expanded: true
+  hideTrackers: false
 lastChannelsOpen:
   Yzzil:
-    Aliança: 11
     Grupos: 3
-lastChatConfig:
-  size:
-    width: 766
-    height: 514
+    Aliança: 11
 viplist-categories-ff8f86d66f1544fb46bb0d3d461874901541023a:
   -
     name: Geral
     order: 1
     id: default
-worldboss_difficulty:
-  bounty: extreme
-  invasion: hard
 MDIWindows:
   joinWindow:
     parentId: gameRightPanel
+    isLocked: false
     isMinimized: false
     mdiDockIndex: 2
-    isLocked: false
-    position:
-      y: 0
-      x: 0
     size:
-      width: 190
       height: 300
+      width: 190
     isClosed: true
+    position:
+      x: 0
+      y: 0
   container0:
     parentId: gameRightPanel
-    isMinimized: false
-    mdiDockIndex: 4
     isLocked: true
     position:
-      y: 204
       x: 1726
+      y: 204
+    mdiDockIndex: 4
     size:
-      width: 190
       height: 253
+      width: 190
     isClosed: false
+    isMinimized: false
   vipWindow:
     parentId: gameRightPanel
-    isMinimized: false
-    mdiDockIndex: 1
     isLocked: true
     position:
-      y: 0
       x: 0
+      y: 0
+    mdiDockIndex: 1
     size:
-      width: 190
       height: 456
+      width: 190
     isClosed: true
-bossLifeBarPos:
-  y: 0
-  x: 657
+    isMinimized: false
 window:
+  fullscreen: true
+  position:
+    x: 640
+    y: 300
+  size:
+    height: 480
+    width: 640
   borderless: true
   maximized: false
-  position:
-    y: 300
-    x: 640
-  size:
-    width: 640
-    height: 480
-  fullscreen: true
 sgpproxies:
   RnxLBWpjV3hFWHF1
     dataCenter: HDsNGjo5Cg==
-    pubPing: 163
-    privPing: 137
-    lastPubPingAtMs: 1786291538005
-    lastSeenAt: 1786291468
+    pubPing: 12
+    privPing: 139
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    lastUsedAtMs: 1787443230953
     failedLastConnectPing: false
     ports:
       - 7001
@@ -2789,14 +2792,14 @@ sgpproxies:
       - 7000
   QnpSGW1lV3tETmt1Yg==
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 6
-    privPing: 1
-    lastPubPingAtMs: 1786291433684
-    lastSeenAt: 1786291468
+    pubPing: 12
+    privPing: 3
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786291297643
+    lastUsedAtMs: 1787443230953
     failedLastConnectPing: false
     ports:
       - 7001
@@ -2805,14 +2808,14 @@ sgpproxies:
       - 7003
   QnpWGWpiTWRCQGtyZgQ=
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 123
+    pubPing: 116
     privPing: 117
-    lastPubPingAtMs: 1786291466868
-    lastSeenAt: 1786291468
+    lastPubPingAtMs: 1787517681750
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786291435541
+    lastUsedAtMs: 1787517426888
     failedLastConnectPing: false
     ports:
       - 7001
@@ -2821,46 +2824,30 @@ sgpproxies:
       - 7000
   QnVQGWphQGRBQXxtZQY=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 155
+    pubPing: 12
     privPing: 110
-    lastPubPingAtMs: 1786291537981
-    lastSeenAt: 1786291468
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786239014378
+    lastUsedAtMs: 1787443220241
     failedLastConnectPing: false
     ports:
       - 7003
       - 7001
       - 7002
       - 7000
-  R3tLBm9/SHpDWHd2
-    dataCenter: GyIWQzM0AGceGg==
-    pubPing: 219
-    privPing: 187
-    lastPubPingAtMs: 1786291538254
-    lastSeenAt: 1786291468
-    contextId: productionv2
-    starter: false
-    avoidUntilAtMs: 0
-    lastUsedAtMs: 0
-    failedLastConnectPing: false
-    ports:
-      - 7003
-      - 7001
-      - 7000
-      - 7002
   QnpSGW1lV3tEQWt1YA==
     dataCenter: HywRXiwkHS9dBSQs
     pubPing: 9
     privPing: 0
-    lastPubPingAtMs: 1786291467113
-    lastSeenAt: 1786291468
+    lastPubPingAtMs: 1787517681769
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786291435541
+    lastUsedAtMs: 1787517410893
     failedLastConnectPing: false
     ports:
       - 7000
@@ -2869,14 +2856,14 @@ sgpproxies:
       - 7003
   QnlSGWliTGRBQ2t1Zg==
     dataCenter: HDsNGi44Fw==
-    pubPing: 135
-    privPing: 130
-    lastPubPingAtMs: 1786291537977
-    lastSeenAt: 1786291468
+    pubPing: 12
+    privPing: 126
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786239054623
+    lastUsedAtMs: 1787443058352
     failedLastConnectPing: false
     ports:
       - 7000
@@ -2885,14 +2872,14 @@ sgpproxies:
       - 7001
   QnlRGWpgTmRBRmtyZQU=
     dataCenter: HDsNGjo5Cg==
-    pubPing: 148
+    pubPing: 12
     privPing: 143
-    lastPubPingAtMs: 1786291537990
-    lastSeenAt: 1786291468
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 0
+    lastUsedAtMs: 1787443085483
     failedLastConnectPing: false
     ports:
       - 7003
@@ -2901,30 +2888,30 @@ sgpproxies:
       - 7000
   QnpWGWphQWRJTmtyYQ==
     dataCenter: HCMARyo+DyMUEzduPUla
-    pubPing: 136
-    privPing: 113
-    lastPubPingAtMs: 1786291580838
-    lastSeenAt: 1786291468
+    pubPing: 12
+    privPing: 111
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786291467650
+    lastUsedAtMs: 1787443203315
     failedLastConnectPing: false
     ports:
-      - 7001
-      - 7003
-      - 7002
       - 7000
+      - 7003
+      - 7001
+      - 7002
   QnpSGW1lV3tEQmtyYgY=
     dataCenter: HywRXiwkHS9dBSQs
-    pubPing: 6
-    privPing: 0
-    lastPubPingAtMs: 1786291580918
-    lastSeenAt: 1786291468
+    pubPing: 12
+    privPing: 1
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786291467650
+    lastUsedAtMs: 1787443203315
     failedLastConnectPing: false
     ports:
       - 7001
@@ -2933,14 +2920,14 @@ sgpproxies:
       - 7003
   QnlSGWliTGRBWHR2ZQ==
     dataCenter: HDsNGi44Fw==
-    pubPing: 135
-    privPing: 127
-    lastPubPingAtMs: 1786291537977
-    lastSeenAt: 1786291468
+    pubPing: 116
+    privPing: 129
+    lastPubPingAtMs: 1787517667623
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786239876000
+    lastUsedAtMs: 1787517410893
     failedLastConnectPing: false
     ports:
       - 7001
@@ -2949,17 +2936,33 @@ sgpproxies:
       - 7000
   QnVQGWphQGRBQXxtZQI=
     dataCenter: HywRXiwkHS9dGDwg
-    pubPing: 136
+    pubPing: 12
     privPing: 110
-    lastPubPingAtMs: 1786291433681
-    lastSeenAt: 1786291468
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
     contextId: productionv2
     starter: false
     avoidUntilAtMs: 0
-    lastUsedAtMs: 1786291297643
+    lastUsedAtMs: 1787443247862
     failedLastConnectPing: false
     ports:
       - 7003
       - 7002
       - 7001
       - 7000
+  R3tLBm9/SHpDWHd2
+    dataCenter: GyIWQzM0AGceGg==
+    pubPing: 15
+    privPing: 186
+    lastPubPingAtMs: 1787517667032
+    lastSeenAt: 1787517411
+    contextId: productionv2
+    starter: false
+    avoidUntilAtMs: 0
+    lastUsedAtMs: 1787258139766
+    failedLastConnectPing: false
+    ports:
+      - 7002
+      - 7001
+      - 7000
+      - 7003
